@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ExoAIM</title>
+    <link>http://localhost:56406/</link>
+      <atom:link href="http://localhost:56406/index.xml" rel="self" type="application/rss+xml" />
+    <description>ExoAIM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:56406/media/icon_hu_7814481d329322fb.png</url>
+      <title>ExoAIM</title>
+      <link>http://localhost:56406/</link>
+    </image>
+    
+    <item>
+      <title>Hot Jupiters and Gaseous Planets</title>
+      <link>http://localhost:56406/research/hot_jupiters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/research/hot_jupiters/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+Hot Jupiters are giant planets orbiting extremely close to their stars. While originally not predicted to exist, they have been central to exoplanet atmospheric research since the field’s beginnings. Their high temperatures, inflated atmospheres, and strong irradiation also make them ideal natural laboratories for testing theories of atmospheric physics and chemistry under extreme conditions. Because they produce strong and frequent transit and eclipse signals, Hot Jupiters are among the best-characterized exoplanets to date. They provide insights into the diversity of planetary atmospheres beyond our Solar System.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+For our group, Hot Jupiters serve as benchmark targets for developing and validating advanced modeling and retrieval frameworks. Their rich spectra - obtained from missions like Hubble, Spitzer, and JWST - enable us to rigorously test radiative transfer models, chemistry, aerosols, and dynamical models against real data. By comparing retrieval results with forward models that incorporate processes like radiative forcing, chemistry, heat redistribution, and atmospheric dynamics, we refine our understanding of how complex atmospheric processes interact, and we improve predictions for future missions like Ariel.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+In particular, our group has developed pionering retrieval techniques to exploit the spectroscopic phase-curves of Hot jupiters. Because Hot jupiters are tidally locked, their atmospheres experiences extreme conditions, with temperature gradients between their permanent dayside and permanent nightside reaching thousands of degrees. This drives extreme dynamics that can be captured in phase-curves. Specifically, phase-curve consists in observing the planet along an entire orbite, essentially scanning its 3D thermal emission to construct maps of its atmospheric properties. The information from these data are crutial to providing initial conditions, forcing, and benchmarks to atmospheric dynamics models.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Beyond their role as testbeds, Hot Jupiters are also key to addressing fundamental questions in planetary formation and evolution. Their inflated radii, orbital configuration, and observed atmospheric compositions provide clues about their formation and evolution. By studying these planets in detail, and importantly searching for correlations in their observed properties, we can understand their origins and extend our formation models to the solar system, and to smaller, cooler, and more complex worlds. In this sense, Hot Jupiter are the cornerstone of our group’s effort to bridge detailed atmospheric modeling with large-scale statistical insights into the nature of exoplanets.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Super-Earths, Sub-Neptunes, and Transitional Exoplanets</title>
+      <link>http://localhost:56406/research/transitional_worlds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/research/transitional_worlds/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+Transitional exoplanets are planets that occupy the intermediate range between the well-defined classes that are Super-Earths and Sub-Neptunes. Super-Earths are rocky planets, while Sub-Neptunes are gaseous planets with hydrogen-rich atmospheres. Transitional planets are of unknown composition: they typically fall in the size range of about 1.5 to 3 Earth radii, where the distinction between rocky planets and gas-enveloped planets becomes blurred. They are of particular interest because they may represent evolutionary stages between terrestrial and gas-rich planets - a key regime to understanding how planetary atmospheres form, evolve, and sometimes dissipate over time.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+One of the major challenges in studying small exoplanets lies in accurately determining their composition and internal structure: are they mainly rocky, gaseous, or even full of ice and water? Radius and mass measurements alone cannot definitively reveal whether such a planet is a dense rocky core with a thin gaseous envelope, or a volatile-rich body with a significant hydrogen-helium atmosphere. At ExoAIM, we study the atmospheres of these small exoplanets using spectra from JWST to determine their composition. This adds a third constraint that can help up differenciate these worlds. 
+&lt;p&gt;This small planet regime is difficult. It is compounded by observational uncertainties: current instruments often have limited precision in measuring small variations in planetary mass and radius, especially for faint host stars. As a result, even small errors can drastically alter interpretations of a planet’s bulk composition. We therefore work on understanding instrumental systematics as best as possible to ensure robust interpretation.&lt;/p&gt;
+&lt;p&gt;Stellar activity — such as flares and spots — also enters the equation: these effects can contaminate transit spectra, masking or mimicking atmospheric signals; especially as most of these small planets are studied around active M-type stars. We are therefore interested in studying the host stars and developing techniques to account for contamination effects. Additionally, the intermediate temperatures of these planets often mean that condensates and aerosols form in their atmospheres, flattening out spectral features and complicating retrievals of molecular abundances.&lt;/p&gt;
+&lt;p&gt;Studying these transitional planets is challenging, but crutial to the advancement of our planetary understanding. Existing planet formation and evolution models struggle to explain the observed &amp;ldquo;radius valley&amp;rdquo; — a gap in the distribution of exoplanet sizes that separates super-Earths and mini-Neptunes - and the &amp;ldquo;Sub-Neptune desert&amp;rdquo; - a statistical lack of short orbit Sub-Neptune size exoplanets. Competing hypotheses, such as photoevaporation driven by stellar radiation and core-powered mass loss, each predict different evolutionary pathways for transitional planets and different atmospheric compositions. Disentangling these processes requires to study the atmospheres of many of these planets across a wide range of planetary ages and stellar environments.&lt;/p&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Atmospheric Modelling</title>
+      <link>http://localhost:56406/research/atmospheric_modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/research/atmospheric_modeling/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+Understanding the physics and chemistry of exoplanet atmospheres relies on advanced numerical modeling and simulation. As atmopsheres are complex systems, these models include components from many complementary areas of physics: radiative transfer, thermodynamics, chemistry, fluids, and orbital dynamics. Sucessfully combining these allows us to capture the wide diversity of atmospheric behaviors found beyond the Solar System. By coupling these models with observational data from cutting-edge telescopes, we seek to identify the key physical and chemical processes that shape exoplanet climates, from hot Jupiters with extreme irradiation to temperate terrestrial worlds.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+A central aspect of our work involves integrating modeling into atmospheric retrieval frameworks — the inverse methods that connect observed spectra to atmospheric properties. By improving the physical realism of these models and testing the assumptions underlying retrieval techniques, we aim to enhance the accuracy and interpretability of inferred parameters such as temperature structures, molecular abundances, and cloud properties. This synergy between forward modeling and retrieval analysis ensures that our interpretations of exoplanet atmospheres are both rigorous and physically sound. At ExoAIM, we often combine information-oriented approaches (driven mainly by the data and using less physical assumptions) to state-of-the-art self-consistent modeling approaches (using physically motivated models) to test our level of understanding of exo-atmospheric physics.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Beyond data-driven modeling, our group also investigates more fundamental and theoretical aspects. We model dynamics and radiative processes that govern atmospheric behavior from first principles. For instance, in recent works, we utilized idealized (but powerful) mathematical frameworks — such as the primitive equations or the shallow-water equations - to study the large-scale circulation patterns of exo-atmospheres under stellar forcing. These theoretical studies allow to probe how rotation, irradiation, and internal waves shape the global planetary flows. Importantly, we conduct these numerical explorations using high spacio-temporal resolutions (10-50 km grids with seconds timesteps) to resolve the shortest relevant scales. In parallel, we work on radiative transfer and energy balance aspects to explore how radiation interacts with complex atmospheric chemistry. Together, these studies advance both the theoretical and applied understanding of exoplanetary atmospheres, providing the foundation for interpreting the next generation of observations.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Atmospheric Retrieval Development</title>
+      <link>http://localhost:56406/research/retrievals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/research/retrievals/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+Atmospheric retrievals refer to a set of computational and statistical techniques used to infer the physical and chemical properties of a planet’s atmosphere from observed spectra. We observe exoplanets with powerful spectrographs oboard space and ground-based telescopes to measure their spectra. These spectra encode the properties of the atmosphere, but they are not directly interpretable; they must be inverted (i.e., retrieved) to extract information such as temperature, chemistry, aerosols, and other atmospheric properties. 
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+In atmospheric retrievals, millions of forward model---predicting what a planet’s spectrum should look like for a given set of atmospheric conditions---are tested to evaluate which sets of the free parameters best match the observed spectrum. At ExoAIM, we test for the effects of molecular absorption, scattering from clouds, and the temperature distributions. We use modern Bayesian statistical frameworks, such as Nested Sampling, to optimize our exploration: the model parameters are iteratively adjusted to find the best-fitting atmospheric state and provides probability distributions (posterior estimates). We have sucessfully applied these techniques on 100s of exoplanets, constraining quantities such as the abundances of water vapor, methane, carbon dioxide, and the planet’s temperature-pressure profile.
+&lt;p&gt;In collaboration with UCL and KCL, we are the architects of the open-source project TauREx. TauREx is the most advanced exoplanet atmosphere simulation and retrieval platform. It is trusted by 100s of scientists and it is available for all: &lt;a href=&#34;https://taurex.space/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out TauREx here&lt;/a&gt;. TauREx is used for high-impact research and discoveries. In Groningen, we develop the main core code and maintain a number of plugins allowing advanced modeling and retrievals of exoplanet data.&lt;/p&gt;
+&lt;p&gt;Atmospheric retrievals are crucial for understanding exo-atmospheres, which in turn can be used to constrain planetary formation, evolution, and potential habitability. By comparing the atmospheric compositions of many exoplanets across different sizes, temperatures, and host star types, we can test models of planet formation and migration. For example, detecting certain molecular ratios like carbon-to-oxygen can reveal where in a protoplanetary disk a planet formed. We utilize retrievals to explore the performances of next-generation observatories such as Ariel and inform their design to answer foundamental questions about the universe.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Check out our atmospheric retrieval code TauREx v3.2: &lt;a href=&#34;https://taurex.space/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Website&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Statistics and Data Challenges</title>
+      <link>http://localhost:56406/research/stats_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/research/stats_data/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+Atmospheric retrievals are statistical methods requiring the exploration of distance functions (likelihood) over large dimentional parameter space. This task is very computational, demanding advanced statistical methods and/or machine learning approach. At ExoAIM, we explore these aspects by collaborating with experts of these fields, and by conduting open data challenges to search for novel methods.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+With the advent of JWST, the data information content has increased drastically, requiring more complex forward models to be fitted to the data. This implies that larger parameter spaces needs to be explored, with models that are computationally more demanding. To overcome these challenges, modern retrieval techniques have used alternative techniques to the traditional Nested Sampling approach.
+&lt;p&gt;We are involved in developing novel methods, including Variational Inference and Surrogate Models. Variational inference leverages differentiable forward models to transform the sampling problem into an optmization problem. It is a promising approach to accelerate Bayesian atmospheric retrievals.&lt;/p&gt;
+&lt;p&gt;We also participate in the definition and organization of data challenges. These events open exoplanet problems to alternative communities. We promote the participation of experts in machine learning, statistics, and other methods to find novel techniques. In the 2022 Ariel Data Challenge, participants were tasked to solve the atmospheric retrieval problem using alternative AI-powered approaches.&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Check out the Ariel data challenge website: &lt;a href=&#34;https://www.ariel-datachallenge.space/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Website&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ESA&#39;s Ariel Space Telescope</title>
+      <link>http://localhost:56406/research/ariel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/research/ariel/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+ESA’s mission Ariel, Atmospheric Remote-sensing Infrared Exoplanet Large-survey, is an upcoming dedicated telescope that will study 1000s of exoplanet atmospheres, from small rocky worlds to large gas giants. Ariel will provide high-quality observations to constrain the chemistry, reveal the presence of clouds, and monitor how weather conditions on these planets change over time. Currently under construction, Ariel is planned to be launched at the end of the decade. 
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+The mission’s primary goal is to uncover the physical and chemical diversity of exoplanetary atmospheres and to understand the processes that govern their formation and evolution. By observing hundreds of exoplanets with consistent instrumentation and methodology, the Ariel team hopes to uncover chemical trends that trace the origins of planets and explain how they have formed: this objective is not achievable with any other single-target missions. The homogeneous Ariel dataset will allow us to explore correlations between atmospheric properties, planetary characteristics, and stellar environments—shedding light on the connections between planet formation, migration, and atmospheric composition.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Our group has been deeply involved in Ariel since 2018. We contributes to the scientific preparation of the mission through modeling and retrieval studies that help interpret its forthcoming observations. Members of our team leds various Ariel working groups: Atmospheric retrieval, JWST/Ariel synergies. We work on developing and refining atmospheric models, radiative transfer tools, and retrieval frameworks tailored to Ariel’s spectral capabilities: our retrieval code TauREx is heavily used by the Ariel consortium. These efforts aim to not only guide the mission&#39;s scientific objectives, but also to ensure that once data arrive, the community can robustly infer atmospheric compositions, temperature profiles, and cloud properties. Ariel’s legacy will be a transformative understanding of exoplanet atmospheres, built on the foundation of both precise measurements and physically grounded models.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>James Webb Space Telescope</title>
+      <link>http://localhost:56406/research/jwst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/research/jwst/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
+The James Webb Space Telescope (JWST) has ushered in a new era in exoplanetary science, providing an unprecedented view of distant worlds through its broad wavelength coverage and exquisite sensitivity. With instruments such as NIRSpec, NIRCam, and MIRI, JWST allows detailed spectroscopic observations across the near- and mid-infrared, where key molecular features — like water vapor, carbon dioxide, methane, and more complex species—are most prominent.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+JWST the first facility able to probe exoplanet atmospheres with the precision needed to explore their chemical and thermal structures in depth. This is a significant step forward, compared to past facilities like Hubble Space Telescope and Spitzer.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+For our group, JWST represents a transformative opportunity to test and refine atmospheric models and retrieval techniques. We work on data reduction and processing of JWST time series (from transit, eclipde, and phase-curves) and also directly imaged observations. These datas allow to infer the properties of exoplanets and test our modeling frameworks. We aim to bridge the gap between raw observations and physical understanding, ensuring that the insights drawn from JWST spectra are robust and meaningful.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Beyond individual targets, JWST also enables comparative exoplanetology — the study of atmospheric diversity across a population of planets. Our research leverages this potential by connecting observational trends to underlying processes such as irradiation, metallicity, and atmospheric circulation. The results from JWST are not only reshaping our view of well-studied planets like hot Jupiters, but also providing a foundation for the statistical surveys that will follow with Ariel. Together, JWST and future missions will allow us to build a coherent picture of atmospheric physics across the full spectrum of exoplanet types.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Example Event</title>
+      <link>http://localhost:56406/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radiative Flux from a High-resolution Atmospheric Dynamics Simulation of a Hot Jupiter for JWST and Ariel</title>
+      <link>http://localhost:56406/publication/kafle2025_radiativehj/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/publication/kafle2025_radiativehj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
+      <link>http://localhost:56406/publication/changeat2025_aerosols/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/publication/changeat2025_aerosols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unique insights on the atmosphere of a white dwarf exoplanet.</title>
+      <link>http://localhost:56406/post/2025_10_25_voyer_wdnews/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/post/2025_10_25_voyer_wdnews/</guid>
+      <description>&lt;p&gt;A study reveals the atmospheric properties of a Jupiter-like planet, WD 0806-661 b, which orbits a white dwarf.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Maël Voyer and collaborators have published a new study unveiling the atmospheric properties of WD 0806-661 b, a unique, cold exoplanet which orbits a white dwarf, aka a dead star. 
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Using JWST/MIRI Low-Resolution Spectroscopy, the team detected key molecular features of water, ammonia and methane that shed light on the planet’s composition, temperature structure, and cloud properties. This exotic system provides a unique opportunity to explore how planetary systems evolve after the main sequence of the host star. Their work demonstrates JWST’s exceptional sensitivity to faint, cold worlds and provides a benchmark for studying Y-dwarf–like exoplanets and white dwarf systems in the coming years.
+&lt;/p&gt;
+&lt;p&gt;Read the full paper: &lt;a href=&#34;https://iopscience.iop.org/article/10.3847/2041-8213/adbd46&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
+      <link>http://localhost:56406/publication/voyer2025_wd/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/publication/voyer2025_wd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:56406/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://localhost:56406/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>http://localhost:56406/tour/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>http://localhost:56406/publication_examples/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/publication_examples/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>http://localhost:56406/publication_examples/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/publication_examples/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://localhost:56406/publication_examples/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/publication_examples/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:56406/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

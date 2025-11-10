@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rens Waters | ExoAIM</title>
+    <link>http://localhost:56406/author/rens-waters/</link>
+      <atom:link href="http://localhost:56406/author/rens-waters/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rens Waters</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:56406/media/icon_hu_7814481d329322fb.png</url>
+      <title>Rens Waters</title>
+      <link>http://localhost:56406/author/rens-waters/</link>
+    </image>
+    
+    <item>
+      <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
+      <link>http://localhost:56406/publication/voyer2025_wd/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56406/publication/voyer2025_wd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
