@@ -32,7 +32,7 @@ sections:
           icon: circle-user
           icon_pack: fas
           text: People
-          url: people
+          url: https://groningen-exoatmospheres.github.io/website/people/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
