@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pascal Tremblin | ExoAIM</title>
-    <link>http://localhost:61893/author/pascal-tremblin/</link>
-      <atom:link href="http://localhost:61893/author/pascal-tremblin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64537/author/pascal-tremblin/</link>
+      <atom:link href="http://localhost:64537/author/pascal-tremblin/index.xml" rel="self" type="application/rss+xml" />
     <description>Pascal Tremblin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:61893/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:64537/media/icon_hu_7814481d329322fb.png</url>
       <title>Pascal Tremblin</title>
-      <link>http://localhost:61893/author/pascal-tremblin/</link>
+      <link>http://localhost:64537/author/pascal-tremblin/</link>
     </image>
     
     <item>
       <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
-      <link>http://localhost:61893/publication/voyer2025_wd/</link>
+      <link>http://localhost:64537/publication/voyer2025_wd/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/publication/voyer2025_wd/</guid>
+      <guid>http://localhost:64537/publication/voyer2025_wd/</guid>
       <description></description>
     </item>
     

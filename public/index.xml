@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ExoAIM</title>
-    <link>http://localhost:61893/</link>
-      <atom:link href="http://localhost:61893/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64537/</link>
+      <atom:link href="http://localhost:64537/index.xml" rel="self" type="application/rss+xml" />
     <description>ExoAIM</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:61893/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:64537/media/icon_hu_7814481d329322fb.png</url>
       <title>ExoAIM</title>
-      <link>http://localhost:61893/</link>
+      <link>http://localhost:64537/</link>
     </image>
     
     <item>
       <title>Hot Jupiters and Gaseous Planets</title>
-      <link>http://localhost:61893/research/hot_jupiters/</link>
+      <link>http://localhost:64537/research/hot_jupiters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/research/hot_jupiters/</guid>
+      <guid>http://localhost:64537/research/hot_jupiters/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
 Hot Jupiters are giant planets orbiting extremely close to their stars. While originally not predicted to exist, they have been central to exoplanet atmospheric research since the field’s beginnings. Their high temperatures, inflated atmospheres, and strong irradiation also make them ideal natural laboratories for testing theories of atmospheric physics and chemistry under extreme conditions. Because they produce strong and frequent transit and eclipse signals, Hot Jupiters are among the best-characterized exoplanets to date. They provide insights into the diversity of planetary atmospheres beyond our Solar System.
 &lt;/p&gt;
@@ -33,9 +33,9 @@ Beyond their role as testbeds, Hot Jupiters are also key to addressing fundament
     
     <item>
       <title>Super-Earths, Sub-Neptunes, and Transitional Exoplanets</title>
-      <link>http://localhost:61893/research/transitional_worlds/</link>
+      <link>http://localhost:64537/research/transitional_worlds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/research/transitional_worlds/</guid>
+      <guid>http://localhost:64537/research/transitional_worlds/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
 Transitional exoplanets are planets that occupy the intermediate range between the well-defined classes that are Super-Earths and Sub-Neptunes. Super-Earths are rocky planets, while Sub-Neptunes are gaseous planets with hydrogen-rich atmospheres. Transitional planets are of unknown composition: they typically fall in the size range of about 1.5 to 3 Earth radii, where the distinction between rocky planets and gas-enveloped planets becomes blurred. They are of particular interest because they may represent evolutionary stages between terrestrial and gas-rich planets - a key regime to understanding how planetary atmospheres form, evolve, and sometimes dissipate over time.
 &lt;/p&gt;
@@ -49,9 +49,9 @@ One of the major challenges in studying small exoplanets lies in accurately dete
     
     <item>
       <title>Atmospheric Modelling</title>
-      <link>http://localhost:61893/research/atmospheric_modeling/</link>
+      <link>http://localhost:64537/research/atmospheric_modeling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/research/atmospheric_modeling/</guid>
+      <guid>http://localhost:64537/research/atmospheric_modeling/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
 Understanding the physics and chemistry of exoplanet atmospheres relies on advanced numerical modeling and simulation. As atmopsheres are complex systems, these models include components from many complementary areas of physics: radiative transfer, thermodynamics, chemistry, fluids, and orbital dynamics. Sucessfully combining these allows us to capture the wide diversity of atmospheric behaviors found beyond the Solar System. By coupling these models with observational data from cutting-edge telescopes, we seek to identify the key physical and chemical processes that shape exoplanet climates, from hot Jupiters with extreme irradiation to temperate terrestrial worlds.
 &lt;/p&gt;
@@ -65,9 +65,9 @@ Beyond data-driven modeling, our group also investigates more fundamental and th
     
     <item>
       <title>Atmospheric Retrieval Development</title>
-      <link>http://localhost:61893/research/retrievals/</link>
+      <link>http://localhost:64537/research/retrievals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/research/retrievals/</guid>
+      <guid>http://localhost:64537/research/retrievals/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
 Atmospheric retrievals refer to a set of computational and statistical techniques used to infer the physical and chemical properties of a planet’s atmosphere from observed spectra. We observe exoplanets with powerful spectrographs oboard space and ground-based telescopes to measure their spectra. These spectra encode the properties of the atmosphere, but they are not directly interpretable; they must be inverted (i.e., retrieved) to extract information such as temperature, chemistry, aerosols, and other atmospheric properties. 
 &lt;/p&gt;
@@ -81,9 +81,9 @@ In atmospheric retrievals, millions of forward model---predicting what a planet�
     
     <item>
       <title>Statistics and Data Challenges</title>
-      <link>http://localhost:61893/research/stats_data/</link>
+      <link>http://localhost:64537/research/stats_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/research/stats_data/</guid>
+      <guid>http://localhost:64537/research/stats_data/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
 Atmospheric retrievals are statistical methods requiring the exploration of distance functions (likelihood) over large dimentional parameter space. This task is very computational, demanding advanced statistical methods and/or machine learning approach. At ExoAIM, we explore these aspects by collaborating with experts of these fields, and by conduting open data challenges to search for novel methods.
 &lt;/p&gt;
@@ -97,9 +97,9 @@ With the advent of JWST, the data information content has increased drastically,
     
     <item>
       <title>ESA&#39;s Ariel Space Telescope</title>
-      <link>http://localhost:61893/research/ariel/</link>
+      <link>http://localhost:64537/research/ariel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/research/ariel/</guid>
+      <guid>http://localhost:64537/research/ariel/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
 ESA’s mission Ariel, Atmospheric Remote-sensing Infrared Exoplanet Large-survey, is an upcoming dedicated telescope that will study 1000s of exoplanet atmospheres, from small rocky worlds to large gas giants. Ariel will provide high-quality observations to constrain the chemistry, reveal the presence of clouds, and monitor how weather conditions on these planets change over time. Currently under construction, Ariel is planned to be launched at the end of the decade. 
 &lt;/p&gt;
@@ -113,9 +113,9 @@ Our group has been deeply involved in Ariel since 2018. We contributes to the sc
     
     <item>
       <title>James Webb Space Telescope</title>
-      <link>http://localhost:61893/research/jwst/</link>
+      <link>http://localhost:64537/research/jwst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/research/jwst/</guid>
+      <guid>http://localhost:64537/research/jwst/</guid>
       <description>&lt;p style=&#34;text-align: justify;&#34;&gt;
 The James Webb Space Telescope (JWST) has ushered in a new era in exoplanetary science, providing an unprecedented view of distant worlds through its broad wavelength coverage and exquisite sensitivity. With instruments such as NIRSpec, NIRCam, and MIRI, JWST allows detailed spectroscopic observations across the near- and mid-infrared, where key molecular features — like water vapor, carbon dioxide, methane, and more complex species—are most prominent.
 &lt;/p&gt;
@@ -132,9 +132,9 @@ Beyond individual targets, JWST also enables comparative exoplanetology — the 
     
     <item>
       <title>Example Event</title>
-      <link>http://localhost:61893/event/example/</link>
+      <link>http://localhost:64537/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/event/example/</guid>
+      <guid>http://localhost:64537/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -147,25 +147,25 @@ Beyond individual targets, JWST also enables comparative exoplanetology — the 
     
     <item>
       <title>Radiative Flux from a High-resolution Atmospheric Dynamics Simulation of a Hot Jupiter for JWST and Ariel</title>
-      <link>http://localhost:61893/publication/kafle2025_radiativehj/</link>
+      <link>http://localhost:64537/publication/kafle2025_radiativehj/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/publication/kafle2025_radiativehj/</guid>
+      <guid>http://localhost:64537/publication/kafle2025_radiativehj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:61893/publication/changeat2025_aerosols/</link>
+      <link>http://localhost:64537/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/publication/changeat2025_aerosols/</guid>
+      <guid>http://localhost:64537/publication/changeat2025_aerosols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unique insights on the atmosphere of a white dwarf exoplanet.</title>
-      <link>http://localhost:61893/post/2025_10_25_voyer_wdnews/</link>
+      <link>http://localhost:64537/post/2025_10_25_voyer_wdnews/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/post/2025_10_25_voyer_wdnews/</guid>
+      <guid>http://localhost:64537/post/2025_10_25_voyer_wdnews/</guid>
       <description>&lt;p&gt;A study reveals the atmospheric properties of a Jupiter-like planet, WD 0806-661 b, which orbits a white dwarf.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;
 Maël Voyer and collaborators have published a new study unveiling the atmospheric properties of WD 0806-661 b, a unique, cold exoplanet which orbits a white dwarf, aka a dead star. 
@@ -178,41 +178,41 @@ Using JWST/MIRI Low-Resolution Spectroscopy, the team detected key molecular fea
     
     <item>
       <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
-      <link>http://localhost:61893/publication/voyer2025_wd/</link>
+      <link>http://localhost:64537/publication/voyer2025_wd/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/publication/voyer2025_wd/</guid>
+      <guid>http://localhost:64537/publication/voyer2025_wd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:61893/contact/</link>
+      <link>http://localhost:64537/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/contact/</guid>
+      <guid>http://localhost:64537/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:61893/people/</link>
+      <link>http://localhost:64537/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/people/</guid>
+      <guid>http://localhost:64537/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>http://localhost:61893/tour/</link>
+      <link>http://localhost:64537/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/tour/</guid>
+      <guid>http://localhost:64537/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:61893/publication_examples/preprint/</link>
+      <link>http://localhost:64537/publication_examples/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/publication_examples/preprint/</guid>
+      <guid>http://localhost:64537/publication_examples/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -224,9 +224,9 @@ Using JWST/MIRI Low-Resolution Spectroscopy, the team detected key molecular fea
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:61893/publication_examples/journal-article/</link>
+      <link>http://localhost:64537/publication_examples/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/publication_examples/journal-article/</guid>
+      <guid>http://localhost:64537/publication_examples/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -243,9 +243,9 @@ Using JWST/MIRI Low-Resolution Spectroscopy, the team detected key molecular fea
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:61893/publication_examples/conference-paper/</link>
+      <link>http://localhost:64537/publication_examples/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/publication_examples/conference-paper/</guid>
+      <guid>http://localhost:64537/publication_examples/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -262,9 +262,9 @@ Using JWST/MIRI Low-Resolution Spectroscopy, the team detected key molecular fea
     
     <item>
       <title></title>
-      <link>http://localhost:61893/admin/config.yml</link>
+      <link>http://localhost:64537/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:61893/admin/config.yml</guid>
+      <guid>http://localhost:64537/admin/config.yml</guid>
       <description></description>
     </item>
     
