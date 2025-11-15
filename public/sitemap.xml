@@ -2,240 +2,258 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64976/research/hot_jupiters/</loc>
+    <loc>http://localhost:54973/research/hot_jupiters/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/research/transitional_worlds/</loc>
+    <loc>http://localhost:54973/research/transitional_worlds/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/research/atmospheric_modeling/</loc>
+    <loc>http://localhost:54973/research/atmospheric_modeling/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/research/retrievals/</loc>
+    <loc>http://localhost:54973/research/retrievals/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/research/stats_data/</loc>
+    <loc>http://localhost:54973/research/stats_data/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/research/ariel/</loc>
+    <loc>http://localhost:54973/research/ariel/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/research/jwst/</loc>
+    <loc>http://localhost:54973/research/jwst/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/event/example/</loc>
+    <loc>http://localhost:54973/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/event/</loc>
+    <loc>http://localhost:54973/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/authors/</loc>
+    <loc>http://localhost:54973/authors/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/post/</loc>
+    <loc>http://localhost:54973/post/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/post/2025_11_14_position_exoaim/</loc>
+    <loc>http://localhost:54973/post/2025_11_14_position_exoaim/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/quentin-changeat/</loc>
+    <loc>http://localhost:54973/author/quentin-changeat/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/</loc>
+    <loc>http://localhost:54973/author/aiko-voigt/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/publication-type/article-journal/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/tag/data-reduction/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/tag/gaseous-planets/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/author/ingo-waldmann/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/tag/jwst/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/publication/schleich2025_knobs2/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/author/manuel-gudel/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/publication_types/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/publication/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/author/simon-schleich/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/author/sudeshna-boro-saikia/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/tags/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/tag/transit/</loc>
+    <lastmod>2025-11-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:54973/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/research/</loc>
+    <loc>http://localhost:54973/research/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/ariel/</loc>
+    <loc>http://localhost:54973/tag/ariel/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication-type/article-journal/</loc>
+    <loc>http://localhost:54973/author/jagat-kafle/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/gaseous-planets/</loc>
+    <loc>http://localhost:54973/author/james-y-k.-cho/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/jagat-kafle/</loc>
+    <loc>http://localhost:54973/tag/modeling/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/james-y-k.-cho/</loc>
+    <loc>http://localhost:54973/publication/kafle2025_radiativehj/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/modeling/</loc>
+    <loc>http://localhost:54973/tag/radiative-transfer/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication_types/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/publication/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/publication/kafle2025_radiativehj/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/tag/radiative-transfer/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/tags/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/author/achrene-dyrek/</loc>
+    <loc>http://localhost:54973/author/achrene-dyrek/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/atmospheric-retrievals/</loc>
+    <loc>http://localhost:54973/tag/atmospheric-retrievals/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/billy-edwards/</loc>
+    <loc>http://localhost:54973/author/billy-edwards/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication/changeat2025_aerosols/</loc>
+    <loc>http://localhost:54973/publication/changeat2025_aerosols/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/deborah-bardet/</loc>
+    <loc>http://localhost:54973/author/deborah-bardet/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/jwst/</loc>
+    <loc>http://localhost:54973/author/katy-chubb/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/katy-chubb/</loc>
+    <loc>http://localhost:54973/author/kazumasa-ohno/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/kazumasa-ohno/</loc>
+    <loc>http://localhost:54973/author/olivia-venot/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/olivia-venot/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/tag/transit/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/author/mael-voyer/</loc>
+    <loc>http://localhost:54973/author/mael-voyer/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/post/2025_10_25_voyer_wdnews/</loc>
+    <loc>http://localhost:54973/post/2025_10_25_voyer_wdnews/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/data-reduction/</loc>
+    <loc>http://localhost:54973/tag/direct-imaging/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/direct-imaging/</loc>
+    <loc>http://localhost:54973/author/miri-gto-team/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/miri-gto-team/</loc>
+    <loc>http://localhost:54973/publication/voyer2025_wd/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication/voyer2025_wd/</loc>
+    <loc>http://localhost:54973/author/pascal-tremblin/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/pascal-tremblin/</loc>
+    <loc>http://localhost:54973/author/pierre-olivier-lagage/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/pierre-olivier-lagage/</loc>
+    <loc>http://localhost:54973/author/rens-waters/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/rens-waters/</loc>
-    <lastmod>2025-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/contact/</loc>
+    <loc>http://localhost:54973/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/people/</loc>
+    <loc>http://localhost:54973/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tour/</loc>
+    <loc>http://localhost:54973/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication_examples/preprint/</loc>
+    <loc>http://localhost:54973/publication_examples/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication-type/article/</loc>
+    <loc>http://localhost:54973/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication_examples/</loc>
+    <loc>http://localhost:54973/publication_examples/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/random/</loc>
+    <loc>http://localhost:54973/author/random/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/tag/source-themes/</loc>
+    <loc>http://localhost:54973/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication_examples/journal-article/</loc>
+    <loc>http://localhost:54973/publication_examples/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/robert-ford/</loc>
+    <loc>http://localhost:54973/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication_examples/conference-paper/</loc>
+    <loc>http://localhost:54973/publication_examples/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/publication-type/paper-conference/</loc>
+    <loc>http://localhost:54973/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/admin/</loc>
+    <loc>http://localhost:54973/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>http://localhost:54973/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64976/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/author/giacomo-gallina/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64976/author/simon-schleich/</loc>
+    <loc>http://localhost:54973/author/giacomo-gallina/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

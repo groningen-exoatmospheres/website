@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olivia Venot | ExoAIM</title>
-    <link>http://localhost:64976/author/olivia-venot/</link>
-      <atom:link href="http://localhost:64976/author/olivia-venot/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:54973/author/olivia-venot/</link>
+      <atom:link href="http://localhost:54973/author/olivia-venot/index.xml" rel="self" type="application/rss+xml" />
     <description>Olivia Venot</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:64976/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:54973/media/icon_hu_7814481d329322fb.png</url>
       <title>Olivia Venot</title>
-      <link>http://localhost:64976/author/olivia-venot/</link>
+      <link>http://localhost:54973/author/olivia-venot/</link>
     </image>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:64976/publication/changeat2025_aerosols/</link>
+      <link>http://localhost:54973/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64976/publication/changeat2025_aerosols/</guid>
+      <guid>http://localhost:54973/publication/changeat2025_aerosols/</guid>
       <description></description>
     </item>
     

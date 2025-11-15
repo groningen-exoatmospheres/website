@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre-Olivier Lagage | ExoAIM</title>
-    <link>http://localhost:64976/author/pierre-olivier-lagage/</link>
-      <atom:link href="http://localhost:64976/author/pierre-olivier-lagage/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:54973/author/pierre-olivier-lagage/</link>
+      <atom:link href="http://localhost:54973/author/pierre-olivier-lagage/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre-Olivier Lagage</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:64976/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:54973/media/icon_hu_7814481d329322fb.png</url>
       <title>Pierre-Olivier Lagage</title>
-      <link>http://localhost:64976/author/pierre-olivier-lagage/</link>
+      <link>http://localhost:54973/author/pierre-olivier-lagage/</link>
     </image>
     
     <item>
       <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
-      <link>http://localhost:64976/publication/voyer2025_wd/</link>
+      <link>http://localhost:54973/publication/voyer2025_wd/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64976/publication/voyer2025_wd/</guid>
+      <guid>http://localhost:54973/publication/voyer2025_wd/</guid>
       <description></description>
     </item>
     

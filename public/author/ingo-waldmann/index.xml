@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingo Waldmann | ExoAIM</title>
+    <link>http://localhost:54973/author/ingo-waldmann/</link>
+      <atom:link href="http://localhost:54973/author/ingo-waldmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ingo Waldmann</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:54973/media/icon_hu_7814481d329322fb.png</url>
+      <title>Ingo Waldmann</title>
+      <link>http://localhost:54973/author/ingo-waldmann/</link>
+    </image>
+    
+    <item>
+      <title>Knobs and dials of retrieving JWST transmission spectra. II. Impacts of pipeline-level differences on retrieval posteriors</title>
+      <link>http://localhost:54973/publication/schleich2025_knobs2/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54973/publication/schleich2025_knobs2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

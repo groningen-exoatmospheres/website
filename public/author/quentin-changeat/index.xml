@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quentin Changeat | ExoAIM</title>
-    <link>http://localhost:64976/author/quentin-changeat/</link>
-      <atom:link href="http://localhost:64976/author/quentin-changeat/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:54973/author/quentin-changeat/</link>
+      <atom:link href="http://localhost:54973/author/quentin-changeat/index.xml" rel="self" type="application/rss+xml" />
     <description>Quentin Changeat</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:64976/author/quentin-changeat/avatar_hu_8252a0820100e407.jpeg</url>
+      <url>http://localhost:54973/author/quentin-changeat/avatar_hu_8252a0820100e407.jpeg</url>
       <title>Quentin Changeat</title>
-      <link>http://localhost:64976/author/quentin-changeat/</link>
+      <link>http://localhost:54973/author/quentin-changeat/</link>
     </image>
     
     <item>
       <title>PhD positions at ExoAIM (2025).</title>
-      <link>http://localhost:64976/post/2025_11_14_position_exoaim/</link>
+      <link>http://localhost:54973/post/2025_11_14_position_exoaim/</link>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64976/post/2025_11_14_position_exoaim/</guid>
+      <guid>http://localhost:54973/post/2025_11_14_position_exoaim/</guid>
       <description>&lt;p&gt;A PhD position in the ExoAIM group is available at the Kapteyn Astronomical Institute, University of Groningen, NL&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;
 PhD Position Title: Studying exoplanet atmospheres with JWST.
@@ -28,26 +28,34 @@ Position details: The James Webb Space Telescope (JWST) is transforming our unde
     </item>
     
     <item>
+      <title>Knobs and dials of retrieving JWST transmission spectra. II. Impacts of pipeline-level differences on retrieval posteriors</title>
+      <link>http://localhost:54973/publication/schleich2025_knobs2/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:54973/publication/schleich2025_knobs2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radiative Flux from a High-resolution Atmospheric Dynamics Simulation of a Hot Jupiter for JWST and Ariel</title>
-      <link>http://localhost:64976/publication/kafle2025_radiativehj/</link>
+      <link>http://localhost:54973/publication/kafle2025_radiativehj/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64976/publication/kafle2025_radiativehj/</guid>
+      <guid>http://localhost:54973/publication/kafle2025_radiativehj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:64976/publication/changeat2025_aerosols/</link>
+      <link>http://localhost:54973/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64976/publication/changeat2025_aerosols/</guid>
+      <guid>http://localhost:54973/publication/changeat2025_aerosols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
-      <link>http://localhost:64976/publication/voyer2025_wd/</link>
+      <link>http://localhost:54973/publication/voyer2025_wd/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64976/publication/voyer2025_wd/</guid>
+      <guid>http://localhost:54973/publication/voyer2025_wd/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giacomo Gallina | ExoAIM</title>
-    <link>http://localhost:64976/author/giacomo-gallina/</link>
-      <atom:link href="http://localhost:64976/author/giacomo-gallina/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:54973/author/giacomo-gallina/</link>
+      <atom:link href="http://localhost:54973/author/giacomo-gallina/index.xml" rel="self" type="application/rss+xml" />
     <description>Giacomo Gallina</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:64976/author/giacomo-gallina/avatar_hu_4010d58753260cf6.jpeg</url>
+      <url>http://localhost:54973/author/giacomo-gallina/avatar_hu_4010d58753260cf6.jpeg</url>
       <title>Giacomo Gallina</title>
-      <link>http://localhost:64976/author/giacomo-gallina/</link>
+      <link>http://localhost:54973/author/giacomo-gallina/</link>
     </image>
     
   </channel>
