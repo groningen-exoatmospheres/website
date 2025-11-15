@@ -17,11 +17,13 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'ExoAIM'
-    description: 'Research group on exoplanet atmospheres'
+    org_name: 'ExoAIM Lab'
+    description: 'University of Groningen research group on exo-atmospheric interpretation and modeling.'
+    keywords: 'Exoplanets, Atmospheres, Modeling, JWST, Ariel, Data Analysis, Retrieval'
+
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-ENMYHQ7F45'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
