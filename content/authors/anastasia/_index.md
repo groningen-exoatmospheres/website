@@ -21,6 +21,7 @@ organizations:
 bio: I am exploring my interests in astronomical research, starting with exoplanets!
 
 interests:
+  - Exoplanet atmospheres
   - Old videogames
   - Travelling 
   - Planning events for the research group
@@ -38,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:a.perrotta@student.rug.nl'
+    link: 'mailto:anastasia.perrotta.21@gmail.com'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
