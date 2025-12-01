@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anastasia Perrotta | ExoAIM Lab</title>
+    <link>http://localhost:49367/author/anastasia-perrotta/</link>
+      <atom:link href="http://localhost:49367/author/anastasia-perrotta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anastasia Perrotta</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:49367/author/anastasia-perrotta/avatar_hu_684b68a661bfa2f7.jpeg</url>
+      <title>Anastasia Perrotta</title>
+      <link>http://localhost:49367/author/anastasia-perrotta/</link>
+    </image>
+    
+  </channel>
+</rss>
