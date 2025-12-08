@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rocky Planets | ExoAIM Lab</title>
+    <link>http://localhost:49367/tag/rocky-planets/</link>
+      <atom:link href="http://localhost:49367/tag/rocky-planets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rocky Planets</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <title>Rocky Planets</title>
+      <link>http://localhost:49367/tag/rocky-planets/</link>
+    </image>
+    
+    <item>
+      <title>On the synergetic use of Ariel and JWST for exoplanet atmospheric science</title>
+      <link>http://localhost:49367/publication/changeat2026_synergywebb/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:49367/publication/changeat2026_synergywebb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

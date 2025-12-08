@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse | ExoAIM Lab</title>
+    <link>http://localhost:49367/tag/eclipse/</link>
+      <atom:link href="http://localhost:49367/tag/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eclipse</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <title>Eclipse</title>
+      <link>http://localhost:49367/tag/eclipse/</link>
+    </image>
+    
+    <item>
+      <title>Five Key Exoplanet Questions Answered via the Analysis of 25 Hot-Jupiter Atmospheres in Eclipse</title>
+      <link>http://localhost:49367/publication/changeat2022_fivekeys/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:49367/publication/changeat2022_fivekeys/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

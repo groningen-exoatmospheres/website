@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingo P. Waldmann | ExoAIM Lab</title>
+    <link>http://localhost:49367/author/ingo-p.-waldmann/</link>
+      <atom:link href="http://localhost:49367/author/ingo-p.-waldmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ingo P. Waldmann</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <title>Ingo P. Waldmann</title>
+      <link>http://localhost:49367/author/ingo-p.-waldmann/</link>
+    </image>
+    
+    <item>
+      <title>TauREx 3: A Fast, Dynamic, and Extendable Framework for Retrievals</title>
+      <link>http://localhost:49367/publication/alrefaie2022_taurex/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:49367/publication/alrefaie2022_taurex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
