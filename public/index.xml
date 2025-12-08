@@ -216,6 +216,14 @@ Using JWST/MIRI Low-Resolution Spectroscopy, the team detected key molecular fea
     </item>
     
     <item>
+      <title>Knobs and dials of retrieving JWST transmission spectra: I. The importance of p–T profile complexity</title>
+      <link>http://localhost:49367/publication/schleich2024_knobs1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:49367/publication/schleich2024_knobs1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Is the atmosphere of the ultra-hot Jupiter WASP-121b variable?</title>
       <link>http://localhost:49367/publication/changeat2024_wasp121/</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
@@ -244,6 +252,22 @@ Using JWST/MIRI Low-Resolution Spectroscopy, the team detected key molecular fea
       <link>http://localhost:49367/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:49367/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five Key Exoplanet Questions Answered via the Analysis of 25 Hot-Jupiter Atmospheres in Eclipse</title>
+      <link>http://localhost:49367/publication/changeat2022_fivekeys/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:49367/publication/changeat2022_fivekeys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TauREx 3: A Fast, Dynamic, and Extendable Framework for Retrievals</title>
+      <link>http://localhost:49367/publication/alrefaie2022_taurex/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:49367/publication/alrefaie2022_taurex/</guid>
       <description></description>
     </item>
     
