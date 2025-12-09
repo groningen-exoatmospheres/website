@@ -23,7 +23,7 @@ bio: I am exploring my interests in astronomical research, starting with exoplan
 interests:
   - Exoplanet atmospheres
   - Old videogames
-  - Travelling 
+  - Discovering new genres of music
   - Planning events for the research group
   
 education:
@@ -59,4 +59,4 @@ user_groups:
   - Members
 ---
 
-Anastasia is a third year Astronomy student at the University of Groningen. She currently has an interest in exoplanets, and will be pursuing a bachelor thesis in the topic. The main goal of her research is establishing criteria for suitable exoplanet target selection, with the purpose of atmospheric analysis using the eclipse method. This project is in its very early stages, with Anastasia focusing on the last few courses of her bachelor, as well as working as a teacher assistant. She is also very interested in exploring other fields of research and making valuable connections to aid with her academic orientation.
+Anastasia is a third year Astronomy student at the University of Groningen. She currently has an interest in exoplanets, and will be pursuing a bachelor thesis on the topic. Her research aims to establish criteria for suitable exoplanet target selection, with the purpose of atmospheric analysis using eclipse. The additional complexity in developing metrics for observing atmospheres in eclipse as opposed to transit is what has drawn Anastasia to this project. Alongside this work, she is completing the final courses of her bachelors and working as a teacher assistant in Calculus I, Calculus II, and Programming & Image Processing. She is always looking to meet new people in related and different fields of research to learn more about their work and orient herself academically.
