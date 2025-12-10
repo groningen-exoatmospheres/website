@@ -9,7 +9,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2025-09-01T00:00:00Z"
-doi: "10.1051/0004-6361/202453186"
+doi: "10.48550/arXiv.2509.02657"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-01T00:00:00Z"
