@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Members
+  - Former Members
 ---
 
 Rick is a second year Astronomy Masters student at the University of Groningen. Focused on the field of exoplanetary atmospheres, Rick's research involves theoretical modeling of exoplanetary atmospheres using an idealised model of the atmosphere's upper layer. Specifically, his thesis tests the spectral solver Dedalus3 for computational fluid dynamics of hot Jupiters using a shallow water model. Alongside testing Dedalus3 for convergence using the widely used Galewsky benchmark test from 2004, comparisons are made through constructed cases of Hot Jupiters using both an initial zonal wind velocity profile of Jupiter as captured by JWST and a velocity profile that begins from rest. The results from this thesis are additionally to be published as research notes written together with Quentin Changeat and James Y-K. Cho.
