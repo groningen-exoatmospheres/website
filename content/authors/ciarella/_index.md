@@ -38,8 +38,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: fa-linkedin
-    icon_pack: fa-brands
+  - icon: fa-linkedin-in
+    icon_pack: fab
     link: https://www.linkedin.com/in/simone-ciarella-phd-485790170/
 #   - icon: google-scholar
 #     icon_pack: ai
