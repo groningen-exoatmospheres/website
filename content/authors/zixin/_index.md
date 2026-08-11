@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD Astronomy, expected 2028
+    - course: PhD Astronomy
       institution: University of Science and Technology of China / Purple Mountain Observatory, CAS
       year: expected 2028
     - course: BSc Physics
