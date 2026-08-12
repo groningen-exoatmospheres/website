@@ -19,7 +19,7 @@ publishDate: "2026-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "RNAAS"
+publication: "RNAAS 10 62"
 publication_short: ""
 
 abstract: Studying exoplanet flow and variability requires solving atmospheric dynamics equations accurately. Here we use the shallow-water equations to evaluate and employ Dedalus 3, a spectral method-based software package for solving differential equations. A well-known jet instability test is used for the evaluation; then, the package is used to investigate the nonlinear evolution of observed, Jupiter’s zonal (east–west) jets; finally, the package is used to compare hot-Jupiter flows with different initial conditions. Our results indicate that Dedalus 3 can be a useful tool for investigating planetary flow dynamics, but careful testing and execution are necessary for each problem.
