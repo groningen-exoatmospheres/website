@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in radiative transfer and atmospheric retrievals of phase-curve data
+bio: I am interested in Machine learning and simulations.
 
 interests:
   - Machine Learning
@@ -71,4 +71,5 @@ From tiny biological materials to large everyday devices, Simone is intrigued by
 Simone’s research combines machine learning and numerical simulations to uncover hidden patterns and principles in this intricate world. His work contributes to advancements in both science and technology.
 
 In 2023, Simone joined the Netherlands eScience Center, where he focuses on projects that bridge the gap between science and artificial intelligence. This new role allows him to continue exploring the exciting intersection of these two fields.
+
 
