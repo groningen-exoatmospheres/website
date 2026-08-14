@@ -20,7 +20,7 @@ With recent advances in astronomical observation techniques, exoplanetary atmosp
 </p>
 
 <p style="text-align: justify;">
-Applying MELTYQ to data obtained with JWST, we show that a hypothesized rocky magma interior can reproduce the observed spectrum. This study represents a first step toward uncovering the unknown interiors of exoplanets, which are otherwise extremely difficult to observe directly, a challenge akin to guessing the toy hidden inside a Galette des Rois (French cake?) or Karakara senbei (Japanese snack) without ever taking a bite.
+Applying MELTYQ to data obtained with JWST, we show that a hypothesized rocky magma interior can reproduce the observed spectrum. This study represents a first step toward uncovering the unknown interiors of exoplanets, which are otherwise extremely difficult to observe directly, a challenge akin to guessing the toy hidden inside a French "Galette des Rois" or Japanese "Karakara senbei"... without ever taking a bite.
 </p>
 
 Read the full paper: [Link](https://iopscience.iop.org/article/10.3847/1538-4357/ae6917)
