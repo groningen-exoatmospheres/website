@@ -13,6 +13,8 @@ authors:
 
 A study reveals how interiors of exoplanets can be infered from observation of their atmospheres.
 
+<!--more-->
+
 <p style="text-align: justify;">
 With recent advances in astronomical observation techniques, exoplanetary atmospheres can now be characterized with increasingly high precision, opening new opportunities to infer information about planetary interiors from observable atmospheric properties. This is particularly important for sub-Neptunes, planets with radii a few times that of Earth, whose interiors remain uncertain as to whether they are predominantly rocky or icy. We have developed MELTYQ, an analysis framework that constrains the state of rocky magma in a planet’s interior while directly incorporating observational noise in atmospheric spectra. 
 </p>
