@@ -1,5 +1,5 @@
 ---
-title: sub-Neptunes are like Karakara senbei, observing their interior is challenging!
+title: sub-Neptunes are like Karakara senbei, observing their interiors is challenging!
 date: 2026-07-25
 image:
   caption: 'Image Credit: Mark A. Garlick'
