@@ -10,7 +10,7 @@ last_name: De Amicis
 superuser: false
 
 # Role/position
-role: BSc Student
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in planetary and atmospheric science.
+bio: I am interested in (exo)planet atmospheres and astronomical instrumentation.
 
 interests:
   - Planetary atmospheres
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+      - course: MSc in Astronomy (Instrumentation and Informatics)
+      institution: University of Groningen
+      year: 2028
     - course: BSc in Astronomy
       institution: University of Groningen
       year: 2026
@@ -43,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mariasole.deamicis@gmail.com'
+    link: 'mailto:m.de.amicis@student.rug.nl'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.com/citations?hl=en&user=wnonTucAAAAJ
@@ -68,7 +71,4 @@ user_groups:
   - Members
 ---
 
-Mariasole is a third year Astronomy Bachelor student at the University of Groningen. She is broadly interested in planetary and atmospheric science, with a focus on Exoplanets and the Earth’s Middle Atmosphere. She is currently conducting a project on the atmosphere of WASP-39b using several spectroscopic instruments on JWST.
-Alongside her studies in Groningen, she has spent a semester in Svalbard, an archipelago close to the North Pole, where she studied the Middle Polar Atmosphere and Remote-Sensing Instrumentation. This experience strengthened her interest in atmospheric science and expanded it toward both exoplanetary and terrestrial contexts. She is particularly interested in bridging these two disciplines, exploring how techniques developed for one can inform and improve the other.
-
-Her aim is to continue exploring different areas within atmospheric and exoplanet research, especially the role of instrumentation in advancing future observations. She hopes to build a strong interdisciplinary foundation as she prepares for her bachelor thesis and her future academic path.
+Mariasole is a Master’s student in Astronomy. She is interested in the characterisation of planetary atmospheres through atmospheric retrievals, and astronomical instrumentation. Her recent work has been focusing on the characterisation of the atmosphere of WASP-39 b with the James Webb Space Telescope (JWST), exploring new possible interpretations of the atmosphere of the exoplanet when accounting for chemical disequilibrium processes, limb asymmetries, and instrumental systematics.
