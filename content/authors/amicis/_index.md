@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-      - course: MSc in Astronomy (Instrumentation and Informatics)
+    - course: MSc in Astronomy (Instrumentation and Informatics)
       institution: University of Groningen
       year: 2028
     - course: BSc in Astronomy
