@@ -10,7 +10,7 @@ last_name: Schleich
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ highlight_name: false
 user_groups:
   - Guest and Visiting Researchers
 ---
-Simon is a third-year PhD student and University Assistant at the University of Vienna. His research focusses on the observation and characterisation of exoplanetary atmospheres. He performs end-to-end data reduction on observations taken by the James Webb Space Telescope (JWST), and atmospheric retrievals based on Bayesian inference.
+Simon is an Associated Researcher (postdoctoral) at the Institute for Astrophysics at the University of Vienna. His research focuses on the observation and characterisation of exoplanetary atmospheres. He performs end-to-end data reduction on observations taken by the James Webb Space Telescope (JWST) and atmospheric retrievals based on Bayesian inference.
 
-He currently works on the atmospheres of hot Jupiters and sub-Neptunes, but his research interests also include the co-evolution of star-planet systems, interactions between host stars and their planets, and planetary habitability.
+He currently works on the atmospheres of hot Jupiters, but his research interests also include sub-Neptunes, exoplanetary populations, the co-evolution of star-planet systems, and interactions between host stars and their planets.
 
