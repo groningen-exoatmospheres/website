@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Al-Refaie | ExoAIM Lab</title>
+    <link>http://localhost:1313/author/ahmed-al-refaie/</link>
+      <atom:link href="http://localhost:1313/author/ahmed-al-refaie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Al-Refaie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7814481d329322fb.png</url>
+      <title>Ahmed Al-Refaie</title>
+      <link>http://localhost:1313/author/ahmed-al-refaie/</link>
+    </image>
+    
+    <item>
+      <title>To Sample or Not to Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalizing Flows</title>
+      <link>http://localhost:1313/publication/yip2024_sample/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yip2024_sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Approach to Sampling: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flow</title>
+      <link>http://localhost:1313/publication/yip2022_alternative/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yip2022_alternative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detectability of Rocky-Vapour atmospheres on super-Earths with Ariel</title>
+      <link>http://localhost:1313/publication/ito2022_detectability/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ito2022_detectability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sections for heavy atmospheres: H2O continuum</title>
+      <link>http://localhost:1313/publication/anisman2022_crosssections2/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/anisman2022_crosssections2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfnoor: Assessing the Information Content of Ariel&#39;s Low-resolution Spectra with Planetary Population Studies</title>
+      <link>http://localhost:1313/publication/mugnai2021_alfnoor/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mugnai2021_alfnoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARES I: WASP-76 b, A Tale of Two HST Spectra</title>
+      <link>http://localhost:1313/publication/edwards2020_wasp76/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/edwards2020_wasp76/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

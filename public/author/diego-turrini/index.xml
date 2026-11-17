@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego Turrini | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/diego-turrini/</link>
+      <atom:link href="http://localhost:55609/author/diego-turrini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diego Turrini</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Diego Turrini</title>
+      <link>http://localhost:55609/author/diego-turrini/</link>
+    </image>
+    
+    <item>
+      <title>Constraining the atmospheric elements in hot Jupiters with Ariel</title>
+      <link>http://localhost:55609/publication/wang2023_constraining/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/wang2023_constraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygen depletion in giant planets with different formation histories</title>
+      <link>http://localhost:55609/publication/fonte2023_oxygen/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/fonte2023_oxygen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing the Formation History of Giant Planets in Protoplanetary Disks with Carbon, Oxygen, Nitrogen, and Sulfur</title>
+      <link>http://localhost:55609/publication/turrini2021_tracing/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/turrini2021_tracing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

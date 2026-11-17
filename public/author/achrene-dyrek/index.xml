@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Achrene Dyrek | ExoAIM Lab</title>
-    <link>http://localhost:49367/author/achrene-dyrek/</link>
-      <atom:link href="http://localhost:49367/author/achrene-dyrek/index.xml" rel="self" type="application/rss+xml" />
-    <description>Achrene Dyrek</description>
+    <title>Achrène Dyrek | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/achrene-dyrek/</link>
+      <atom:link href="http://localhost:55609/author/achrene-dyrek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Achrène Dyrek</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
-      <title>Achrene Dyrek</title>
-      <link>http://localhost:49367/author/achrene-dyrek/</link>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Achrène Dyrek</title>
+      <link>http://localhost:55609/author/achrene-dyrek/</link>
     </image>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:49367/publication/changeat2025_aerosols/</link>
+      <link>http://localhost:55609/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/changeat2025_aerosols/</guid>
+      <guid>http://localhost:55609/publication/changeat2025_aerosols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spitzer thermal phase curve of WASP-121 b</title>
+      <link>http://localhost:55609/publication/morello2023_wasp121/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/morello2023_wasp121/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is binning always sinning? The impact of time-averaging for exoplanet phase curves</title>
+      <link>http://localhost:55609/publication/morello2022_binning/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/morello2022_binning/</guid>
       <description></description>
     </item>
     

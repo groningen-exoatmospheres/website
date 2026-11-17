@@ -2,29 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olivia Venot | ExoAIM Lab</title>
-    <link>http://localhost:49367/author/olivia-venot/</link>
-      <atom:link href="http://localhost:49367/author/olivia-venot/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55609/author/olivia-venot/</link>
+      <atom:link href="http://localhost:55609/author/olivia-venot/index.xml" rel="self" type="application/rss+xml" />
     <description>Olivia Venot</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Olivia Venot</title>
-      <link>http://localhost:49367/author/olivia-venot/</link>
+      <link>http://localhost:55609/author/olivia-venot/</link>
     </image>
     
     <item>
-      <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:49367/publication/changeat2025_aerosols/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/changeat2025_aerosols/</guid>
+      <title>Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies</title>
+      <link>http://localhost:55609/publication/venot2026_probing/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/venot2026_probing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:49367/publication/changeat2026_synergywebb/</link>
+      <link>http://localhost:55609/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/changeat2026_synergywebb/</guid>
+      <guid>http://localhost:55609/publication/changeat2025_aerosols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-analysis of ten hot-Jupiter atmospheres with disequilibrium chemistry retrieval</title>
+      <link>http://localhost:55609/publication/bardet2025_reanalysis/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bardet2025_reanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRECKLL: Full and Reduced Exoplanet Chemical Kinetics DistiLLed</title>
+      <link>http://localhost:55609/publication/alrefaie2024_freckll/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/alrefaie2024_freckll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A re-analysis of equilibrium chemistry in five hot Jupiters</title>
+      <link>http://localhost:55609/publication/panek2023_reanalysis/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/panek2023_reanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparison of Chemical Models of Exoplanet Atmospheres Enabled by TauREx 3.1</title>
+      <link>http://localhost:55609/publication/alrefaie2022_comparison/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/alrefaie2022_comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WASP-117 b: An Eccentric Hot Saturn as a Future Complex Chemistry Laboratory</title>
+      <link>http://localhost:55609/publication/anisman2020_wasp117/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/anisman2020_wasp117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ions in the Thermosphere of Exoplanets: Observable Constraints Revealed by Innovative Laboratory Experiments</title>
+      <link>http://localhost:55609/publication/bourgalais2020_ions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bourgalais2020_ions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model</title>
+      <link>http://localhost:55609/publication/drummond2020_implications/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/drummond2020_implications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Chemistry and Thermal Structure Models for the Hot Jupiter WASP-43b and Predictions for JWST</title>
+      <link>http://localhost:55609/publication/venot2020_wasp43b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/venot2020_wasp43b/</guid>
       <description></description>
     </item>
     

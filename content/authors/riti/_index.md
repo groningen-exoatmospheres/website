@@ -14,7 +14,7 @@ role: Research Software Engineer
 
 # Organizations/Affiliations
 organizations:
-  - name: eScience Centre
+  - name: Netherlands eScience Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -2,21 +2,205 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modeling | ExoAIM Lab</title>
-    <link>http://localhost:49367/tag/modeling/</link>
-      <atom:link href="http://localhost:49367/tag/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55609/tag/modeling/</link>
+      <atom:link href="http://localhost:55609/tag/modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Modeling</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Modeling</title>
-      <link>http://localhost:49367/tag/modeling/</link>
+      <link>http://localhost:55609/tag/modeling/</link>
     </image>
     
     <item>
+      <title>Stratospheres with no stars: Opacity-driven inversions in self-luminous atmospheres</title>
+      <link>http://localhost:55609/publication/kimura2026_stratospheres/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/kimura2026_stratospheres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A JWST Transit of a Jupiter Analog. II. A Search for Exomoons</title>
+      <link>http://localhost:55609/publication/kipping2026_transit/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/kipping2026_transit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflation: redox-driven atmospheric inflation as tracer of super-Earth geochemistry</title>
+      <link>http://localhost:55609/publication/cesario2026_reflation/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/cesario2026_reflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A JWST Transit of a Jupiter Analog. I. Constraints on the Oblateness of Kepler-167 e</title>
+      <link>http://localhost:55609/publication/cassese2026_kepler167/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/cassese2026_kepler167/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A test of the Dedalus software for exoplanet atmospheric dynamics</title>
+      <link>http://localhost:55609/publication/bonhof2026_dedalus/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bonhof2026_dedalus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radiative Flux from a High-resolution Atmospheric Dynamics Simulation of a Hot Jupiter for JWST and Ariel</title>
-      <link>http://localhost:49367/publication/kafle2025_radiativehj/</link>
+      <link>http://localhost:55609/publication/kafle2025_radiativehj/</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/kafle2025_radiativehj/</guid>
+      <guid>http://localhost:55609/publication/kafle2025_radiativehj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low abundances of TiO and VO on the dayside of KELT-9 b: Insights from ground-based photometric observations</title>
+      <link>http://localhost:55609/publication/hayashi2024_kelt9/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/hayashi2024_kelt9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRECKLL: Full and Reduced Exoplanet Chemical Kinetics DistiLLed</title>
+      <link>http://localhost:55609/publication/alrefaie2024_freckll/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/alrefaie2024_freckll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Atmospheric Retrievals of Panchromatic Light Curves: EXPLOR-ing Generalized Inversion Techniques for Transiting Exoplanets with JWST and Ariel</title>
+      <link>http://localhost:55609/publication/changeat2024_retrievals/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2024_retrievals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Sample or Not to Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalizing Flows</title>
+      <link>http://localhost:55609/publication/yip2024_sample/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/yip2024_sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Ability of Hubble Space Telescope WFC3 G141 to Uncover Trends in Populations of Exoplanet Atmospheres through a Homogeneous Transmission Survey of 70 Gaseous Planets</title>
+      <link>http://localhost:55609/publication/edwards2023_exploring/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/edwards2023_exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YunMa: Enabling Spectral Retrievals of Exoplanetary Clouds</title>
+      <link>http://localhost:55609/publication/ma2023_yunma/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/ma2023_yunma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval study of cool, directly imaged exoplanet 51 Eri b</title>
+      <link>http://localhost:55609/publication/whiteford2023_retrieval/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/whiteford2023_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the atmospheric elements in hot Jupiters with Ariel</title>
+      <link>http://localhost:55609/publication/wang2023_constraining/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/wang2023_constraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spitzer thermal phase curve of WASP-121 b</title>
+      <link>http://localhost:55609/publication/morello2023_wasp121/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/morello2023_wasp121/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygen depletion in giant planets with different formation histories</title>
+      <link>http://localhost:55609/publication/fonte2023_oxygen/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/fonte2023_oxygen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Transmission Spectrum of WASP-17 b From the Optical to the Near-infrared Wavelengths: Combining STIS, WFC3, and IRAC Data Sets</title>
+      <link>http://localhost:55609/publication/saba2022_wasp17/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/saba2022_wasp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sections for heavy atmospheres: H2O continuum</title>
+      <link>http://localhost:55609/publication/anisman2022_crosssections2/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/anisman2022_crosssections2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing the Formation History of Giant Planets in Protoplanetary Disks with Carbon, Oxygen, Nitrogen, and Sulfur</title>
+      <link>http://localhost:55609/publication/turrini2021_tracing/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/turrini2021_tracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfnoor: A Retrieval Simulation of the Ariel Target List</title>
+      <link>http://localhost:55609/publication/changeat2020_alfnoor/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2020_alfnoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Planetary Mass Uncertainties on Exoplanet Atmospheric Retrievals</title>
+      <link>http://localhost:55609/publication/changeat2020_impact/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2020_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ions in the Thermosphere of Exoplanets: Observable Constraints Revealed by Innovative Laboratory Experiments</title>
+      <link>http://localhost:55609/publication/bourgalais2020_ions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bourgalais2020_ions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model</title>
+      <link>http://localhost:55609/publication/drummond2020_implications/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/drummond2020_implications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Chemistry and Thermal Structure Models for the Hot Jupiter WASP-43b and Predictions for JWST</title>
+      <link>http://localhost:55609/publication/venot2020_wasp43b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/venot2020_wasp43b/</guid>
       <description></description>
     </item>
     

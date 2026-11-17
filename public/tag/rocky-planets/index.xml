@@ -2,21 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rocky Planets | ExoAIM Lab</title>
-    <link>http://localhost:49367/tag/rocky-planets/</link>
-      <atom:link href="http://localhost:49367/tag/rocky-planets/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55609/tag/rocky-planets/</link>
+      <atom:link href="http://localhost:55609/tag/rocky-planets/index.xml" rel="self" type="application/rss+xml" />
     <description>Rocky Planets</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Rocky Planets</title>
-      <link>http://localhost:49367/tag/rocky-planets/</link>
+      <link>http://localhost:55609/tag/rocky-planets/</link>
     </image>
     
     <item>
+      <title>Coupling Magma─Ocean and Atmospheres in Spectral Retrievals of Sub-Neptunes</title>
+      <link>http://localhost:55609/publication/ito2026_meltyq/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/ito2026_meltyq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflation: redox-driven atmospheric inflation as tracer of super-Earth geochemistry</title>
+      <link>http://localhost:55609/publication/cesario2026_reflation/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/cesario2026_reflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the synergetic use of Ariel and JWST for exoplanet atmospheric science</title>
-      <link>http://localhost:49367/publication/changeat2026_synergywebb/</link>
+      <link>http://localhost:55609/publication/changeat2026_synergywebb/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/changeat2026_synergywebb/</guid>
+      <guid>http://localhost:55609/publication/changeat2026_synergywebb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dark, Bare Rock for TOI-1685 b from a JWST NIRSpec G395H Phase Curve</title>
+      <link>http://localhost:55609/publication/luque2025_toi1685/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/luque2025_toi1685/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves</title>
+      <link>http://localhost:55609/publication/hammond2025_reliable/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/hammond2025_reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gliese 12 b: A Temperate Earth-sized Planet at 12 pc Ideal for Atmospheric Transmission Spectroscopy</title>
+      <link>http://localhost:55609/publication/kuzuhara2024_gliese/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/kuzuhara2024_gliese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the planetary mass uncertainties on the accuracy of atmospherical retrieval</title>
+      <link>http://localhost:55609/publication/maio2023_planetary/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/maio2023_planetary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sections for heavy atmospheres: H2O self-broadening</title>
+      <link>http://localhost:55609/publication/anisman2022_crosssections/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/anisman2022_crosssections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detectability of Rocky-Vapour atmospheres on super-Earths with Ariel</title>
+      <link>http://localhost:55609/publication/ito2022_detectability/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/ito2022_detectability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-infrared transmission spectrum of TRAPPIST-1 h using Hubble WFC3 G141 observations</title>
+      <link>http://localhost:55609/publication/gressier2022_trappist1/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/gressier2022_trappist1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARES. V. No Evidence For Molecular Absorption in the HST WFC3 Spectrum of GJ 1132 b</title>
+      <link>http://localhost:55609/publication/mugnai2021_ares/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/mugnai2021_ares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hubble WFC3 Spectroscopy of the Habitable-zone Super-Earth LHS 1140 b</title>
+      <link>http://localhost:55609/publication/edwards2021_hubble/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/edwards2021_hubble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Planetary Mass Uncertainties on Exoplanet Atmospheric Retrievals</title>
+      <link>http://localhost:55609/publication/changeat2020_impact/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2020_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ions in the Thermosphere of Exoplanets: Observable Constraints Revealed by Innovative Laboratory Experiments</title>
+      <link>http://localhost:55609/publication/bourgalais2020_ions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bourgalais2020_ions/</guid>
       <description></description>
     </item>
     

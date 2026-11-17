@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Benatti | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/s.-benatti/</link>
+      <atom:link href="http://localhost:55609/author/s.-benatti/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Benatti</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>S. Benatti</title>
+      <link>http://localhost:55609/author/s.-benatti/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of the planetary mass uncertainties on the accuracy of atmospherical retrieval</title>
+      <link>http://localhost:55609/publication/maio2023_planetary/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/maio2023_planetary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

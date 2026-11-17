@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patricio E. Cubillos | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/patricio-e.-cubillos/</link>
+      <atom:link href="http://localhost:55609/author/patricio-e.-cubillos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patricio E. Cubillos</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Patricio E. Cubillos</title>
+      <link>http://localhost:55609/author/patricio-e.-cubillos/</link>
+    </image>
+    
+    <item>
+      <title>WALTzER: Wide-band Atmospheric Laboratory for Transiting Exoplanet Research</title>
+      <link>http://localhost:55609/publication/sreejith2026_waltzer/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/sreejith2026_waltzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A retrieval challenge exercise for the Ariel mission</title>
+      <link>http://localhost:55609/publication/barstow2022_retrieval/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/barstow2022_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Chemistry and Thermal Structure Models for the Hot Jupiter WASP-43b and Predictions for JWST</title>
+      <link>http://localhost:55609/publication/venot2020_wasp43b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/venot2020_wasp43b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: UUniversity of Groningen / CEA and Paris Cité University
+  - name: University of Groningen / CEA and Paris Cité University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

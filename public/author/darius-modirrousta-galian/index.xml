@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darius Modirrousta-Galian | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/darius-modirrousta-galian/</link>
+      <atom:link href="http://localhost:55609/author/darius-modirrousta-galian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Darius Modirrousta-Galian</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Darius Modirrousta-Galian</title>
+      <link>http://localhost:55609/author/darius-modirrousta-galian/</link>
+    </image>
+    
+    <item>
+      <title>ARES. V. No Evidence For Molecular Absorption in the HST WFC3 Spectrum of GJ 1132 b</title>
+      <link>http://localhost:55609/publication/mugnai2021_ares/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/mugnai2021_ares/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

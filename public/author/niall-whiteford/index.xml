@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niall Whiteford | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/niall-whiteford/</link>
+      <atom:link href="http://localhost:55609/author/niall-whiteford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Niall Whiteford</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Niall Whiteford</title>
+      <link>http://localhost:55609/author/niall-whiteford/</link>
+    </image>
+    
+    <item>
+      <title>Correction to: Retrieval study of cool, directly imaged exoplanet 51 Eri b</title>
+      <link>http://localhost:55609/publication/whiteford2024_correction/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/whiteford2024_correction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieval study of cool, directly imaged exoplanet 51 Eri b</title>
+      <link>http://localhost:55609/publication/whiteford2023_retrieval/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/whiteford2023_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARES. III. Unveiling the Two Faces of KELT-7 b with HST WFC3</title>
+      <link>http://localhost:55609/publication/pluriel2020_kelt7/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/pluriel2020_kelt7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

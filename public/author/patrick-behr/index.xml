@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Behr | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/patrick-behr/</link>
+      <atom:link href="http://localhost:55609/author/patrick-behr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Behr</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Patrick Behr</title>
+      <link>http://localhost:55609/author/patrick-behr/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing a World Within the Hot-Neptune Desert: Transit Observations of LTT 9779 b with the Hubble Space Telescope/WFC3</title>
+      <link>http://localhost:55609/publication/edwards2023_characterizing/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/edwards2023_characterizing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

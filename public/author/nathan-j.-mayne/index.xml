@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan J. Mayne | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/nathan-j.-mayne/</link>
+      <atom:link href="http://localhost:55609/author/nathan-j.-mayne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathan J. Mayne</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Nathan J. Mayne</title>
+      <link>http://localhost:55609/author/nathan-j.-mayne/</link>
+    </image>
+    
+    <item>
+      <title>Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model</title>
+      <link>http://localhost:55609/publication/drummond2020_implications/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/drummond2020_implications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -21,7 +21,7 @@ marketing:
     description: 'University of Groningen research group on exo-atmospheric interpretation and modeling.'
     keywords: 'Exoplanets, Atmospheres, Modeling, JWST, Ariel, Data Analysis, Retrieval'
 
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: 'G-VZ4EY5ZT2E'
     baidu_tongji: ''
@@ -120,6 +120,3 @@ publications:
   date_format: January 2006
   citation_style: apa
 
-params:
-  customCSS:
-    - css/custom.css

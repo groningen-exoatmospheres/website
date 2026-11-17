@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Fossati | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/l.-fossati/</link>
+      <atom:link href="http://localhost:55609/author/l.-fossati/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Fossati</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>L. Fossati</title>
+      <link>http://localhost:55609/author/l.-fossati/</link>
+    </image>
+    
+    <item>
+      <title>WALTzER: Wide-band Atmospheric Laboratory for Transiting Exoplanet Research</title>
+      <link>http://localhost:55609/publication/sreejith2026_waltzer/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/sreejith2026_waltzer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

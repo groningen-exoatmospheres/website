@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Faris Al-Refaie | ExoAIM Lab</title>
+    <link>http://localhost:1313/author/ahmed-faris-al-refaie/</link>
+      <atom:link href="http://localhost:1313/author/ahmed-faris-al-refaie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Faris Al-Refaie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7814481d329322fb.png</url>
+      <title>Ahmed Faris Al-Refaie</title>
+      <link>http://localhost:1313/author/ahmed-faris-al-refaie/</link>
+    </image>
+    
+    <item>
+      <title>FRECKLL: Full and Reduced Exoplanet Chemical Kinetics DistiLLed</title>
+      <link>http://localhost:1313/publication/alrefaie2024_freckll/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alrefaie2024_freckll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YunMa: Enabling Spectral Retrievals of Exoplanetary Clouds</title>
+      <link>http://localhost:1313/publication/ma2023_yunma/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ma2023_yunma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

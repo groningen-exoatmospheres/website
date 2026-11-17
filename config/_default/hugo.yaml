@@ -24,6 +24,7 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
+titleCaseStyle: none   # keep author names as written (e.g. 'et al.')
 pagination:
   pagerSize: 10
 enableEmoji: true

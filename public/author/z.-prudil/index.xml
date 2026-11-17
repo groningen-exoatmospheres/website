@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z. Prudil | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/z.-prudil/</link>
+      <atom:link href="http://localhost:55609/author/z.-prudil/index.xml" rel="self" type="application/rss+xml" />
+    <description>Z. Prudil</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Z. Prudil</title>
+      <link>http://localhost:55609/author/z.-prudil/</link>
+    </image>
+    
+    <item>
+      <title>Stellar obliquity measurements of six gas giants. Orbital misalignment of WASP-101b and WASP-131b</title>
+      <link>http://localhost:55609/publication/zak2024_wasp101b/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/zak2024_wasp101b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

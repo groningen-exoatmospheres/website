@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.-P. Beaulieu | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/j.-p.-beaulieu/</link>
+      <atom:link href="http://localhost:55609/author/j.-p.-beaulieu/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.-P. Beaulieu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>J.-P. Beaulieu</title>
+      <link>http://localhost:55609/author/j.-p.-beaulieu/</link>
+    </image>
+    
+    <item>
+      <title>A re-analysis of equilibrium chemistry in five hot Jupiters</title>
+      <link>http://localhost:55609/publication/panek2023_reanalysis/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/panek2023_reanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-infrared transmission spectrum of TRAPPIST-1 h using Hubble WFC3 G141 observations</title>
+      <link>http://localhost:55609/publication/gressier2022_trappist1/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/gressier2022_trappist1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sub-Neptunes | ExoAIM Lab</title>
+    <link>http://localhost:55609/tag/sub-neptunes/</link>
+      <atom:link href="http://localhost:55609/tag/sub-neptunes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sub-Neptunes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Sub-Neptunes</title>
+      <link>http://localhost:55609/tag/sub-neptunes/</link>
+    </image>
+    
+    <item>
+      <title>Coupling Magma─Ocean and Atmospheres in Spectral Retrievals of Sub-Neptunes</title>
+      <link>http://localhost:55609/publication/ito2026_meltyq/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/ito2026_meltyq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflation: redox-driven atmospheric inflation as tracer of super-Earth geochemistry</title>
+      <link>http://localhost:55609/publication/cesario2026_reflation/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/cesario2026_reflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The atmospheric composition of the sub-Neptune K2-18b and insights into its formation</title>
+      <link>http://localhost:55609/publication/fernandezrodriguez2026_k218b/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/fernandezrodriguez2026_k218b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-computed aerosol extinction, scattering and asymmetry grids for scalable atmospheric retrievals</title>
+      <link>http://localhost:55609/publication/voyer2026_pcq/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/voyer2026_pcq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HD 110067 c has an aligned orbit. Measuring the Rossiter-McLaughlin effect inside a resonant multi-planet system with ESPRESSO</title>
+      <link>http://localhost:55609/publication/zak2024_110067/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/zak2024_110067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sections for heavy atmospheres: H2O self-broadening</title>
+      <link>http://localhost:55609/publication/anisman2022_crosssections/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/anisman2022_crosssections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ions in the Thermosphere of Exoplanets: Observable Constraints Revealed by Innovative Laboratory Experiments</title>
+      <link>http://localhost:55609/publication/bourgalais2020_ions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bourgalais2020_ions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Tinetti | ExoAIM Lab</title>
+    <link>http://localhost:1313/author/g.-tinetti/</link>
+      <atom:link href="http://localhost:1313/author/g.-tinetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Tinetti</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7814481d329322fb.png</url>
+      <title>G. Tinetti</title>
+      <link>http://localhost:1313/author/g.-tinetti/</link>
+    </image>
+    
+    <item>
+      <title>A Comparison of Chemical Models of Exoplanet Atmospheres Enabled by TauREx 3.1</title>
+      <link>http://localhost:1313/publication/alrefaie2022_comparison/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/alrefaie2022_comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exploration of Model Degeneracies with a Unified Phase Curve Retrieval Analysis: The Light and Dark Sides of WASP-43 b</title>
+      <link>http://localhost:1313/publication/changeat2021_wasp43/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/changeat2021_wasp43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Planetary Mass Uncertainties on Exoplanet Atmospheric Retrievals</title>
+      <link>http://localhost:1313/publication/changeat2020_impact/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/changeat2020_impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a More Complex Description of Chemical Profiles in Exoplanet Retrievals: A Two-layer Parameterization</title>
+      <link>http://localhost:1313/publication/changeat2019_more/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/changeat2019_more/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

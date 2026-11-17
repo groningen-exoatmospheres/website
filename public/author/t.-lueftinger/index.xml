@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Lueftinger | ExoAIM Lab</title>
+    <link>http://localhost:1313/author/t.-lueftinger/</link>
+      <atom:link href="http://localhost:1313/author/t.-lueftinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Lueftinger</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7814481d329322fb.png</url>
+      <title>T. Lueftinger</title>
+      <link>http://localhost:1313/author/t.-lueftinger/</link>
+    </image>
+    
+    <item>
+      <title>Toward Atmospheric Retrievals of Panchromatic Light Curves: EXPLOR-ing Generalized Inversion Techniques for Transiting Exoplanets with JWST and Ariel</title>
+      <link>http://localhost:1313/publication/changeat2024_retrievals/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/changeat2024_retrievals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

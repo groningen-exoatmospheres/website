@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jack J Davey | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/jack-j-davey/</link>
+      <atom:link href="http://localhost:55609/author/jack-j-davey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jack J Davey</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Jack J Davey</title>
+      <link>http://localhost:55609/author/jack-j-davey/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the influence of asymmetric errors on retrievals of exoplanet transmission spectra</title>
+      <link>http://localhost:55609/publication/davey2025_investigating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/davey2025_investigating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,7 @@ title: "On the synergetic use of Ariel and JWST for exoplanet atmospheric scienc
 authors:
 - admin
 - Pierre-Olivier Lagage
-- Giovana Tinetti
+- Giovanna Tinetti
 - Ariel Consortium
 #author_notes:
 #- "Equal contribution"

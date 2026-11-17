@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Al-Refaie | ExoAIM Lab</title>
+    <link>http://localhost:1313/author/a.-al-refaie/</link>
+      <atom:link href="http://localhost:1313/author/a.-al-refaie/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Al-Refaie</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7814481d329322fb.png</url>
+      <title>A. Al-Refaie</title>
+      <link>http://localhost:1313/author/a.-al-refaie/</link>
+    </image>
+    
+    <item>
+      <title>Alfnoor: A Retrieval Simulation of the Ariel Target List</title>
+      <link>http://localhost:1313/publication/changeat2020_alfnoor/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/changeat2020_alfnoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TauREx3 PhaseCurve: A 1.5D Model for Phase-curve Description</title>
+      <link>http://localhost:1313/publication/changeat2020_taurex3/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/changeat2020_taurex3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

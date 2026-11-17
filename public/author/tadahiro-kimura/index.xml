@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tadahiro Kimura | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/tadahiro-kimura/</link>
+      <atom:link href="http://localhost:55609/author/tadahiro-kimura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tadahiro Kimura</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Tadahiro Kimura</title>
+      <link>http://localhost:55609/author/tadahiro-kimura/</link>
+    </image>
+    
+    <item>
+      <title>Stratospheres with no stars: Opacity-driven inversions in self-luminous atmospheres</title>
+      <link>http://localhost:55609/publication/kimura2026_stratospheres/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/kimura2026_stratospheres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

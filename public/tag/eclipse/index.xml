@@ -2,21 +2,173 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eclipse | ExoAIM Lab</title>
-    <link>http://localhost:49367/tag/eclipse/</link>
-      <atom:link href="http://localhost:49367/tag/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55609/tag/eclipse/</link>
+      <atom:link href="http://localhost:55609/tag/eclipse/index.xml" rel="self" type="application/rss+xml" />
     <description>Eclipse</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Eclipse</title>
-      <link>http://localhost:49367/tag/eclipse/</link>
+      <link>http://localhost:55609/tag/eclipse/</link>
     </image>
     
     <item>
+      <title>A Dark, Bare Rock for TOI-1685 b from a JWST NIRSpec G395H Phase Curve</title>
+      <link>http://localhost:55609/publication/luque2025_toi1685/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/luque2025_toi1685/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-analysis of ten hot-Jupiter atmospheres with disequilibrium chemistry retrieval</title>
+      <link>http://localhost:55609/publication/bardet2025_reanalysis/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bardet2025_reanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves</title>
+      <link>http://localhost:55609/publication/hammond2025_reliable/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/hammond2025_reliable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low abundances of TiO and VO on the dayside of KELT-9 b: Insights from ground-based photometric observations</title>
+      <link>http://localhost:55609/publication/hayashi2024_kelt9/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/hayashi2024_kelt9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and testing of a low-resolution NIR spectrograph for the Exoplanet Climate Infrared Telescope</title>
+      <link>http://localhost:55609/publication/bernard2024_design/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/bernard2024_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Atmospheric Retrievals of Panchromatic Light Curves: EXPLOR-ing Generalized Inversion Techniques for Transiting Exoplanets with JWST and Ariel</title>
+      <link>http://localhost:55609/publication/changeat2024_retrievals/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2024_retrievals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Tracers of Planet Formation in the Atmosphere of WASP-77A b: Substellar O/H and C/H Ratios, with a Stellar C/O Ratio and a Potentially Superstellar Ti/H Ratio</title>
+      <link>http://localhost:55609/publication/edwards2024_wasp77a/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/edwards2024_wasp77a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A broadband thermal emission spectrum of the ultra-hot Jupiter WASP-18b</title>
+      <link>http://localhost:55609/publication/coulombe2023_wasp18b/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/coulombe2023_wasp18b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spitzer thermal phase curve of WASP-121 b</title>
+      <link>http://localhost:55609/publication/morello2023_wasp121/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/morello2023_wasp121/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Transmission Spectrum of WASP-17 b From the Optical to the Near-infrared Wavelengths: Combining STIS, WFC3, and IRAC Data Sets</title>
+      <link>http://localhost:55609/publication/saba2022_wasp17/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/saba2022_wasp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Five Key Exoplanet Questions Answered via the Analysis of 25 Hot-Jupiter Atmospheres in Eclipse</title>
-      <link>http://localhost:49367/publication/changeat2022_fivekeys/</link>
+      <link>http://localhost:55609/publication/changeat2022_fivekeys/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/changeat2022_fivekeys/</guid>
+      <guid>http://localhost:55609/publication/changeat2022_fivekeys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Spectroscopic Phase-curve Retrievals: H2 Dissociation and Thermal Inversion in the Atmosphere of the Ultrahot Jupiter WASP-103 b</title>
+      <link>http://localhost:55609/publication/changeat2022_wasp103/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2022_wasp103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Exploration of Model Degeneracies with a Unified Phase Curve Retrieval Analysis: The Light and Dark Sides of WASP-43 b</title>
+      <link>http://localhost:55609/publication/changeat2021_wasp43/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2021_wasp43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hubble WFC3 Emission Spectrum of the Extremely Hot Jupiter KELT-9b</title>
+      <link>http://localhost:55609/publication/changeat2021_kelt9b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2021_kelt9b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARES. III. Unveiling the Two Faces of KELT-7 b with HST WFC3</title>
+      <link>http://localhost:55609/publication/pluriel2020_kelt7/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/pluriel2020_kelt7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfnoor: A Retrieval Simulation of the Ariel Target List</title>
+      <link>http://localhost:55609/publication/changeat2020_alfnoor/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2020_alfnoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TauREx3 PhaseCurve: A 1.5D Model for Phase-curve Description</title>
+      <link>http://localhost:55609/publication/changeat2020_taurex3/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/changeat2020_taurex3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARES I: WASP-76 b, A Tale of Two HST Spectra</title>
+      <link>http://localhost:55609/publication/edwards2020_wasp76/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/edwards2020_wasp76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model</title>
+      <link>http://localhost:55609/publication/drummond2020_implications/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/drummond2020_implications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Chemistry and Thermal Structure Models for the Hot Jupiter WASP-43b and Predictions for JWST</title>
+      <link>http://localhost:55609/publication/venot2020_wasp43b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/venot2020_wasp43b/</guid>
       <description></description>
     </item>
     

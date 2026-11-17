@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Hammond | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/mark-hammond/</link>
+      <atom:link href="http://localhost:55609/author/mark-hammond/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Hammond</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Mark Hammond</title>
+      <link>http://localhost:55609/author/mark-hammond/</link>
+    </image>
+    
+    <item>
+      <title>Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves</title>
+      <link>http://localhost:55609/publication/hammond2025_reliable/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/hammond2025_reliable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

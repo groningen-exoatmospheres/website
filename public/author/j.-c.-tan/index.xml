@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. C. Tan | ExoAIM Lab</title>
+    <link>http://localhost:1313/author/j.-c.-tan/</link>
+      <atom:link href="http://localhost:1313/author/j.-c.-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. C. Tan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7814481d329322fb.png</url>
+      <title>J. C. Tan</title>
+      <link>http://localhost:1313/author/j.-c.-tan/</link>
+    </image>
+    
+    <item>
+      <title>Spitzer thermal phase curve of WASP-121 b</title>
+      <link>http://localhost:1313/publication/morello2023_wasp121/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/morello2023_wasp121/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

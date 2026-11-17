@@ -3,8 +3,8 @@ title: "Cloud and haze parameterization in atmospheric retrievals: Insights from
 authors:
 - admin
 - Deborah Bardet
-- Katy Chubb
-- Achrene Dyrek
+- Katy L. Chubb
+- Achrène Dyrek
 - Billy Edwards
 - Kazumasa Ohno
 - Olivia Venot

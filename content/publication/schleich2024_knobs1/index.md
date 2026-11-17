@@ -6,7 +6,7 @@ authors:
 - admin
 - Manuel Güdel
 - Aiko Voigt
-- Ingo Waldmann
+- Ingo P. Waldmann
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

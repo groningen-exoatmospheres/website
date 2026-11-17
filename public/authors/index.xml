@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | ExoAIM Lab</title>
-    <link>http://localhost:49367/authors/</link>
-      <atom:link href="http://localhost:49367/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <title>authors | ExoAIM Lab</title>
+    <link>http://localhost:55609/authors/</link>
+      <atom:link href="http://localhost:55609/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>authors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
-      <title>Authors</title>
-      <link>http://localhost:49367/authors/</link>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>authors</title>
+      <link>http://localhost:55609/authors/</link>
     </image>
     
   </channel>

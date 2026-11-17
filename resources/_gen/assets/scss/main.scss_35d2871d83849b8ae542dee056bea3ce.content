@@ -9736,260 +9736,178 @@ div.chart {
 .cta-group {
   justify-content: center; }
 
-/* custom.css — increase main content max-width and paragraph line-length */
-/* 1) Target common wrappers used by Wowchemy / Hugo Blox */
-.container,
-.container-lg,
-.page,
-.page-content,
-.main-content,
-.content,
-.article,
-.article-container,
-.post-content,
-.prose {
-  max-width: 1100px !important;
-  /* increase this number to suit */
-  width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important; }
+/* =====================================================================
+   ExoAIM custom styles (assets/scss/custom.scss)
+   Loaded after the HugoBlox/Bootstrap theme. Keep rules scoped and
+   avoid global `!important` overrides: they break the mobile layout.
+   ===================================================================== */
+/* ---------------------------------------------------------------------
+   1. Layout: a slightly wider page on large screens only.
+   Phones/tablets keep Bootstrap's own responsive containers & gutters.
+   --------------------------------------------------------------------- */
+@media (min-width: 992px) {
+  .container,
+  .container-lg,
+  .container-xl,
+  .article-container,
+  .universal-wrapper {
+    max-width: 1100px; }
+  #navbar-main .nav-link {
+    font-size: 1rem; } }
 
-/* 2) Make paragraphs less narrow — use ch for readable measure */
-.content p,
-.page-content p,
-.post-content p,
-.prose p {
-  max-width: 75ch !important;
-  /* ~75 characters per line, change to taste */
-  line-height: 1.7 !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important; }
+.article-style p,
+.universal-wrapper p {
+  line-height: 1.7; }
 
-/* 3) If theme uses a 'prose' wrapper that limits to 65ch, override that specifically */
-.prose,
-.prose > * {
-  max-width: none !important; }
+/* Long words / URLs / DOIs must never widen the page on phones */
+.article-style,
+.pub-list-item,
+.universal-wrapper {
+  overflow-wrap: anywhere; }
 
-/* 4) If your theme uses Tailwind 'max-w-...' utility classes, target them */
-.max-w-prose, .max-w-2xl, .max-w-xl, .max-w-lg {
-  max-width: 1100px !important; }
-
-/* 5) Optional: for very stubborn inline styles / CSS variables */
-:root {
-  --site-content-max-width: 1100px;
-  /* if theme uses a CSS variable you might need to change it */ }
-
-/* =====================
-   Dark mode shrinking header
-   ===================== */
-/* Base header */
-.site-header,
-.navbar,
-.navbar-main {
-  position: sticky;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 2000;
-  background: rgba(20, 20, 20, 0.95);
-  /* dark translucent */
+/* ---------------------------------------------------------------------
+   2. Navbar: dark frosted glass (light & dark themes)
+   --------------------------------------------------------------------- */
+#navbar-main.navbar {
+  background: rgba(20, 20, 20, 0.92) !important;
+  -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
-  /* frosted glass effect */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
-  /* subtle dark shadow */
-  transition: all 0.4s ease;
-  transform-origin: top center;
-  padding: 20px 40px;
-  /* initial padding */
-  font-size: 1rem;
-  color: #eee;
-  /* light text for dark header */ }
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45); }
 
-/* Shrink header on scroll (CSS-only approximation) */
-body:has(.site-header:is(:not(:hover)) + *) .site-header {
-  padding: 10px 40px;
-  /* shrink vertically */
-  font-size: 0.85rem;
-  /* smaller text */
-  background: rgba(20, 20, 20, 0.85);
-  /* slightly more transparent */
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
-  transform: scaleY(0.95);
-  backdrop-filter: blur(8px); }
+#navbar-main .navbar-brand,
+#navbar-main .nav-link,
+#navbar-main .navbar-toggler,
+#navbar-main .dropdown-item {
+  color: #eee !important; }
 
-/* Hover restores full header */
-.site-header:hover,
-.navbar:hover,
-.navbar-main:hover {
-  transform: scaleY(1);
-  padding: 20px 40px;
-  font-size: 1rem;
+#navbar-main .nav-link.active,
+#navbar-main .nav-link:focus {
+  color: #00ccff !important; }
+
+#navbar-main .navbar-toggler {
+  border: 0;
+  padding: 0.5rem 0.75rem;
+  /* comfortable 44px tap target */
+  font-size: 1.25rem; }
+
+#navbar-main .dropdown-menu {
   background: rgba(25, 25, 25, 0.98);
-  color: #fff; }
+  border-color: rgba(255, 255, 255, 0.1); }
 
-/* Smooth fade/scale for links & logo */
-.site-header img,
-.site-header a,
-.navbar a {
-  transition: all 0.35s ease;
-  color: #eee; }
+/* Collapsed menu on phones/tablets: full-width list with big tap targets */
+@media (max-width: 991.98px) {
+  #navbar-main .navbar-collapse {
+    max-height: calc(100vh - 70px);
+    overflow-y: auto;
+    padding: 0.25rem 0 0.75rem; }
+  #navbar-main .navbar-collapse .nav-link {
+    padding: 0.8rem 1rem;
+    font-size: 1.05rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08); } }
 
-/* Hover effect for links */
-.site-header a:hover,
-.navbar a:hover {
-  color: #00ccff;
-  /* bright accent for dark mode */
-  transform: scale(1.05); }
-
-/* Remove top spacing from main content */
-main,
-.page,
-.content,
-.section {
-  margin-top: 0 !important;
-  padding-top: 0 !important; }
-
-/* Target the image inside view-showcase */
-.view-showcase img {
+/* ---------------------------------------------------------------------
+   3. Images: rounded corners + soft shadows
+   --------------------------------------------------------------------- */
+.view-showcase img,
+.stream-item.view-compact img,
+.featured-image-wrapper .featured-image,
+.article-header img.featured-image {
   border-radius: 1rem;
-  /* rounded corners */
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
-  /* soft shadow */
-  transition: transform 0.5s ease, box-shadow 0.5s ease, filter 0.5s ease;
-  width: 100%;
-  /* fill container */
-  height: auto;
-  object-fit: cover;
-  display: block; }
+  max-width: 100%;
+  height: auto; }
 
-/* Hover effect: lift and glow */
-.view-showcase img:hover {
-  transform: scale(1.03) translateY(-2px);
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45), 0 0 12px rgba(255, 255, 255, 0.2);
-  filter: brightness(1.05) contrast(1.1) saturate(1.05); }
-
-/* Main featured image on a research page */
-.featured-image-wrapper .featured-image {
-  border-radius: 1rem;
-  /* rounded corners */
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
-  /* soft shadow */
-  filter: brightness(0.95) contrast(1.05);
-  /* subtle dim/contrast */
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  display: block; }
-
-/* Vignette fade effect around edges */
 .featured-image-wrapper {
-  position: relative;
-  overflow: hidden;
-  border-radius: 1rem; }
-
-.featured-image-wrapper::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: inherit;
-  background: radial-gradient(circle at center, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.15) 100%);
-  pointer-events: none;
-  z-index: 1; }
-
-/* Target the image inside view-showcase */
-.view-showcase img {
   border-radius: 1rem;
-  /* rounded corners */
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
-  /* soft shadow */
-  transition: transform 0.5s ease, box-shadow 0.5s ease, filter 0.5s ease;
-  width: 100%;
-  /* fill container */
-  height: auto;
-  object-fit: cover;
-  display: block; }
+  overflow: hidden; }
 
-/* Hover effect: lift and glow */
-.view-showcase img:hover {
-  transform: scale(1.03) translateY(-2px);
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45), 0 0 12px rgba(255, 255, 255, 0.2);
-  filter: brightness(1.05) contrast(1.1) saturate(1.05); }
-
-/* Target the small featured images in Latest News compact stream */
-.stream-item.view-compact img {
-  border-radius: 1rem;
-  /* rounded corners */
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
-  /* soft shadow */
-  transition: transform 0.5s ease, box-shadow 0.5s ease, filter 0.5s ease;
-  width: 100%;
-  /* fill container */
-  height: auto;
-  object-fit: cover;
-  display: block; }
-
-/* Hover effect: lift and glow */
-.stream-item.view-compact img:hover {
-  transform: scale(1.03) translateY(-2px);
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45), 0 0 12px rgba(255, 255, 255, 0.2);
-  filter: brightness(1.05) contrast(1.1) saturate(1.05); }
-
-/* Target author avatars */
 .people-person img.avatar {
-  border-radius: 50%;
-  /* make it circular */
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
-  /* soft shadow */
-  transition: transform 0.5s ease, box-shadow 0.5s ease, filter 0.5s ease;
-  width: 100%;
-  /* fill container width */
-  height: auto;
-  object-fit: cover;
-  display: block; }
+  object-fit: cover; }
 
-/* Hover effect: lift and glow */
-.people-person img.avatar:hover {
-  transform: scale(1.05) translateY(-2px);
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45), 0 0 12px rgba(255, 255, 255, 0.2);
-  filter: brightness(1.05) contrast(1.1) saturate(1.05); }
+/* Hover animations only where there is a real mouse
+   (on phones, a tap would otherwise leave images zoomed/stuck). */
+@media (hover: hover) and (pointer: fine) {
+  .view-showcase img,
+  .stream-item.view-compact img,
+  .people-person img.avatar {
+    transition: transform 0.4s ease, box-shadow 0.4s ease, filter 0.4s ease; }
+  .view-showcase img:hover,
+  .stream-item.view-compact img:hover,
+  .people-person img.avatar:hover {
+    transform: scale(1.03) translateY(-2px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45), 0 0 12px rgba(255, 255, 255, 0.2);
+    filter: brightness(1.05) contrast(1.05); }
+  #navbar-main .nav-link:hover {
+    color: #00ccff !important; } }
 
-@media (max-width: 768px) {
-  body, main, .content, .page-content {
-    padding: 0 1rem !important; }
-  .container, .container-lg {
-    max-width: 100% !important; }
-  .site-header {
-    padding: 10px 20px !important;
-    font-size: 0.9rem !important; }
-  .content p {
-    max-width: 100% !important;
-    font-size: 1rem !important;
-    line-height: 1.6; }
-  img:hover {
-    transform: none !important;
-    box-shadow: none !important; }
-  body:has(.site-header:is(:not(:hover)) + *) .site-header {
-    transform: none !important; } }
-
-/* Move carousel navigation arrows */
-.carousel-control-prev,
-.carousel-control-next {
-  top: 80% !important;
-  /* move down (50% = middle) */
-  transform: translateY(-50%) !important; }
-
-/* Bring arrows closer to the slide content */
-.carousel-control-prev {
-  left: 2rem !important; }
-
-.carousel-control-next {
-  right: 2rem !important; }
-
-/* Optional: style tweaks for clarity on dark backgrounds */
+/* ---------------------------------------------------------------------
+   4. Homepage slider
+   --------------------------------------------------------------------- */
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6));
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.35);
   border-radius: 50%;
-  width: 3rem;
-  height: 3rem; }
+  background-size: 50% 50%;
+  width: 2.75rem;
+  height: 2.75rem; }
+
+@media (min-width: 768px) {
+  .carousel-control-prev,
+  .carousel-control-next {
+    top: auto;
+    bottom: 12%;
+    height: 4rem; } }
+
+/* Keep hero text readable over bright images */
+.wg-slider .hero-title,
+.wg-slider .hero-lead {
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.65); }
+
+/* Phones: swipe instead of arrows, readable headline, and no 100vh jump
+   under the mobile address bar. The theme puts an inline 6rem side margin
+   on the hero text, which leaves ~200px for the title on a phone. */
+@media (max-width: 767.98px) {
+  .carousel-control-prev,
+  .carousel-control-next {
+    display: none; }
+  .wg-slider .carousel-item.fullscreen {
+    height: 80vh;
+    height: 80svh;
+    min-height: 420px; }
+  .wg-slider .wg-hero {
+    margin-left: 1.25rem !important;
+    margin-right: 1.25rem !important;
+    width: auto; }
+  .wg-slider .hero-title {
+    font-size: 2.1rem; }
+  .wg-slider .hero-lead {
+    font-size: 1.05rem; } }
+
+/* ---------------------------------------------------------------------
+   5. Publication list: stack the search / type / year filters on phones
+   --------------------------------------------------------------------- */
+@media (max-width: 575.98px) {
+  .filter-search,
+  .pub-filters {
+    width: 100% !important;
+    max-width: none !important;
+    margin-bottom: 0.5rem; } }
+
+/* ---------------------------------------------------------------------
+   6. Small logo left of the site name in the navbar
+   (file: static/images/exoaim-logo.png — same artwork as the favicon)
+   --------------------------------------------------------------------- */
+#navbar-main .navbar-brand {
+  display: inline-flex;
+  align-items: center; }
+
+#navbar-main .navbar-brand::before {
+  content: "";
+  display: inline-block;
+  flex: 0 0 auto;
+  width: 1.9em;
+  height: 1.9em;
+  margin-right: 0.5rem;
+  background: url("../images/exoaim-logo.png") center/contain no-repeat; }

@@ -1,48 +1,62 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# ExoAIM Lab website
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+Source of the ExoAIM Lab (Exo-Atmospheric Interpretation and Modeling) group website —
+Kapteyn Astronomical Institute, University of Groningen.
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+Built with [Hugo](https://gohugo.io) and the [HugoBlox](https://hugoblox.com) "research group"
+theme. Every push to `main` is built and deployed to GitHub Pages by
+`.github/workflows/hugo.yaml`.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## Where things are
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+| What | Where |
+|---|---|
+| Homepage slider | `content/_index.md` |
+| Team profiles | `content/authors/<id>/_index.md` + `avatar.jpg` |
+| Research pages | `content/research/<topic>/index.md` + `featured.*` |
+| News posts | `content/post/<date_title>/index.md` + `featured.*` |
+| Publications | `content/publication/<firstauthor><year>_<keyword>/` (`index.md`, `cite.bib`, `featured.*`) |
+| Menu | `config/_default/menus.yaml` |
+| Site settings | `config/_default/params.yaml`, `config/_default/hugo.yaml` |
+| Custom styling | `assets/scss/custom.scss` |
+| Publication helper script | `scripts/update_publications.py` |
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## Preview locally
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+Install Hugo **extended** and Go, then from the repository root:
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+```bash
+hugo server
+```
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+and open http://localhost:1313. (No need to commit the `public/` folder: GitHub Actions builds it.)
 
-## We ask you, humbly, to support this open source movement
+## Publications
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+Publications are kept in sync with the group's SciX/ADS library by a helper script:
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+```bash
+export ADS_API_TOKEN=...          # personal token: https://scixplorer.org/user/settings/token
+python3 scripts/update_publications.py --dry-run   # preview
+python3 scripts/update_publications.py             # add new papers + update existing ones
+```
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+- New papers get a folder with `index.md`, `cite.bib` and a proposed `featured` image
+  (a figure from the arXiv HTML version). Review the summary, tags and caption.
+  Alternative figures are saved in `scripts/_candidates/<folder>/` (not published).
+- Existing arXiv-only entries are upgraded to their journal version, and missing PDF links
+  are filled in (`--no-update` to disable).
+- Delete any folder you don't want: it will not be re-created.
+- `--since 2025` ignores older papers, `--fill-figures` adds images where missing,
+  `--clean-images` tidies all featured images.
+- Optional but recommended: `pip install pillow` (image cleaning) and
+  `brew install librsvg` (for figures that only exist as SVG).
 
-## Demo credits
+Never commit the ADS token.
 
-Please replace the demo images with your own.
+## Adding a team member
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+Copy an existing folder in `content/authors/`, rename it (this becomes the author id),
+edit `_index.md` (name, role, `user_groups`, social links, bio) and replace `avatar.*`
+(a square photo of ~600 px is plenty). Use the same id in publication `authors:` lists to
+link papers to the profile.

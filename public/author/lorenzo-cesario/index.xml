@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenzo Cesario | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/lorenzo-cesario/</link>
+      <atom:link href="http://localhost:55609/author/lorenzo-cesario/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lorenzo Cesario</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Lorenzo Cesario</title>
+      <link>http://localhost:55609/author/lorenzo-cesario/</link>
+    </image>
+    
+    <item>
+      <title>Reflation: redox-driven atmospheric inflation as tracer of super-Earth geochemistry</title>
+      <link>http://localhost:55609/publication/cesario2026_reflation/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/cesario2026_reflation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

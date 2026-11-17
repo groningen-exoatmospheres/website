@@ -32,7 +32,7 @@ sections:
           icon: circle-user
           icon_pack: fas
           text: People
-          url: https://groningen-exoatmospheres.github.io/website/people/
+          url: people/
       - title: Try our retrieval framework!
         #content: 'See who is working at ExoAIM Groningen'
         align: center

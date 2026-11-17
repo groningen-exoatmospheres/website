@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra H. Thompson | ExoAIM Lab</title>
+    <link>http://localhost:1313/author/alexandra-h.-thompson/</link>
+      <atom:link href="http://localhost:1313/author/alexandra-h.-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandra H. Thompson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7814481d329322fb.png</url>
+      <title>Alexandra H. Thompson</title>
+      <link>http://localhost:1313/author/alexandra-h.-thompson/</link>
+    </image>
+    
+    <item>
+      <title>Ariel Tier 3 Observations: An Opportunity to Explore both Stellar and Planetary Variability through Broad Wavelength Time-domain Spectroscopy</title>
+      <link>http://localhost:1313/publication/thompson2026_tier/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thompson2026_tier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre-Olivier Lagage | ExoAIM Lab</title>
-    <link>http://localhost:49367/author/pierre-olivier-lagage/</link>
-      <atom:link href="http://localhost:49367/author/pierre-olivier-lagage/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55609/author/pierre-olivier-lagage/</link>
+      <atom:link href="http://localhost:55609/author/pierre-olivier-lagage/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre-Olivier Lagage</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:49367/media/icon_hu_7814481d329322fb.png</url>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Pierre-Olivier Lagage</title>
-      <link>http://localhost:49367/author/pierre-olivier-lagage/</link>
+      <link>http://localhost:55609/author/pierre-olivier-lagage/</link>
     </image>
     
     <item>
       <title>On the synergetic use of Ariel and JWST for exoplanet atmospheric science</title>
-      <link>http://localhost:49367/publication/changeat2026_synergywebb/</link>
+      <link>http://localhost:55609/publication/changeat2026_synergywebb/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/changeat2026_synergywebb/</guid>
+      <guid>http://localhost:55609/publication/changeat2026_synergywebb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
-      <link>http://localhost:49367/publication/voyer2025_wd/</link>
+      <link>http://localhost:55609/publication/voyer2025_wd/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:49367/publication/voyer2025_wd/</guid>
+      <guid>http://localhost:55609/publication/voyer2025_wd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spitzer thermal phase curve of WASP-121 b</title>
+      <link>http://localhost:55609/publication/morello2023_wasp121/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/morello2023_wasp121/</guid>
       <description></description>
     </item>
     

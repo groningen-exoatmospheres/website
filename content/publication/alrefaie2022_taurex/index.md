@@ -4,7 +4,7 @@ authors:
 - Ahmed F. Al-Refaie
 - admin
 - Ingo P. Waldmann
-- Giovana Tinetti
+- Giovanna Tinetti
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

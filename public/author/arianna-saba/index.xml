@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arianna Saba | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/arianna-saba/</link>
+      <atom:link href="http://localhost:55609/author/arianna-saba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arianna Saba</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Arianna Saba</title>
+      <link>http://localhost:55609/author/arianna-saba/</link>
+    </image>
+    
+    <item>
+      <title>The Transmission Spectrum of WASP-17 b From the Optical to the Near-infrared Wavelengths: Combining STIS, WFC3, and IRAC Data Sets</title>
+      <link>http://localhost:55609/publication/saba2022_wasp17/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/saba2022_wasp17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

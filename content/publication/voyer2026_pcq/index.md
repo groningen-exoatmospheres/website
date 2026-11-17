@@ -10,7 +10,7 @@ date: "2026-01-10T00:00:00Z"
 doi: "10.1051/0004-6361/202558469"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-25T00:00:00Z"
+publishDate: "2026-01-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2607.13793'
+url_pdf: 'https://arxiv.org/pdf/2601.14177'
 url_code: ''
 url_dataset: ''
 url_poster: ''

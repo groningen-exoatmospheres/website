@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Politi | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/r.-politi/</link>
+      <atom:link href="http://localhost:55609/author/r.-politi/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Politi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>R. Politi</title>
+      <link>http://localhost:55609/author/r.-politi/</link>
+    </image>
+    
+    <item>
+      <title>Tracing the Formation History of Giant Planets in Protoplanetary Disks with Carbon, Oxygen, Nitrogen, and Sulfur</title>
+      <link>http://localhost:55609/publication/turrini2021_tracing/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/turrini2021_tracing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

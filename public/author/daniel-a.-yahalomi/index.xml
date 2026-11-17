@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel A. Yahalomi | ExoAIM Lab</title>
+    <link>http://localhost:55609/author/daniel-a.-yahalomi/</link>
+      <atom:link href="http://localhost:55609/author/daniel-a.-yahalomi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel A. Yahalomi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>Daniel A. Yahalomi</title>
+      <link>http://localhost:55609/author/daniel-a.-yahalomi/</link>
+    </image>
+    
+    <item>
+      <title>A JWST Transit of a Jupiter Analog. II. A Search for Exomoons</title>
+      <link>http://localhost:55609/publication/kipping2026_transit/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/kipping2026_transit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A JWST Transit of a Jupiter Analog. I. Constraints on the Oblateness of Kepler-167 e</title>
+      <link>http://localhost:55609/publication/cassese2026_kepler167/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55609/publication/cassese2026_kepler167/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
