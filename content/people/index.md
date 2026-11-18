@@ -10,7 +10,7 @@ sections:
     content:
       eyebrow: Team
       title: Meet the team
-      text: Astronomers, research software engineers and students working together on exoplanet atmospheres, in Groningen and with partners across Europe.
+      text: Astronomers, research software engineers and students working together on exoplanet atmospheres, in Groningen and with partners across the World.
       photo: group.jpg                 # file in this folder (content/people/)
       photo_caption: The ExoAIM group on the ice in Groningen.
       photo_focus: "50% 62%"           # which part of the photo to keep when cropped
