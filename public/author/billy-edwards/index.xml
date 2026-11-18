@@ -2,253 +2,253 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Billy Edwards | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/billy-edwards/</link>
-      <atom:link href="http://localhost:55609/author/billy-edwards/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/billy-edwards/</link>
+      <atom:link href="http://localhost:56134/author/billy-edwards/index.xml" rel="self" type="application/rss+xml" />
     <description>Billy Edwards</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Billy Edwards</title>
-      <link>http://localhost:55609/author/billy-edwards/</link>
+      <link>http://localhost:56134/author/billy-edwards/</link>
     </image>
     
     <item>
       <title>A JWST Transit of a Jupiter Analog. II. A Search for Exomoons</title>
-      <link>http://localhost:55609/publication/kipping2026_transit/</link>
+      <link>http://localhost:56134/publication/kipping2026_transit/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/kipping2026_transit/</guid>
+      <guid>http://localhost:56134/publication/kipping2026_transit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:55609/publication/changeat2025_aerosols/</link>
+      <link>http://localhost:56134/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2025_aerosols/</guid>
+      <guid>http://localhost:56134/publication/changeat2025_aerosols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FRECKLL: Full and Reduced Exoplanet Chemical Kinetics DistiLLed</title>
-      <link>http://localhost:55609/publication/alrefaie2024_freckll/</link>
+      <link>http://localhost:56134/publication/alrefaie2024_freckll/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2024_freckll/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2024_freckll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Tracers of Planet Formation in the Atmosphere of WASP-77A b: Substellar O/H and C/H Ratios, with a Stellar C/O Ratio and a Potentially Superstellar Ti/H Ratio</title>
-      <link>http://localhost:55609/publication/edwards2024_wasp77a/</link>
+      <link>http://localhost:56134/publication/edwards2024_wasp77a/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2024_wasp77a/</guid>
+      <guid>http://localhost:56134/publication/edwards2024_wasp77a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the difficulties of obtaining absolute transit depths with HST WFC3: KELT-11 b, an example</title>
-      <link>http://localhost:55609/publication/edwards2024_kelt11/</link>
+      <link>http://localhost:56134/publication/edwards2024_kelt11/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2024_kelt11/</guid>
+      <guid>http://localhost:56134/publication/edwards2024_kelt11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Ability of Hubble Space Telescope WFC3 G141 to Uncover Trends in Populations of Exoplanet Atmospheres through a Homogeneous Transmission Survey of 70 Gaseous Planets</title>
-      <link>http://localhost:55609/publication/edwards2023_exploring/</link>
+      <link>http://localhost:56134/publication/edwards2023_exploring/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2023_exploring/</guid>
+      <guid>http://localhost:56134/publication/edwards2023_exploring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YunMa: Enabling Spectral Retrievals of Exoplanetary Clouds</title>
-      <link>http://localhost:55609/publication/ma2023_yunma/</link>
+      <link>http://localhost:56134/publication/ma2023_yunma/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ma2023_yunma/</guid>
+      <guid>http://localhost:56134/publication/ma2023_yunma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterizing a World Within the Hot-Neptune Desert: Transit Observations of LTT 9779 b with the Hubble Space Telescope/WFC3</title>
-      <link>http://localhost:55609/publication/edwards2023_characterizing/</link>
+      <link>http://localhost:56134/publication/edwards2023_characterizing/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2023_characterizing/</guid>
+      <guid>http://localhost:56134/publication/edwards2023_characterizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sections for heavy atmospheres: H2O self-broadening</title>
-      <link>http://localhost:55609/publication/anisman2022_crosssections/</link>
+      <link>http://localhost:56134/publication/anisman2022_crosssections/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/anisman2022_crosssections/</guid>
+      <guid>http://localhost:56134/publication/anisman2022_crosssections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Five Key Exoplanet Questions Answered via the Analysis of 25 Hot-Jupiter Atmospheres in Eclipse</title>
-      <link>http://localhost:55609/publication/changeat2022_fivekeys/</link>
+      <link>http://localhost:56134/publication/changeat2022_fivekeys/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2022_fivekeys/</guid>
+      <guid>http://localhost:56134/publication/changeat2022_fivekeys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A retrieval challenge exercise for the Ariel mission</title>
-      <link>http://localhost:55609/publication/barstow2022_retrieval/</link>
+      <link>http://localhost:56134/publication/barstow2022_retrieval/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/barstow2022_retrieval/</guid>
+      <guid>http://localhost:56134/publication/barstow2022_retrieval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detectability of Rocky-Vapour atmospheres on super-Earths with Ariel</title>
-      <link>http://localhost:55609/publication/ito2022_detectability/</link>
+      <link>http://localhost:56134/publication/ito2022_detectability/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ito2022_detectability/</guid>
+      <guid>http://localhost:56134/publication/ito2022_detectability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling atmospheric compositions of K2-18 b with next generation facilities</title>
-      <link>http://localhost:55609/publication/changeat2022_k218/</link>
+      <link>http://localhost:56134/publication/changeat2022_k218/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2022_k218/</guid>
+      <guid>http://localhost:56134/publication/changeat2022_k218/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near-infrared transmission spectrum of TRAPPIST-1 h using Hubble WFC3 G141 observations</title>
-      <link>http://localhost:55609/publication/gressier2022_trappist1/</link>
+      <link>http://localhost:56134/publication/gressier2022_trappist1/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/gressier2022_trappist1/</guid>
+      <guid>http://localhost:56134/publication/gressier2022_trappist1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peeking inside the Black Box: Interpreting Deep-learning Models for Exoplanet Atmospheric Retrievals</title>
-      <link>http://localhost:55609/publication/yip2021_peeking/</link>
+      <link>http://localhost:56134/publication/yip2021_peeking/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2021_peeking/</guid>
+      <guid>http://localhost:56134/publication/yip2021_peeking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Original Research by Young Twinkle Students (ORBYTS): ephemeris refinement of transiting exoplanets</title>
-      <link>http://localhost:55609/publication/edwards2021_original/</link>
+      <link>http://localhost:56134/publication/edwards2021_original/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2021_original/</guid>
+      <guid>http://localhost:56134/publication/edwards2021_original/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES. V. No Evidence For Molecular Absorption in the HST WFC3 Spectrum of GJ 1132 b</title>
-      <link>http://localhost:55609/publication/mugnai2021_ares/</link>
+      <link>http://localhost:56134/publication/mugnai2021_ares/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/mugnai2021_ares/</guid>
+      <guid>http://localhost:56134/publication/mugnai2021_ares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Exploration of Model Degeneracies with a Unified Phase Curve Retrieval Analysis: The Light and Dark Sides of WASP-43 b</title>
-      <link>http://localhost:55609/publication/changeat2021_wasp43/</link>
+      <link>http://localhost:56134/publication/changeat2021_wasp43/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2021_wasp43/</guid>
+      <guid>http://localhost:56134/publication/changeat2021_wasp43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hubble WFC3 Spectroscopy of the Habitable-zone Super-Earth LHS 1140 b</title>
-      <link>http://localhost:55609/publication/edwards2021_hubble/</link>
+      <link>http://localhost:56134/publication/edwards2021_hubble/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2021_hubble/</guid>
+      <guid>http://localhost:56134/publication/edwards2021_hubble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Compatibility of Ground-based and Space-based Data: WASP-96 b, an Example</title>
-      <link>http://localhost:55609/publication/yip2021_wasp96/</link>
+      <link>http://localhost:56134/publication/yip2021_wasp96/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2021_wasp96/</guid>
+      <guid>http://localhost:56134/publication/yip2021_wasp96/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hubble WFC3 Emission Spectrum of the Extremely Hot Jupiter KELT-9b</title>
-      <link>http://localhost:55609/publication/changeat2021_kelt9b/</link>
+      <link>http://localhost:56134/publication/changeat2021_kelt9b/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2021_kelt9b/</guid>
+      <guid>http://localhost:56134/publication/changeat2021_kelt9b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KELT-11 b: Abundances of Water and Constraints on Carbon-bearing Molecules from the Hubble Transmission Spectrum</title>
-      <link>http://localhost:55609/publication/changeat2020_kelt11/</link>
+      <link>http://localhost:56134/publication/changeat2020_kelt11/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_kelt11/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_kelt11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WASP-117 b: An Eccentric Hot Saturn as a Future Complex Chemistry Laboratory</title>
-      <link>http://localhost:55609/publication/anisman2020_wasp117/</link>
+      <link>http://localhost:56134/publication/anisman2020_wasp117/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/anisman2020_wasp117/</guid>
+      <guid>http://localhost:56134/publication/anisman2020_wasp117/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES. II. Characterizing the Hot Jupiters WASP-127 b, WASP-79 b, and WASP-62b with the Hubble Space Telescope</title>
-      <link>http://localhost:55609/publication/skaf2020_wasp127/</link>
+      <link>http://localhost:56134/publication/skaf2020_wasp127/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/skaf2020_wasp127/</guid>
+      <guid>http://localhost:56134/publication/skaf2020_wasp127/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES. III. Unveiling the Two Faces of KELT-7 b with HST WFC3</title>
-      <link>http://localhost:55609/publication/pluriel2020_kelt7/</link>
+      <link>http://localhost:56134/publication/pluriel2020_kelt7/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/pluriel2020_kelt7/</guid>
+      <guid>http://localhost:56134/publication/pluriel2020_kelt7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfnoor: A Retrieval Simulation of the Ariel Target List</title>
-      <link>http://localhost:55609/publication/changeat2020_alfnoor/</link>
+      <link>http://localhost:56134/publication/changeat2020_alfnoor/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_alfnoor/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_alfnoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES I: WASP-76 b, A Tale of Two HST Spectra</title>
-      <link>http://localhost:55609/publication/edwards2020_wasp76/</link>
+      <link>http://localhost:56134/publication/edwards2020_wasp76/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2020_wasp76/</guid>
+      <guid>http://localhost:56134/publication/edwards2020_wasp76/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Original Research by Young Twinkle Students (Orbyts): Ephemeris Refinement of Transiting Exoplanets II</title>
-      <link>http://localhost:55609/publication/edwards2020_original/</link>
+      <link>http://localhost:56134/publication/edwards2020_original/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2020_original/</guid>
+      <guid>http://localhost:56134/publication/edwards2020_original/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward a More Complex Description of Chemical Profiles in Exoplanet Retrievals: A Two-layer Parameterization</title>
-      <link>http://localhost:55609/publication/changeat2019_more/</link>
+      <link>http://localhost:56134/publication/changeat2019_more/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2019_more/</guid>
+      <guid>http://localhost:56134/publication/changeat2019_more/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pushing the Limits of Exoplanet Discovery via Direct Imaging with Deep Learning</title>
-      <link>http://localhost:55609/publication/yip2019_pushing/</link>
+      <link>http://localhost:56134/publication/yip2019_pushing/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2019_pushing/</guid>
+      <guid>http://localhost:56134/publication/yip2019_pushing/</guid>
       <description></description>
     </item>
     

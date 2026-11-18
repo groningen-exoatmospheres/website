@@ -1,0 +1,31 @@
+{{/* exo/pub-row.html — one publication row. Input: dict "page" "team" (from exo/team-ids). */}}
+{{ $p := .page }}{{ $team := .team }}
+{{ $authors := $p.Params.authors | default slice }}
+{{ $first := index $authors 0 | default "" }}
+{{ $isGroup := isset $team $first }}
+{{ $tags := $p.Params.tags | default slice }}
+{{ $names := slice }}
+{{ range $authors }}{{ $names = $names | append (index $team . | default .) }}{{ end }}
+<article class="exo-pub" data-year="{{ $p.Date.Year }}" data-group="{{ if $isGroup }}1{{ else }}0{{ end }}"
+  data-tags="{{ delimit $tags "|" }}" data-text="{{ lower (printf "%s %s %s %s" $p.Title (delimit $names " ") ($p.Params.publication | default "") (delimit $tags " ")) | plainify }}">
+  <a class="exo-pub-thumb {{ if not ($p.Resources.GetMatch "featured*") }}is-empty{{ end }}" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true">
+    {{ with partial "exo/img.html" (dict "page" $p "size" "320x240" "mode" "fit") }}<img src="{{ .RelPermalink }}" alt="" loading="lazy">{{ end }}
+  </a>
+  <div>
+    <h3 class="exo-pub-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+    <div class="exo-pub-authors">
+      {{- range $i, $a := $authors -}}{{ if $i }}, {{ end }}{{ if isset $team $a }}<b>{{ index $team $a }}</b>{{ else }}{{ $a }}{{ end }}{{- end -}}
+    </div>
+    <div class="exo-pub-venue">
+      {{ if $isGroup }}<span class="exo-badge-group" title="First author is a member of the group">Group-led</span>{{ end }}
+      {{ with $p.Params.publication }}<em>{{ . | markdownify }}</em>{{ end }}
+      <span>{{ $p.Date.Format "January 2006" }}</span>
+    </div>
+    <div class="exo-pub-links">
+      {{ with $p.Params.url_pdf }}<a href="{{ . }}" target="_blank" rel="noopener">PDF</a>{{ end }}
+      {{ with $p.Resources.GetMatch "cite.bib" }}<a href="#" class="js-cite-modal" data-filename="{{ .RelPermalink }}">Cite</a>{{ end }}
+      {{ with $p.Params.doi }}<a href="https://doi.org/{{ . }}" target="_blank" rel="noopener">DOI</a>{{ end }}
+      {{ with $p.Params.url_code }}<a href="{{ . }}" target="_blank" rel="noopener">Code</a>{{ end }}
+    </div>
+  </div>
+</article>

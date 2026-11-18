@@ -1,4 +1,7 @@
 ---
+short_title: "Hot Jupiters"
+summary: "Benchmark gas giants that let us test atmospheric physics and chemistry under extreme irradiation."
+related_tags: ["Gaseous Planets"]
 title: Hot Jupiters and Gaseous Planets
 weight: 1
 #date: 2020-12-01

@@ -39,7 +39,7 @@ tags:
 - Sub-Neptunes
 - Atmospheric Retrievals
 - Ideas
-featured: false
+featured: true
 
 # links:
 # - name: ""

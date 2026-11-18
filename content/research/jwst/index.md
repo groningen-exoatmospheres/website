@@ -1,4 +1,7 @@
 ---
+short_title: "JWST"
+summary: "Interpreting JWST spectra of exoplanets across the near- and mid-infrared."
+related_tags: ["JWST"]
 title: James Webb Space Telescope
 weight: 7
 #date: 2020-12-01

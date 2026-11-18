@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean-Christophe Salvignol | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/jean-christophe-salvignol/</link>
-      <atom:link href="http://localhost:55609/author/jean-christophe-salvignol/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/jean-christophe-salvignol/</link>
+      <atom:link href="http://localhost:56134/author/jean-christophe-salvignol/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Christophe Salvignol</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Jean-Christophe Salvignol</title>
-      <link>http://localhost:55609/author/jean-christophe-salvignol/</link>
+      <link>http://localhost:56134/author/jean-christophe-salvignol/</link>
     </image>
     
     <item>
       <title>Ariel: Enabling planetary science across light-years</title>
-      <link>http://localhost:55609/publication/tinetti2022_enabling/</link>
+      <link>http://localhost:56134/publication/tinetti2022_enabling/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/tinetti2022_enabling/</guid>
+      <guid>http://localhost:56134/publication/tinetti2022_enabling/</guid>
       <description></description>
     </item>
     

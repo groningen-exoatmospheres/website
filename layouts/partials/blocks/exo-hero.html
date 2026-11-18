@@ -1,0 +1,31 @@
+{{/* Block: exo-hero — full-width hero with the transit-curve motif and live stats. */}}
+{{ $b := .wcBlock }}{{ $c := $b.content }}
+{{ $codes := 0 }}{{ range .wcPage.Params.sections }}{{ if eq .block "exo-software" }}{{ $codes = len .content.items }}{{ end }}{{ end }}
+{{ $bg := "" }}
+{{ with $c.image }}{{ with resources.Get (printf "media/%s" .) }}{{ $bg = (.Fit "2000x2000 webp").RelPermalink }}{{ end }}{{ end }}
+{{ $pubs := where site.RegularPages "Section" "publication" }}
+{{ $team := 0 }}{{ range where site.Pages "Kind" "term" }}{{ if and .File (eq .Data.Plural "authors") (in .Params.user_groups "Members") }}{{ $team = add $team 1 }}{{ end }}{{ end }}
+<div class="exo-hero {{ if eq ($b.design.style | default "photo") "minimal" }}is-minimal{{ end }}" style="width:100vw;margin-left:calc(50% - 50vw);">
+  <div class="exo-hero-bg" {{ with $bg }}{{ if ne ($b.design.style | default "photo") "minimal" }}style="background-image:url('{{ . }}')"{{ end }}{{ end }}></div>
+  <div class="exo-hero-curve" aria-hidden="true"></div>
+  <div class="container">
+    {{ with $c.kicker }}<div class="exo-hero-kicker"><span class="dot"></span>{{ . }}</div>{{ end }}
+    <h1>{{ $c.title | safeHTML }}</h1>
+    {{ with $c.text }}<p class="exo-hero-lead">{{ . | markdownify }}</p>{{ end }}
+    <div class="exo-hero-actions">
+      {{ with $c.primary }}<a class="btn-exo" href="{{ .url | relLangURL }}">{{ .label }} <span aria-hidden="true">→</span></a>{{ end }}
+      {{ with $c.secondary }}<a class="btn-exo-ghost" href="{{ .url | relLangURL }}">{{ .label }}</a>{{ end }}
+    </div>
+    {{ with $c.stats }}
+    <div class="exo-stats">
+      {{ range . }}
+        {{ $v := .value }}
+        {{ if eq .value "auto:publications" }}{{ $v = printf "%d" (len $pubs) }}{{ end }}
+        {{ if eq .value "auto:team" }}{{ $v = printf "%d" $team }}{{ end }}
+        {{ if eq .value "auto:codes" }}{{ $v = printf "%d" $codes }}{{ end }}
+        <div class="exo-stat"><strong>{{ $v }}</strong><span>{{ .label }}</span></div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>

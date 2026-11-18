@@ -1,0 +1,29 @@
+{{/* Block: exo-research — research topics (content/research/*), ordered by weight.
+     design.style: tiles (compact image tiles, default on the homepage) | cards (image + summary) */}}
+{{ $b := .wcBlock }}{{ $c := $b.content }}
+{{ $items := (where site.RegularPages "Section" "research").ByWeight }}
+<div class="exo-section">
+  {{ partial "exo/section-head.html" $c }}
+  {{ if eq ($b.design.style | default "cards") "tiles" }}
+  <div class="exo-tiles">
+    {{ range $items }}
+    <a class="exo-tile" href="{{ .RelPermalink }}">
+      {{ with partial "exo/img.html" (dict "page" . "size" "480x360") }}<img src="{{ .RelPermalink }}" alt="" loading="lazy">{{ end }}
+      <span>{{ .Params.short_title | default .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="exo-grid {{ if $c.compact }}cols-4{{ end }}">
+    {{ range $items }}
+    <a class="exo-card" href="{{ .RelPermalink }}">
+      {{ with partial "exo/img.html" (dict "page" . "size" "720x405") }}<div class="exo-card-media"><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="lazy"></div>{{ end }}
+      <div class="exo-card-body">
+        <h3 class="exo-card-title">{{ .Params.short_title | default .Title }}</h3>
+        {{ with .Params.summary }}<p class="exo-card-text">{{ . | markdownify }}</p>{{ end }}
+      </div>
+    </a>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>

@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kai Hou Yip | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/kai-hou-yip/</link>
-      <atom:link href="http://localhost:55609/author/kai-hou-yip/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/kai-hou-yip/</link>
+      <atom:link href="http://localhost:56134/author/kai-hou-yip/index.xml" rel="self" type="application/rss+xml" />
     <description>Kai Hou Yip</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Kai Hou Yip</title>
-      <link>http://localhost:55609/author/kai-hou-yip/</link>
+      <link>http://localhost:56134/author/kai-hou-yip/</link>
     </image>
     
     <item>
       <title>Investigating the influence of asymmetric errors on retrievals of exoplanet transmission spectra</title>
-      <link>http://localhost:55609/publication/davey2025_investigating/</link>
+      <link>http://localhost:56134/publication/davey2025_investigating/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/davey2025_investigating/</guid>
+      <guid>http://localhost:56134/publication/davey2025_investigating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Atmospheric Retrievals of Panchromatic Light Curves: EXPLOR-ing Generalized Inversion Techniques for Transiting Exoplanets with JWST and Ariel</title>
-      <link>http://localhost:55609/publication/changeat2024_retrievals/</link>
+      <link>http://localhost:56134/publication/changeat2024_retrievals/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2024_retrievals/</guid>
+      <guid>http://localhost:56134/publication/changeat2024_retrievals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the difficulties of obtaining absolute transit depths with HST WFC3: KELT-11 b, an example</title>
-      <link>http://localhost:55609/publication/edwards2024_kelt11/</link>
+      <link>http://localhost:56134/publication/edwards2024_kelt11/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2024_kelt11/</guid>
+      <guid>http://localhost:56134/publication/edwards2024_kelt11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Sample or Not to Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalizing Flows</title>
-      <link>http://localhost:55609/publication/yip2024_sample/</link>
+      <link>http://localhost:56134/publication/yip2024_sample/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2024_sample/</guid>
+      <guid>http://localhost:56134/publication/yip2024_sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Ability of Hubble Space Telescope WFC3 G141 to Uncover Trends in Populations of Exoplanet Atmospheres through a Homogeneous Transmission Survey of 70 Gaseous Planets</title>
-      <link>http://localhost:55609/publication/edwards2023_exploring/</link>
+      <link>http://localhost:56134/publication/edwards2023_exploring/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2023_exploring/</guid>
+      <guid>http://localhost:56134/publication/edwards2023_exploring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESA-Ariel Data Challenge NeurIPS 2022: introduction to exo-atmospheric studies and presentation of the Atmospheric Big Challenge (ABC) Database</title>
-      <link>http://localhost:55609/publication/changeat2023_esaariel/</link>
+      <link>http://localhost:56134/publication/changeat2023_esaariel/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2023_esaariel/</guid>
+      <guid>http://localhost:56134/publication/changeat2023_esaariel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Approach to Sampling: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flow</title>
-      <link>http://localhost:55609/publication/yip2022_alternative/</link>
+      <link>http://localhost:56134/publication/yip2022_alternative/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2022_alternative/</guid>
+      <guid>http://localhost:56134/publication/yip2022_alternative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESA-Ariel Data Challenge NeurIPS 2022: Inferring Physical Properties of Exoplanets From Next-Generation Telescopes</title>
-      <link>http://localhost:55609/publication/yip2022_esaariel/</link>
+      <link>http://localhost:56134/publication/yip2022_esaariel/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2022_esaariel/</guid>
+      <guid>http://localhost:56134/publication/yip2022_esaariel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peeking inside the Black Box: Interpreting Deep-learning Models for Exoplanet Atmospheric Retrievals</title>
-      <link>http://localhost:55609/publication/yip2021_peeking/</link>
+      <link>http://localhost:56134/publication/yip2021_peeking/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2021_peeking/</guid>
+      <guid>http://localhost:56134/publication/yip2021_peeking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Original Research by Young Twinkle Students (ORBYTS): ephemeris refinement of transiting exoplanets</title>
-      <link>http://localhost:55609/publication/edwards2021_original/</link>
+      <link>http://localhost:56134/publication/edwards2021_original/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2021_original/</guid>
+      <guid>http://localhost:56134/publication/edwards2021_original/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Compatibility of Ground-based and Space-based Data: WASP-96 b, an Example</title>
-      <link>http://localhost:55609/publication/yip2021_wasp96/</link>
+      <link>http://localhost:56134/publication/yip2021_wasp96/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2021_wasp96/</guid>
+      <guid>http://localhost:56134/publication/yip2021_wasp96/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES. III. Unveiling the Two Faces of KELT-7 b with HST WFC3</title>
-      <link>http://localhost:55609/publication/pluriel2020_kelt7/</link>
+      <link>http://localhost:56134/publication/pluriel2020_kelt7/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/pluriel2020_kelt7/</guid>
+      <guid>http://localhost:56134/publication/pluriel2020_kelt7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pushing the Limits of Exoplanet Discovery via Direct Imaging with Deep Learning</title>
-      <link>http://localhost:55609/publication/yip2019_pushing/</link>
+      <link>http://localhost:56134/publication/yip2019_pushing/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2019_pushing/</guid>
+      <guid>http://localhost:56134/publication/yip2019_pushing/</guid>
       <description></description>
     </item>
     

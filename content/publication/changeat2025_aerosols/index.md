@@ -42,7 +42,7 @@ tags:
 - Transit
 - Gaseous Planets
 - Atmospheric Retrievals
-featured: false
+featured: true
 
 # links:
 # - name: ""

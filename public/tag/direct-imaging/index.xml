@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Direct Imaging | ExoAIM Lab</title>
-    <link>http://localhost:55609/tag/direct-imaging/</link>
-      <atom:link href="http://localhost:55609/tag/direct-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/tag/direct-imaging/</link>
+      <atom:link href="http://localhost:56134/tag/direct-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Direct Imaging</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Direct Imaging</title>
-      <link>http://localhost:55609/tag/direct-imaging/</link>
+      <link>http://localhost:56134/tag/direct-imaging/</link>
     </image>
     
     <item>
       <title>Stratospheres with no stars: Opacity-driven inversions in self-luminous atmospheres</title>
-      <link>http://localhost:55609/publication/kimura2026_stratospheres/</link>
+      <link>http://localhost:56134/publication/kimura2026_stratospheres/</link>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/kimura2026_stratospheres/</guid>
+      <guid>http://localhost:56134/publication/kimura2026_stratospheres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIRI-LRS Spectrum of a Cold Exoplanet around a White Dwarf: Water, Ammonia, and Methane Measurements</title>
-      <link>http://localhost:55609/publication/voyer2025_wd/</link>
+      <link>http://localhost:56134/publication/voyer2025_wd/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/voyer2025_wd/</guid>
+      <guid>http://localhost:56134/publication/voyer2025_wd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correction to: Retrieval study of cool, directly imaged exoplanet 51 Eri b</title>
-      <link>http://localhost:55609/publication/whiteford2024_correction/</link>
+      <link>http://localhost:56134/publication/whiteford2024_correction/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/whiteford2024_correction/</guid>
+      <guid>http://localhost:56134/publication/whiteford2024_correction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retrieval study of cool, directly imaged exoplanet 51 Eri b</title>
-      <link>http://localhost:55609/publication/whiteford2023_retrieval/</link>
+      <link>http://localhost:56134/publication/whiteford2023_retrieval/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/whiteford2023_retrieval/</guid>
+      <guid>http://localhost:56134/publication/whiteford2023_retrieval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pushing the Limits of Exoplanet Discovery via Direct Imaging with Deep Learning</title>
-      <link>http://localhost:55609/publication/yip2019_pushing/</link>
+      <link>http://localhost:56134/publication/yip2019_pushing/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2019_pushing/</guid>
+      <guid>http://localhost:56134/publication/yip2019_pushing/</guid>
       <description></description>
     </item>
     

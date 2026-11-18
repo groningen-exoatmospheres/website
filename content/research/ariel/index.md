@@ -1,4 +1,7 @@
 ---
+short_title: "ESA Ariel"
+summary: "Preparing ESA's Ariel population survey of exoplanet atmospheres, from target selection to analysis tools."
+related_tags: ["Ariel"]
 title: ESA's Ariel Space Telescope
 weight: 6
 #date: 2020-12-01

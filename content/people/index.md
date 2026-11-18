@@ -1,24 +1,22 @@
 ---
 title: People
 date: 2022-10-24
-
 type: landing
 
+# Team page. People come from content/authors/<id>/_index.md, selected by their
+# `user_groups`. Current team: PI first, then alphabetical by last name.
 sections:
-  - block: people
+  - block: exo-page-head
     content:
-      title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Members
-          - Guest and Visiting Researchers
-          - Former Members
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
-
+      eyebrow: Team
+      title: Meet the team
+      text: Astronomers, research software engineers and students working together on exoplanet atmospheres, in Groningen and with partners across Europe.
+      photo: group.jpg                 # file in this folder (content/people/)
+      photo_caption: The ExoAIM group on the ice in Groningen.
+      photo_focus: "50% 62%"           # which part of the photo to keep when cropped
+  - block: exo-team
+    content:
+      groups:
+        - {title: "", user_groups: [Members, Guest and Visiting Researchers], pin_first: admin}
+        - {title: Former members, user_groups: [Former Members], style: compact}
 ---

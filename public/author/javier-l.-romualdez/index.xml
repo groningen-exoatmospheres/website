@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javier L. Romualdez | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/javier-l.-romualdez/</link>
-      <atom:link href="http://localhost:55609/author/javier-l.-romualdez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/javier-l.-romualdez/</link>
+      <atom:link href="http://localhost:56134/author/javier-l.-romualdez/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier L. Romualdez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Javier L. Romualdez</title>
-      <link>http://localhost:55609/author/javier-l.-romualdez/</link>
+      <link>http://localhost:56134/author/javier-l.-romualdez/</link>
     </image>
     
     <item>
       <title>The Exoplanet Climate Infrared Telescope (EXCITE): gondola pointing and stabilization qualification</title>
-      <link>http://localhost:55609/publication/romualdez2024_climate/</link>
+      <link>http://localhost:56134/publication/romualdez2024_climate/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/romualdez2024_climate/</guid>
+      <guid>http://localhost:56134/publication/romualdez2024_climate/</guid>
       <description></description>
     </item>
     

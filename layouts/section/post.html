@@ -1,0 +1,22 @@
+{{- define "main" -}}
+{{/* News list as a card grid. */}}
+<div class="container">
+  <header class="exo-page-head">
+    <span class="exo-eyebrow">News</span>
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="text-muted">{{ . }}</div>{{ else }}<p>Results, grants, positions and other news from the group.</p>{{ end }}
+  </header>
+  <div class="exo-grid" style="margin-top:1rem">
+    {{ range .Pages.ByDate.Reverse }}
+    <a class="exo-card" href="{{ .RelPermalink }}">
+      {{ with partial "exo/img.html" (dict "page" . "size" "720x405") }}<div class="exo-card-media"><img src="{{ .RelPermalink }}" alt="" loading="lazy"></div>{{ end }}
+      <div class="exo-card-body">
+        <div class="exo-card-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></div>
+        <h3 class="exo-card-title">{{ .Title }}</h3>
+        <p class="exo-card-text">{{ .Summary | plainify | truncate 160 }}</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{- end -}}

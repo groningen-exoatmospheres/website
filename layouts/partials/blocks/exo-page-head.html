@@ -1,0 +1,15 @@
+{{/* Block: exo-page-head — page title area.
+     content: eyebrow, title, text, photo (file in the page folder), photo_caption, photo_focus (CSS object-position) */}}
+{{ $c := .wcBlock.content }}
+<header class="exo-page-head">
+  {{ with $c.eyebrow }}<span class="exo-eyebrow">{{ . }}</span>{{ end }}
+  <h1>{{ $c.title }}</h1>
+  {{ with $c.text }}<p>{{ . | markdownify }}</p>{{ end }}
+</header>
+{{ with $c.photo }}{{ with $.wcPage.Resources.GetMatch . }}
+{{ $img := .Fit "1800x1800 webp" }}
+<figure class="exo-photo">
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $c.photo_caption | default "Group photo" }}" style="object-position: {{ $c.photo_focus | default "50% 50%" | safeCSS }}">
+  {{ with $c.photo_caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>
+{{ end }}{{ end }}

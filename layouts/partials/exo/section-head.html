@@ -1,0 +1,12 @@
+{{/* exo/section-head.html — eyebrow + title + text + optional "more" link. Input: the block's .content */}}
+{{ $c := . }}
+{{ if or $c.title $c.eyebrow $c.text }}
+<div class="exo-section-head">
+  <div>
+    {{ with $c.eyebrow }}<span class="exo-eyebrow">{{ . }}</span>{{ end }}
+    {{ with $c.title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+    {{ with $c.text }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  {{ with $c.more }}<a class="exo-link-more" href="{{ .url | relLangURL }}">{{ .label }}</a>{{ end }}
+</div>
+{{ end }}

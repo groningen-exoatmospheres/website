@@ -41,7 +41,7 @@ tags:
 - Sub-Neptunes
 - Modeling
 - Ideas
-featured: false
+featured: true
 
 # links:
 # - name: ""

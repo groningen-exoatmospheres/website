@@ -1,0 +1,8 @@
+{{/* Block: exo-partners — text strip of missions, funders and partners. content.label, content.items */}}
+{{ $c := .wcBlock.content }}
+<div class="exo-section">
+  <div class="exo-partners">
+    {{ with $c.label }}<div class="exo-partners-label">{{ . }}</div>{{ end }}
+    {{ range $c.items }}<span>{{ . }}</span>{{ end }}
+  </div>
+</div>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natalie M. Batalha | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/natalie-m.-batalha/</link>
-      <atom:link href="http://localhost:55609/author/natalie-m.-batalha/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/natalie-m.-batalha/</link>
+      <atom:link href="http://localhost:56134/author/natalie-m.-batalha/index.xml" rel="self" type="application/rss+xml" />
     <description>Natalie M. Batalha</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Natalie M. Batalha</title>
-      <link>http://localhost:55609/author/natalie-m.-batalha/</link>
+      <link>http://localhost:56134/author/natalie-m.-batalha/</link>
     </image>
     
     <item>
       <title>Identification of carbon dioxide in an exoplanet atmosphere</title>
-      <link>http://localhost:55609/publication/team2023_identification/</link>
+      <link>http://localhost:56134/publication/team2023_identification/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/team2023_identification/</guid>
+      <guid>http://localhost:56134/publication/team2023_identification/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,8 @@
+# ExoAIM font pack — fonts are self-hosted in static/fonts/ (declared in assets/scss/custom.scss),
+# so no request is sent to Google Fonts.
+name = "ExoAIM"
+google_fonts = ""
+heading_font = "Space Grotesk"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "JetBrains Mono"

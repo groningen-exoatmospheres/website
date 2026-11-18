@@ -1,0 +1,17 @@
+{{/* exo/img.html — returns a processed featured image for a page (or nil).
+     Usage: {{ $img := partial "exo/img.html" (dict "page" . "size" "800x450" "mode" "fill|fit") }} */}}
+{{- $page := .page -}}
+{{- $size := .size | default "800x450" -}}
+{{- $mode := .mode | default "fill" -}}
+{{- $res := $page.Resources.GetMatch "featured*" -}}
+{{- $out := false -}}
+{{- with $res -}}
+  {{- if eq .MediaType.SubType "svg" -}}
+    {{- $out = . -}}
+  {{- else if eq $mode "fit" -}}
+    {{- $out = .Fit (printf "%s webp" $size) -}}
+  {{- else -}}
+    {{- $out = .Fill (printf "%s webp %s" $size ($page.Params.image.focal_point | default "Center")) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

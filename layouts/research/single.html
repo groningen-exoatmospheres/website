@@ -1,0 +1,47 @@
+{{- define "main" -}}
+{{/* Research topic page: image hero, text, related publications (via related_tags), other topics. */}}
+{{ $img := partial "exo/img.html" (dict "page" . "size" "1920x900") }}
+<section class="exo-topic-hero" style="width:100%">
+  {{ with $img }}<img src="{{ .RelPermalink }}" alt="">{{ end }}
+  <div class="container">
+    <span class="exo-eyebrow" style="background:linear-gradient(100deg,#8fb0ff,#67e0ff);-webkit-background-clip:text;background-clip:text">Research</span>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.summary }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+</section>
+<div class="container">
+  {{ with .Params.image.caption }}<div class="exo-topic-credit">{{ . | markdownify }}</div>{{ end }}
+  <div class="exo-topic-body article-style">{{ .Content }}</div>
+
+  {{ $rt := .Params.related_tags | default slice }}
+  {{ if $rt }}
+    {{ $team := partial "exo/team-ids.html" . }}
+    {{ $rel := slice }}
+    {{ range (where site.RegularPages "Section" "publication").ByDate.Reverse }}
+      {{ if intersect (.Params.tags | default slice) $rt }}{{ $rel = $rel | append . }}{{ end }}
+    {{ end }}
+    {{ if $rel }}
+    <section class="exo-related">
+      <div class="exo-section-head">
+        <div><span class="exo-eyebrow">Publications</span><h2>Recent papers on this topic</h2></div>
+        <a class="exo-link-more" href="{{ printf "tag/%s/" (index $rt 0 | urlize) | relLangURL }}">All {{ len $rel }} papers</a>
+      </div>
+      {{ range first 5 $rel }}{{ partial "exo/pub-row.html" (dict "page" . "team" $team) }}{{ end }}
+    </section>
+    {{ end }}
+  {{ end }}
+
+  <section class="exo-related">
+    <div class="exo-section-head"><div><span class="exo-eyebrow">Explore</span><h2>Other research topics</h2></div></div>
+    <div class="exo-grid cols-4">
+      {{ $self := . }}
+      {{ range (where (where site.RegularPages "Section" "research") "RelPermalink" "ne" .RelPermalink).ByWeight }}
+      <a class="exo-card" href="{{ .RelPermalink }}">
+        {{ with partial "exo/img.html" (dict "page" . "size" "640x360") }}<div class="exo-card-media"><img src="{{ .RelPermalink }}" alt="" loading="lazy"></div>{{ end }}
+        <div class="exo-card-body"><h3 class="exo-card-title" style="font-size:1rem">{{ .Params.short_title | default .Title }}</h3></div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+</div>
+{{- end -}}

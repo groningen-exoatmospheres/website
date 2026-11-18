@@ -1,4 +1,7 @@
 ---
+short_title: "Transitional worlds"
+summary: "Super-Earths and sub-Neptunes: worlds between rocky and gas-rich, and how their atmospheres form and evolve."
+related_tags: ["Rocky Planets", "Sub-Neptunes"]
 title: Super-Earths, Sub-Neptunes, and Transitional Exoplanets
 weight: 2
 #date: 2020-12-01

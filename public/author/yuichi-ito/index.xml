@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuichi Ito | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/yuichi-ito/</link>
-      <atom:link href="http://localhost:55609/author/yuichi-ito/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/yuichi-ito/</link>
+      <atom:link href="http://localhost:56134/author/yuichi-ito/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuichi Ito</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Yuichi Ito</title>
-      <link>http://localhost:55609/author/yuichi-ito/</link>
+      <link>http://localhost:56134/author/yuichi-ito/</link>
     </image>
     
     <item>
       <title>sub-Neptunes are like Karakara senbei, observing their interiors is challenging!</title>
-      <link>http://localhost:55609/post/2026_07_25_ito_meltyq/</link>
+      <link>http://localhost:56134/post/2026_07_25_ito_meltyq/</link>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/post/2026_07_25_ito_meltyq/</guid>
+      <guid>http://localhost:56134/post/2026_07_25_ito_meltyq/</guid>
       <description>&lt;p&gt;A study reveals how interiors of exoplanets can be infered from observation of their atmospheres.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;
 With recent advances in astronomical observation techniques, exoplanetary atmospheres can now be characterized with increasingly high precision, opening new opportunities to infer information about planetary interiors from observable atmospheric properties. This is particularly important for sub-Neptunes, planets with radii a few times that of Earth, whose interiors remain uncertain as to whether they are predominantly rocky or icy. We have developed MELTYQ, an analysis framework that constrains the state of rocky magma in a planet’s interior while directly incorporating observational noise in atmospheric spectra. 
@@ -29,33 +29,33 @@ Applying MELTYQ to data obtained with JWST, we show that a hypothesized rocky ma
     
     <item>
       <title>Coupling Magma─Ocean and Atmospheres in Spectral Retrievals of Sub-Neptunes</title>
-      <link>http://localhost:55609/publication/ito2026_meltyq/</link>
+      <link>http://localhost:56134/publication/ito2026_meltyq/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ito2026_meltyq/</guid>
+      <guid>http://localhost:56134/publication/ito2026_meltyq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Atmospheric Retrievals of Panchromatic Light Curves: EXPLOR-ing Generalized Inversion Techniques for Transiting Exoplanets with JWST and Ariel</title>
-      <link>http://localhost:55609/publication/changeat2024_retrievals/</link>
+      <link>http://localhost:56134/publication/changeat2024_retrievals/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2024_retrievals/</guid>
+      <guid>http://localhost:56134/publication/changeat2024_retrievals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YunMa: Enabling Spectral Retrievals of Exoplanetary Clouds</title>
-      <link>http://localhost:55609/publication/ma2023_yunma/</link>
+      <link>http://localhost:56134/publication/ma2023_yunma/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ma2023_yunma/</guid>
+      <guid>http://localhost:56134/publication/ma2023_yunma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detectability of Rocky-Vapour atmospheres on super-Earths with Ariel</title>
-      <link>http://localhost:55609/publication/ito2022_detectability/</link>
+      <link>http://localhost:56134/publication/ito2022_detectability/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ito2022_detectability/</guid>
+      <guid>http://localhost:56134/publication/ito2022_detectability/</guid>
       <description></description>
     </item>
     

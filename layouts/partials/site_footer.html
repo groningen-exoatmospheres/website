@@ -1,0 +1,37 @@
+{{/* Site footer (overrides the theme footer). Edit links here. */}}
+<footer class="exo-footer">
+  <div class="container">
+    <div class="exo-footer-grid">
+      <div>
+        <div class="exo-footer-brand"><img src="{{ "images/exoaim-logo.png" | relURL }}" alt="">{{ site.Title }}</div>
+        <p>Exo-Atmospheric Interpretation and Modeling Lab at the Kapteyn Astronomical Institute, University of Groningen.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="{{ "research/" | relLangURL }}">Research</a></li>
+          <li><a href="{{ "publication/" | relLangURL }}">Publications</a></li>
+          <li><a href="{{ "people/" | relLangURL }}">Team</a></li>
+          <li><a href="{{ "post/" | relLangURL }}">News</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Code &amp; projects</h4>
+        <ul>
+          <li><a href="https://github.com/groningen-exoatmospheres" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://taurex.space/" target="_blank" rel="noopener">TauREx</a></li>
+          <li><a href="https://research-software-directory.org/projects/taurex4" target="_blank" rel="noopener">TauREx4 project</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <p>Kapteyn Astronomical Institute<br>Landleven 12, 9747 AD Groningen<br>The Netherlands</p>
+        <p style="margin-top:.6rem"><a href="mailto:q.changeat@rug.nl">q.changeat@rug.nl</a></p>
+      </div>
+    </div>
+    <div class="exo-footer-bottom">
+      <span>© {{ now.Year }} ExoAIM Lab · <a href="https://www.rug.nl/research/kapteyn/" target="_blank" rel="noopener">Kapteyn Institute</a> · <a href="https://www.rug.nl/" target="_blank" rel="noopener">University of Groningen</a></span>
+      <span>Built with <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> &amp; <a href="https://hugoblox.com" target="_blank" rel="noopener">Hugo Blox</a></span>
+    </div>
+  </div>
+</footer>

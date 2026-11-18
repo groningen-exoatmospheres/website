@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Broeg | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/c.-broeg/</link>
-      <atom:link href="http://localhost:55609/author/c.-broeg/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/c.-broeg/</link>
+      <atom:link href="http://localhost:56134/author/c.-broeg/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Broeg</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>C. Broeg</title>
-      <link>http://localhost:55609/author/c.-broeg/</link>
+      <link>http://localhost:56134/author/c.-broeg/</link>
     </image>
     
     <item>
       <title>WALTzER: Wide-band Atmospheric Laboratory for Transiting Exoplanet Research</title>
-      <link>http://localhost:55609/publication/sreejith2026_waltzer/</link>
+      <link>http://localhost:56134/publication/sreejith2026_waltzer/</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/sreejith2026_waltzer/</guid>
+      <guid>http://localhost:56134/publication/sreejith2026_waltzer/</guid>
       <description></description>
     </item>
     

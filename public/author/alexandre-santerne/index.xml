@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandre Santerne | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/alexandre-santerne/</link>
-      <atom:link href="http://localhost:55609/author/alexandre-santerne/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/alexandre-santerne/</link>
+      <atom:link href="http://localhost:56134/author/alexandre-santerne/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandre Santerne</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Alexandre Santerne</title>
-      <link>http://localhost:55609/author/alexandre-santerne/</link>
+      <link>http://localhost:56134/author/alexandre-santerne/</link>
     </image>
     
     <item>
       <title>ARES IV: Probing the Atmospheres of the Two Warm Small Planets HD 106315c and HD 3167c with the HST/WFC3 Camera</title>
-      <link>http://localhost:55609/publication/guilluy2021_ares/</link>
+      <link>http://localhost:56134/publication/guilluy2021_ares/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/guilluy2021_ares/</guid>
+      <guid>http://localhost:56134/publication/guilluy2021_ares/</guid>
       <description></description>
     </item>
     

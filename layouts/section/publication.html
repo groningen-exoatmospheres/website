@@ -1,0 +1,78 @@
+{{- define "main" -}}
+{{/* Publications list (overrides the theme's citation list): year groups, thumbnails,
+     group-led badge, tag chips + search (vanilla JS below). */}}
+{{ $team := partial "exo/team-ids.html" . }}
+{{ $pubs := .Pages.ByDate.Reverse }}
+{{ $tagCount := dict }}
+{{ range $pubs }}{{ range .Params.tags }}{{ $tagCount = merge $tagCount (dict . (add (index $tagCount . | default 0) 1)) }}{{ end }}{{ end }}
+{{ $chips := slice "JWST" "Ariel" "HST" "Atmospheric Retrievals" "Modeling" "Gaseous Planets" "Sub-Neptunes" "Rocky Planets" "Phase-curve" "Data Reduction" }}
+<div class="container">
+  <header class="exo-page-head">
+    <span class="exo-eyebrow">Publications</span>
+    <h1>{{ .Title }}</h1>
+    <p>Papers from the ExoAIM group and our collaborations. Papers <b>led</b> by group members carry a <span class="exo-badge-group">Group-led</span> badge.</p>
+  </header>
+
+  <div class="exo-pub-tools" id="exo-pub-tools">
+    <input class="exo-pub-search" type="search" placeholder="Search title, author, journal…" aria-label="Search publications" id="exo-pub-search">
+    <div class="exo-pub-chips" role="group" aria-label="Filter by topic">
+      <button type="button" class="exo-chip" data-group-toggle aria-pressed="false">★ Group-led</button>
+      {{ range $chips }}{{ if index $tagCount . }}<button type="button" class="exo-chip" data-tag="{{ . }}" aria-pressed="false">{{ . }}</button>{{ end }}{{ end }}
+    </div>
+    <span class="exo-pub-count" id="exo-pub-count" aria-live="polite"></span>
+  </div>
+
+  {{ range $pubs.GroupByDate "2006" }}
+    <div class="exo-year" data-year-head="{{ .Key }}"><h2>{{ .Key }}</h2></div>
+    {{ range .Pages }}{{ partial "exo/pub-row.html" (dict "page" . "team" $team) }}{{ end }}
+  {{ end }}
+  <p class="exo-pub-empty" id="exo-pub-empty">No publication matches these filters.</p>
+</div>
+
+<script>
+(function () {
+  const q = document.getElementById('exo-pub-search');
+  const rows = Array.from(document.querySelectorAll('.exo-pub'));
+  const heads = Array.from(document.querySelectorAll('.exo-year'));
+  const count = document.getElementById('exo-pub-count');
+  const empty = document.getElementById('exo-pub-empty');
+  const tagBtns = Array.from(document.querySelectorAll('[data-tag]'));
+  const groupBtn = document.querySelector('[data-group-toggle]');
+  let tags = new Set(), groupOnly = false;
+  function apply() {
+    const term = q.value.trim().toLowerCase();
+    let shown = 0; const years = new Set();
+    rows.forEach(r => {
+      const rt = r.dataset.tags.split('|');
+      const ok = (!term || r.dataset.text.includes(term)) &&
+                 (!groupOnly || r.dataset.group === '1') &&
+                 ([...tags].every(t => rt.includes(t)));
+      r.classList.toggle('is-hidden', !ok);
+      if (ok) { shown++; years.add(r.dataset.year); }
+    });
+    heads.forEach(h => h.classList.toggle('is-hidden', !years.has(h.dataset.yearHead)));
+    count.textContent = shown + ' of ' + rows.length + ' papers';
+    empty.style.display = shown ? 'none' : 'block';
+  }
+  tagBtns.forEach(b => b.addEventListener('click', () => {
+    const t = b.dataset.tag; tags.has(t) ? tags.delete(t) : tags.add(t);
+    b.classList.toggle('is-active'); b.setAttribute('aria-pressed', tags.has(t)); apply();
+  }));
+  groupBtn.addEventListener('click', () => { groupOnly = !groupOnly; groupBtn.classList.toggle('is-active'); groupBtn.setAttribute('aria-pressed', groupOnly); apply(); });
+  q.addEventListener('input', apply);
+  apply();
+
+  // Keep the toolbar right under the header: the header hides when scrolling down
+  // (class headroom--unpinned) and comes back when scrolling up.
+  const header = document.querySelector('.page-header');
+  const tools = document.getElementById('exo-pub-tools');
+  function place() {
+    const hidden = header && header.classList.contains('headroom--unpinned');
+    tools.style.setProperty('--exo-header-offset', (hidden || !header) ? '0px' : header.offsetHeight + 'px');
+  }
+  if (header) new MutationObserver(place).observe(header, { attributes: true, attributeFilter: ['class'] });
+  window.addEventListener('resize', place);
+  place();
+})();
+</script>
+{{- end -}}

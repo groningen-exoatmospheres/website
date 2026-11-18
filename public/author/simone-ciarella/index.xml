@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simone Ciarella | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/simone-ciarella/</link>
-      <atom:link href="http://localhost:55609/author/simone-ciarella/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/simone-ciarella/</link>
+      <atom:link href="http://localhost:56134/author/simone-ciarella/index.xml" rel="self" type="application/rss+xml" />
     <description>Simone Ciarella</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:55609/author/simone-ciarella/avatar_hu_f2827c99c0db0cc9.jpg</url>
+      <url>http://localhost:56134/author/simone-ciarella/avatar_hu_f2827c99c0db0cc9.jpg</url>
       <title>Simone Ciarella</title>
-      <link>http://localhost:55609/author/simone-ciarella/</link>
+      <link>http://localhost:56134/author/simone-ciarella/</link>
     </image>
     
   </channel>

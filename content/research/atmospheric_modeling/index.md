@@ -1,4 +1,7 @@
 ---
+short_title: "Atmospheric modelling"
+summary: "Radiative transfer, chemistry and dynamics combined into physical models of exoplanet climates."
+related_tags: ["Modeling"]
 title: Atmospheric Modelling
 weight: 3
 #date: 2020-12-01

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eva-Maria Ahrer | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/eva-maria-ahrer/</link>
-      <atom:link href="http://localhost:55609/author/eva-maria-ahrer/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/eva-maria-ahrer/</link>
+      <atom:link href="http://localhost:56134/author/eva-maria-ahrer/index.xml" rel="self" type="application/rss+xml" />
     <description>Eva-Maria Ahrer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Eva-Maria Ahrer</title>
-      <link>http://localhost:55609/author/eva-maria-ahrer/</link>
+      <link>http://localhost:56134/author/eva-maria-ahrer/</link>
     </image>
     
     <item>
       <title>A Dark, Bare Rock for TOI-1685 b from a JWST NIRSpec G395H Phase Curve</title>
-      <link>http://localhost:55609/publication/luque2025_toi1685/</link>
+      <link>http://localhost:56134/publication/luque2025_toi1685/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/luque2025_toi1685/</guid>
+      <guid>http://localhost:56134/publication/luque2025_toi1685/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early Release Science of the exoplanet WASP-39b with JWST NIRCam</title>
-      <link>http://localhost:55609/publication/ahrer2023_wasp39b/</link>
+      <link>http://localhost:56134/publication/ahrer2023_wasp39b/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ahrer2023_wasp39b/</guid>
+      <guid>http://localhost:56134/publication/ahrer2023_wasp39b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of carbon dioxide in an exoplanet atmosphere</title>
-      <link>http://localhost:55609/publication/team2023_identification/</link>
+      <link>http://localhost:56134/publication/team2023_identification/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/team2023_identification/</guid>
+      <guid>http://localhost:56134/publication/team2023_identification/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorenzo V. Mugnai | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/lorenzo-v.-mugnai/</link>
-      <atom:link href="http://localhost:55609/author/lorenzo-v.-mugnai/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/lorenzo-v.-mugnai/</link>
+      <atom:link href="http://localhost:56134/author/lorenzo-v.-mugnai/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo V. Mugnai</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Lorenzo V. Mugnai</title>
-      <link>http://localhost:55609/author/lorenzo-v.-mugnai/</link>
+      <link>http://localhost:56134/author/lorenzo-v.-mugnai/</link>
     </image>
     
     <item>
       <title>Detecting molecules in Ariel low resolution transmission spectra</title>
-      <link>http://localhost:55609/publication/bocchieri2023_detecting/</link>
+      <link>http://localhost:56134/publication/bocchieri2023_detecting/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/bocchieri2023_detecting/</guid>
+      <guid>http://localhost:56134/publication/bocchieri2023_detecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfnoor: Assessing the Information Content of Ariel&#39;s Low-resolution Spectra with Planetary Population Studies</title>
-      <link>http://localhost:55609/publication/mugnai2021_alfnoor/</link>
+      <link>http://localhost:56134/publication/mugnai2021_alfnoor/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/mugnai2021_alfnoor/</guid>
+      <guid>http://localhost:56134/publication/mugnai2021_alfnoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES. V. No Evidence For Molecular Absorption in the HST WFC3 Spectrum of GJ 1132 b</title>
-      <link>http://localhost:55609/publication/mugnai2021_ares/</link>
+      <link>http://localhost:56134/publication/mugnai2021_ares/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/mugnai2021_ares/</guid>
+      <guid>http://localhost:56134/publication/mugnai2021_ares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfnoor: A Retrieval Simulation of the Ariel Target List</title>
-      <link>http://localhost:55609/publication/changeat2020_alfnoor/</link>
+      <link>http://localhost:56134/publication/changeat2020_alfnoor/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_alfnoor/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_alfnoor/</guid>
       <description></description>
     </item>
     

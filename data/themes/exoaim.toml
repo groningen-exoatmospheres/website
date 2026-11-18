@@ -1,0 +1,26 @@
+# ExoAIM colour theme — accent taken from the logo (blue -> indigo).
+# Used by config/_default/params.yaml (appearance.theme_day / theme_night).
+name = "ExoAIM"
+font = "exoaim"
+
+[light]
+  primary = "#2f5fe0"
+  link = "#2f5fe0"
+  link_hover = "#1d47bd"
+  menu_primary = "rgba(255, 255, 255, 0.82)"
+  menu_text = "#334155"
+  menu_text_active = "#2f5fe0"
+  menu_title = "#0f172a"
+  home_section_odd = "#ffffff"
+  home_section_even = "#f5f7fc"
+
+[dark]
+  primary = "#7da2ff"
+  link = "#8fb0ff"
+  link_hover = "#c3d3ff"
+  menu_primary = "rgba(7, 11, 23, 0.78)"
+  menu_text = "rgba(226, 232, 248, 0.78)"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+  home_section_odd = "#070b17"
+  home_section_even = "#0a1020"

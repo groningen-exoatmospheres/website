@@ -1,4 +1,7 @@
 ---
+short_title: "Retrieval development"
+summary: "Turning spectra into temperatures, chemistry and clouds, and building the codes that do it, like TauREx."
+related_tags: ["Atmospheric Retrievals"]
 title: Atmospheric Retrieval Development
 weight: 4
 #date: 2020-12-01

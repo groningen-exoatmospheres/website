@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katy L. Chubb | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/katy-l.-chubb/</link>
-      <atom:link href="http://localhost:55609/author/katy-l.-chubb/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/katy-l.-chubb/</link>
+      <atom:link href="http://localhost:56134/author/katy-l.-chubb/index.xml" rel="self" type="application/rss+xml" />
     <description>Katy L. Chubb</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Katy L. Chubb</title>
-      <link>http://localhost:55609/author/katy-l.-chubb/</link>
+      <link>http://localhost:56134/author/katy-l.-chubb/</link>
     </image>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:55609/publication/changeat2025_aerosols/</link>
+      <link>http://localhost:56134/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2025_aerosols/</guid>
+      <guid>http://localhost:56134/publication/changeat2025_aerosols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correction to: Retrieval study of cool, directly imaged exoplanet 51 Eri b</title>
-      <link>http://localhost:55609/publication/whiteford2024_correction/</link>
+      <link>http://localhost:56134/publication/whiteford2024_correction/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/whiteford2024_correction/</guid>
+      <guid>http://localhost:56134/publication/whiteford2024_correction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retrieval study of cool, directly imaged exoplanet 51 Eri b</title>
-      <link>http://localhost:55609/publication/whiteford2023_retrieval/</link>
+      <link>http://localhost:56134/publication/whiteford2023_retrieval/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/whiteford2023_retrieval/</guid>
+      <guid>http://localhost:56134/publication/whiteford2023_retrieval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sections for heavy atmospheres: H2O self-broadening</title>
-      <link>http://localhost:55609/publication/anisman2022_crosssections/</link>
+      <link>http://localhost:56134/publication/anisman2022_crosssections/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/anisman2022_crosssections/</guid>
+      <guid>http://localhost:56134/publication/anisman2022_crosssections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A retrieval challenge exercise for the Ariel mission</title>
-      <link>http://localhost:55609/publication/barstow2022_retrieval/</link>
+      <link>http://localhost:56134/publication/barstow2022_retrieval/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/barstow2022_retrieval/</guid>
+      <guid>http://localhost:56134/publication/barstow2022_retrieval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sections for heavy atmospheres: H2O continuum</title>
-      <link>http://localhost:55609/publication/anisman2022_crosssections2/</link>
+      <link>http://localhost:56134/publication/anisman2022_crosssections2/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/anisman2022_crosssections2/</guid>
+      <guid>http://localhost:56134/publication/anisman2022_crosssections2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Compatibility of Ground-based and Space-based Data: WASP-96 b, an Example</title>
-      <link>http://localhost:55609/publication/yip2021_wasp96/</link>
+      <link>http://localhost:56134/publication/yip2021_wasp96/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2021_wasp96/</guid>
+      <guid>http://localhost:56134/publication/yip2021_wasp96/</guid>
       <description></description>
     </item>
     

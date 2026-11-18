@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deborah Bardet | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/deborah-bardet/</link>
-      <atom:link href="http://localhost:55609/author/deborah-bardet/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/deborah-bardet/</link>
+      <atom:link href="http://localhost:56134/author/deborah-bardet/index.xml" rel="self" type="application/rss+xml" />
     <description>Deborah Bardet</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Deborah Bardet</title>
-      <link>http://localhost:55609/author/deborah-bardet/</link>
+      <link>http://localhost:56134/author/deborah-bardet/</link>
     </image>
     
     <item>
       <title>Cloud and haze parameterization in atmospheric retrievals: Insights from Titan&#39;s Cassini data and JWST observations of hot Jupiters</title>
-      <link>http://localhost:55609/publication/changeat2025_aerosols/</link>
+      <link>http://localhost:56134/publication/changeat2025_aerosols/</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2025_aerosols/</guid>
+      <guid>http://localhost:56134/publication/changeat2025_aerosols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Re-analysis of ten hot-Jupiter atmospheres with disequilibrium chemistry retrieval</title>
-      <link>http://localhost:55609/publication/bardet2025_reanalysis/</link>
+      <link>http://localhost:56134/publication/bardet2025_reanalysis/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/bardet2025_reanalysis/</guid>
+      <guid>http://localhost:56134/publication/bardet2025_reanalysis/</guid>
       <description></description>
     </item>
     

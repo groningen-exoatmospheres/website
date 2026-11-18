@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theresa Lueftinger | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/theresa-lueftinger/</link>
-      <atom:link href="http://localhost:55609/author/theresa-lueftinger/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/theresa-lueftinger/</link>
+      <atom:link href="http://localhost:56134/author/theresa-lueftinger/index.xml" rel="self" type="application/rss+xml" />
     <description>Theresa Lueftinger</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Theresa Lueftinger</title>
-      <link>http://localhost:55609/author/theresa-lueftinger/</link>
+      <link>http://localhost:56134/author/theresa-lueftinger/</link>
     </image>
     
     <item>
       <title>Ariel Tier 3 Observations: An Opportunity to Explore both Stellar and Planetary Variability through Broad Wavelength Time-domain Spectroscopy</title>
-      <link>http://localhost:55609/publication/thompson2026_tier/</link>
+      <link>http://localhost:56134/publication/thompson2026_tier/</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/thompson2026_tier/</guid>
+      <guid>http://localhost:56134/publication/thompson2026_tier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Atmospheric Retrievals of Panchromatic Light Curves: EXPLOR-ing Generalized Inversion Techniques for Transiting Exoplanets with JWST and Ariel</title>
-      <link>http://localhost:55609/publication/changeat2024_retrievals/</link>
+      <link>http://localhost:56134/publication/changeat2024_retrievals/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2024_retrievals/</guid>
+      <guid>http://localhost:56134/publication/changeat2024_retrievals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ariel: Enabling planetary science across light-years</title>
-      <link>http://localhost:55609/publication/tinetti2022_enabling/</link>
+      <link>http://localhost:56134/publication/tinetti2022_enabling/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/tinetti2022_enabling/</guid>
+      <guid>http://localhost:56134/publication/tinetti2022_enabling/</guid>
       <description></description>
     </item>
     

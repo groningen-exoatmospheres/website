@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emilie Panek | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/emilie-panek/</link>
-      <atom:link href="http://localhost:55609/author/emilie-panek/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/emilie-panek/</link>
+      <atom:link href="http://localhost:56134/author/emilie-panek/index.xml" rel="self" type="application/rss+xml" />
     <description>Emilie Panek</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Emilie Panek</title>
-      <link>http://localhost:55609/author/emilie-panek/</link>
+      <link>http://localhost:56134/author/emilie-panek/</link>
     </image>
     
     <item>
       <title>Re-analysis of ten hot-Jupiter atmospheres with disequilibrium chemistry retrieval</title>
-      <link>http://localhost:55609/publication/bardet2025_reanalysis/</link>
+      <link>http://localhost:56134/publication/bardet2025_reanalysis/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/bardet2025_reanalysis/</guid>
+      <guid>http://localhost:56134/publication/bardet2025_reanalysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A re-analysis of equilibrium chemistry in five hot Jupiters</title>
-      <link>http://localhost:55609/publication/panek2023_reanalysis/</link>
+      <link>http://localhost:56134/publication/panek2023_reanalysis/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/panek2023_reanalysis/</guid>
+      <guid>http://localhost:56134/publication/panek2023_reanalysis/</guid>
       <description></description>
     </item>
     

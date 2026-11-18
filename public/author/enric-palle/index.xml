@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enric Pallé | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/enric-palle/</link>
-      <atom:link href="http://localhost:55609/author/enric-palle/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/enric-palle/</link>
+      <atom:link href="http://localhost:56134/author/enric-palle/index.xml" rel="self" type="application/rss+xml" />
     <description>Enric Pallé</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Enric Pallé</title>
-      <link>http://localhost:55609/author/enric-palle/</link>
+      <link>http://localhost:56134/author/enric-palle/</link>
     </image>
     
     <item>
       <title>The atmospheric composition of the sub-Neptune K2-18b and insights into its formation</title>
-      <link>http://localhost:55609/publication/fernandezrodriguez2026_k218b/</link>
+      <link>http://localhost:56134/publication/fernandezrodriguez2026_k218b/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/fernandezrodriguez2026_k218b/</guid>
+      <guid>http://localhost:56134/publication/fernandezrodriguez2026_k218b/</guid>
       <description></description>
     </item>
     

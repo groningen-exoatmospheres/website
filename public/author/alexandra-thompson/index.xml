@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandra Thompson | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/alexandra-thompson/</link>
-      <atom:link href="http://localhost:55609/author/alexandra-thompson/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/alexandra-thompson/</link>
+      <atom:link href="http://localhost:56134/author/alexandra-thompson/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandra Thompson</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Alexandra Thompson</title>
-      <link>http://localhost:55609/author/alexandra-thompson/</link>
+      <link>http://localhost:56134/author/alexandra-thompson/</link>
     </image>
     
     <item>
       <title>Ariel Tier 3 Observations: An Opportunity to Explore both Stellar and Planetary Variability through Broad Wavelength Time-domain Spectroscopy</title>
-      <link>http://localhost:55609/publication/thompson2026_tier/</link>
+      <link>http://localhost:56134/publication/thompson2026_tier/</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/thompson2026_tier/</guid>
+      <guid>http://localhost:56134/publication/thompson2026_tier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correcting Exoplanet Transmission Spectra for Stellar Activity with an Optimized Retrieval Framework</title>
-      <link>http://localhost:55609/publication/thompson2024_correcting/</link>
+      <link>http://localhost:56134/publication/thompson2024_correcting/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/thompson2024_correcting/</guid>
+      <guid>http://localhost:56134/publication/thompson2024_correcting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Transmission Spectrum of WASP-17 b From the Optical to the Near-infrared Wavelengths: Combining STIS, WFC3, and IRAC Data Sets</title>
-      <link>http://localhost:55609/publication/saba2022_wasp17/</link>
+      <link>http://localhost:56134/publication/saba2022_wasp17/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/saba2022_wasp17/</guid>
+      <guid>http://localhost:56134/publication/saba2022_wasp17/</guid>
       <description></description>
     </item>
     

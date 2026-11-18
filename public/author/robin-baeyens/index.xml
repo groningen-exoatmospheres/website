@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robin Baeyens | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/robin-baeyens/</link>
-      <atom:link href="http://localhost:55609/author/robin-baeyens/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/robin-baeyens/</link>
+      <atom:link href="http://localhost:56134/author/robin-baeyens/index.xml" rel="self" type="application/rss+xml" />
     <description>Robin Baeyens</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Robin Baeyens</title>
-      <link>http://localhost:55609/author/robin-baeyens/</link>
+      <link>http://localhost:56134/author/robin-baeyens/</link>
     </image>
     
     <item>
       <title>Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies</title>
-      <link>http://localhost:55609/publication/venot2026_probing/</link>
+      <link>http://localhost:56134/publication/venot2026_probing/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/venot2026_probing/</guid>
+      <guid>http://localhost:56134/publication/venot2026_probing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES I: WASP-76 b, A Tale of Two HST Spectra</title>
-      <link>http://localhost:55609/publication/edwards2020_wasp76/</link>
+      <link>http://localhost:56134/publication/edwards2020_wasp76/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2020_wasp76/</guid>
+      <guid>http://localhost:56134/publication/edwards2020_wasp76/</guid>
       <description></description>
     </item>
     

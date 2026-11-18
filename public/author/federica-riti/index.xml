@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Federica Riti | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/federica-riti/</link>
-      <atom:link href="http://localhost:55609/author/federica-riti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/federica-riti/</link>
+      <atom:link href="http://localhost:56134/author/federica-riti/index.xml" rel="self" type="application/rss+xml" />
     <description>Federica Riti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:55609/author/federica-riti/avatar_hu_25fca3a9ea6bc90.png</url>
+      <url>http://localhost:56134/author/federica-riti/avatar_hu_25fca3a9ea6bc90.png</url>
       <title>Federica Riti</title>
-      <link>http://localhost:55609/author/federica-riti/</link>
+      <link>http://localhost:56134/author/federica-riti/</link>
     </image>
     
   </channel>

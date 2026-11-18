@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Rocchetto | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/marco-rocchetto/</link>
-      <atom:link href="http://localhost:55609/author/marco-rocchetto/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/marco-rocchetto/</link>
+      <atom:link href="http://localhost:56134/author/marco-rocchetto/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Rocchetto</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Marco Rocchetto</title>
-      <link>http://localhost:55609/author/marco-rocchetto/</link>
+      <link>http://localhost:56134/author/marco-rocchetto/</link>
     </image>
     
     <item>
       <title>A comparison of exoplanet spectroscopic retrieval tools</title>
-      <link>http://localhost:55609/publication/barstow2020_comparison/</link>
+      <link>http://localhost:56134/publication/barstow2020_comparison/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/barstow2020_comparison/</guid>
+      <guid>http://localhost:56134/publication/barstow2020_comparison/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,7 @@
 ---
+short_title: "Statistics & data"
+summary: "Advanced statistics, machine learning and open data challenges for high-dimensional inference."
+related_tags: []
 title: Statistics and Data Challenges
 weight: 5
 #date: 2020-12-01

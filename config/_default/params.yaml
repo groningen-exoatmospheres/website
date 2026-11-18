@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: 
-  theme_night:
-  font: "Poppins"
+  theme_day: exoaim      # data/themes/exoaim.toml
+  theme_night: exoaim
+  font: exoaim           # data/fonts/exoaim.toml (self-hosted fonts)
   font_size: M
 
 # SEO

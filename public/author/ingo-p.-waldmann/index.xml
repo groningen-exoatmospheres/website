@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ingo P. Waldmann | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/ingo-p.-waldmann/</link>
-      <atom:link href="http://localhost:55609/author/ingo-p.-waldmann/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/ingo-p.-waldmann/</link>
+      <atom:link href="http://localhost:56134/author/ingo-p.-waldmann/index.xml" rel="self" type="application/rss+xml" />
     <description>Ingo P. Waldmann</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Ingo P. Waldmann</title>
-      <link>http://localhost:55609/author/ingo-p.-waldmann/</link>
+      <link>http://localhost:56134/author/ingo-p.-waldmann/</link>
     </image>
     
     <item>
       <title>Knobs and dials of retrieving JWST transmission spectra. II. Impacts of pipeline-level differences on retrieval posteriors</title>
-      <link>http://localhost:55609/publication/schleich2025_knobs2/</link>
+      <link>http://localhost:56134/publication/schleich2025_knobs2/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/schleich2025_knobs2/</guid>
+      <guid>http://localhost:56134/publication/schleich2025_knobs2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating the influence of asymmetric errors on retrievals of exoplanet transmission spectra</title>
-      <link>http://localhost:55609/publication/davey2025_investigating/</link>
+      <link>http://localhost:56134/publication/davey2025_investigating/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/davey2025_investigating/</guid>
+      <guid>http://localhost:56134/publication/davey2025_investigating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knobs and dials of retrieving JWST transmission spectra: I. The importance of p–T profile complexity</title>
-      <link>http://localhost:55609/publication/schleich2024_knobs1/</link>
+      <link>http://localhost:56134/publication/schleich2024_knobs1/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/schleich2024_knobs1/</guid>
+      <guid>http://localhost:56134/publication/schleich2024_knobs1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Sample or Not to Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalizing Flows</title>
-      <link>http://localhost:55609/publication/yip2024_sample/</link>
+      <link>http://localhost:56134/publication/yip2024_sample/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2024_sample/</guid>
+      <guid>http://localhost:56134/publication/yip2024_sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Approach to Sampling: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flow</title>
-      <link>http://localhost:55609/publication/yip2022_alternative/</link>
+      <link>http://localhost:56134/publication/yip2022_alternative/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2022_alternative/</guid>
+      <guid>http://localhost:56134/publication/yip2022_alternative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Comparison of Chemical Models of Exoplanet Atmospheres Enabled by TauREx 3.1</title>
-      <link>http://localhost:55609/publication/alrefaie2022_comparison/</link>
+      <link>http://localhost:56134/publication/alrefaie2022_comparison/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2022_comparison/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2022_comparison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESA-Ariel Data Challenge NeurIPS 2022: Inferring Physical Properties of Exoplanets From Next-Generation Telescopes</title>
-      <link>http://localhost:55609/publication/yip2022_esaariel/</link>
+      <link>http://localhost:56134/publication/yip2022_esaariel/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2022_esaariel/</guid>
+      <guid>http://localhost:56134/publication/yip2022_esaariel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling atmospheric compositions of K2-18 b with next generation facilities</title>
-      <link>http://localhost:55609/publication/changeat2022_k218/</link>
+      <link>http://localhost:56134/publication/changeat2022_k218/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2022_k218/</guid>
+      <guid>http://localhost:56134/publication/changeat2022_k218/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TauREx 3: A Fast, Dynamic, and Extendable Framework for Retrievals</title>
-      <link>http://localhost:55609/publication/alrefaie2022_taurex/</link>
+      <link>http://localhost:56134/publication/alrefaie2022_taurex/</link>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2022_taurex/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2022_taurex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Exploration of Model Degeneracies with a Unified Phase Curve Retrieval Analysis: The Light and Dark Sides of WASP-43 b</title>
-      <link>http://localhost:55609/publication/changeat2021_wasp43/</link>
+      <link>http://localhost:56134/publication/changeat2021_wasp43/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2021_wasp43/</guid>
+      <guid>http://localhost:56134/publication/changeat2021_wasp43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfnoor: A Retrieval Simulation of the Ariel Target List</title>
-      <link>http://localhost:55609/publication/changeat2020_alfnoor/</link>
+      <link>http://localhost:56134/publication/changeat2020_alfnoor/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_alfnoor/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_alfnoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of Planetary Mass Uncertainties on Exoplanet Atmospheric Retrievals</title>
-      <link>http://localhost:55609/publication/changeat2020_impact/</link>
+      <link>http://localhost:56134/publication/changeat2020_impact/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_impact/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comparison of exoplanet spectroscopic retrieval tools</title>
-      <link>http://localhost:55609/publication/barstow2020_comparison/</link>
+      <link>http://localhost:56134/publication/barstow2020_comparison/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/barstow2020_comparison/</guid>
+      <guid>http://localhost:56134/publication/barstow2020_comparison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Chemistry and Thermal Structure Models for the Hot Jupiter WASP-43b and Predictions for JWST</title>
-      <link>http://localhost:55609/publication/venot2020_wasp43b/</link>
+      <link>http://localhost:56134/publication/venot2020_wasp43b/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/venot2020_wasp43b/</guid>
+      <guid>http://localhost:56134/publication/venot2020_wasp43b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward a More Complex Description of Chemical Profiles in Exoplanet Retrievals: A Two-layer Parameterization</title>
-      <link>http://localhost:55609/publication/changeat2019_more/</link>
+      <link>http://localhost:56134/publication/changeat2019_more/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2019_more/</guid>
+      <guid>http://localhost:56134/publication/changeat2019_more/</guid>
       <description></description>
     </item>
     

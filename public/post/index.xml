@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | ExoAIM Lab</title>
-    <link>http://localhost:55609/post/</link>
-      <atom:link href="http://localhost:55609/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
+    <title>News | ExoAIM Lab</title>
+    <link>http://localhost:56134/post/</link>
+      <atom:link href="http://localhost:56134/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
-      <title>Latest News</title>
-      <link>http://localhost:55609/post/</link>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <title>News</title>
+      <link>http://localhost:56134/post/</link>
     </image>
     
     <item>
       <title>TauREx4: eScience grant for the next generation of our retrieval code</title>
-      <link>http://localhost:55609/post/2026_11_18_taurex4_escience/</link>
+      <link>http://localhost:56134/post/2026_11_18_taurex4_escience/</link>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/post/2026_11_18_taurex4_escience/</guid>
+      <guid>http://localhost:56134/post/2026_11_18_taurex4_escience/</guid>
       <description>&lt;p&gt;Our group has been awarded a Netherlands eScience Center grant to build TauREx4, the next generation of the TauREx atmospheric retrieval framework.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;
 Over the coming decade, JWST, ESO&#39;s Extremely Large Telescope and ESA&#39;s Ariel mission will deliver an unprecedented volume of exoplanet atmosphere observations. Interpreting these data means exploring very large and complex parameter spaces, at a scale that current atmospheric retrieval tools struggle to handle.
@@ -32,9 +32,9 @@ The project runs until 2029 and is led by University of Groningen, eScience Cent
     
     <item>
       <title>sub-Neptunes are like Karakara senbei, observing their interiors is challenging!</title>
-      <link>http://localhost:55609/post/2026_07_25_ito_meltyq/</link>
+      <link>http://localhost:56134/post/2026_07_25_ito_meltyq/</link>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/post/2026_07_25_ito_meltyq/</guid>
+      <guid>http://localhost:56134/post/2026_07_25_ito_meltyq/</guid>
       <description>&lt;p&gt;A study reveals how interiors of exoplanets can be infered from observation of their atmospheres.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;
 With recent advances in astronomical observation techniques, exoplanetary atmospheres can now be characterized with increasingly high precision, opening new opportunities to infer information about planetary interiors from observable atmospheric properties. This is particularly important for sub-Neptunes, planets with radii a few times that of Earth, whose interiors remain uncertain as to whether they are predominantly rocky or icy. We have developed MELTYQ, an analysis framework that constrains the state of rocky magma in a planet’s interior while directly incorporating observational noise in atmospheric spectra. 
@@ -47,9 +47,9 @@ Applying MELTYQ to data obtained with JWST, we show that a hypothesized rocky ma
     
     <item>
       <title>PhD positions at ExoAIM (2025).</title>
-      <link>http://localhost:55609/post/2025_11_14_position_exoaim/</link>
+      <link>http://localhost:56134/post/2025_11_14_position_exoaim/</link>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/post/2025_11_14_position_exoaim/</guid>
+      <guid>http://localhost:56134/post/2025_11_14_position_exoaim/</guid>
       <description>&lt;p&gt;A PhD position in the ExoAIM group is available at the Kapteyn Astronomical Institute, University of Groningen, NL&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;
 PhD Position Title: Studying exoplanet atmospheres with JWST.
@@ -62,9 +62,9 @@ Position details: The James Webb Space Telescope (JWST) is transforming our unde
     
     <item>
       <title>Unique insights on the atmosphere of a white dwarf exoplanet.</title>
-      <link>http://localhost:55609/post/2025_10_25_voyer_wdnews/</link>
+      <link>http://localhost:56134/post/2025_10_25_voyer_wdnews/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/post/2025_10_25_voyer_wdnews/</guid>
+      <guid>http://localhost:56134/post/2025_10_25_voyer_wdnews/</guid>
       <description>&lt;p&gt;A study reveals the atmospheric properties of a Jupiter-like planet, WD 0806-661 b, which orbits a white dwarf.&lt;/p&gt;
 &lt;p style=&#34;text-align: justify;&#34;&gt;
 Maël Voyer and collaborators have published a new study unveiling the atmospheric properties of WD 0806-661 b, a unique, cold exoplanet which orbits a white dwarf, aka a dead star. 

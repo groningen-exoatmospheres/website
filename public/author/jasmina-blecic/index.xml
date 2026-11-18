@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jasmina Blecic | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/jasmina-blecic/</link>
-      <atom:link href="http://localhost:55609/author/jasmina-blecic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/jasmina-blecic/</link>
+      <atom:link href="http://localhost:56134/author/jasmina-blecic/index.xml" rel="self" type="application/rss+xml" />
     <description>Jasmina Blecic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Jasmina Blecic</title>
-      <link>http://localhost:55609/author/jasmina-blecic/</link>
+      <link>http://localhost:56134/author/jasmina-blecic/</link>
     </image>
     
     <item>
       <title>Global Chemistry and Thermal Structure Models for the Hot Jupiter WASP-43b and Predictions for JWST</title>
-      <link>http://localhost:55609/publication/venot2020_wasp43b/</link>
+      <link>http://localhost:56134/publication/venot2020_wasp43b/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/venot2020_wasp43b/</guid>
+      <guid>http://localhost:56134/publication/venot2020_wasp43b/</guid>
       <description></description>
     </item>
     

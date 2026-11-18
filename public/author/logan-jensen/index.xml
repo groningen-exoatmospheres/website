@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logan Jensen | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/logan-jensen/</link>
-      <atom:link href="http://localhost:55609/author/logan-jensen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/logan-jensen/</link>
+      <atom:link href="http://localhost:56134/author/logan-jensen/index.xml" rel="self" type="application/rss+xml" />
     <description>Logan Jensen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Logan Jensen</title>
-      <link>http://localhost:55609/author/logan-jensen/</link>
+      <link>http://localhost:56134/author/logan-jensen/</link>
     </image>
     
     <item>
       <title>Design and testing of a low-resolution NIR spectrograph for the Exoplanet Climate Infrared Telescope</title>
-      <link>http://localhost:55609/publication/bernard2024_design/</link>
+      <link>http://localhost:56134/publication/bernard2024_design/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/bernard2024_design/</guid>
+      <guid>http://localhost:56134/publication/bernard2024_design/</guid>
       <description></description>
     </item>
     

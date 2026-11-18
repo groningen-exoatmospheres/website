@@ -2,173 +2,173 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmed F. Al-Refaie | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/ahmed-f.-al-refaie/</link>
-      <atom:link href="http://localhost:55609/author/ahmed-f.-al-refaie/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/ahmed-f.-al-refaie/</link>
+      <atom:link href="http://localhost:56134/author/ahmed-f.-al-refaie/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed F. Al-Refaie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Ahmed F. Al-Refaie</title>
-      <link>http://localhost:55609/author/ahmed-f.-al-refaie/</link>
+      <link>http://localhost:56134/author/ahmed-f.-al-refaie/</link>
     </image>
     
     <item>
       <title>FRECKLL: Full and Reduced Exoplanet Chemical Kinetics DistiLLed</title>
-      <link>http://localhost:55609/publication/alrefaie2024_freckll/</link>
+      <link>http://localhost:56134/publication/alrefaie2024_freckll/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2024_freckll/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2024_freckll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Atmospheric Retrievals of Panchromatic Light Curves: EXPLOR-ing Generalized Inversion Techniques for Transiting Exoplanets with JWST and Ariel</title>
-      <link>http://localhost:55609/publication/changeat2024_retrievals/</link>
+      <link>http://localhost:56134/publication/changeat2024_retrievals/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2024_retrievals/</guid>
+      <guid>http://localhost:56134/publication/changeat2024_retrievals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>To Sample or Not to Sample: Retrieving Exoplanetary Spectra with Variational Inference and Normalizing Flows</title>
-      <link>http://localhost:55609/publication/yip2024_sample/</link>
+      <link>http://localhost:56134/publication/yip2024_sample/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2024_sample/</guid>
+      <guid>http://localhost:56134/publication/yip2024_sample/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Ability of Hubble Space Telescope WFC3 G141 to Uncover Trends in Populations of Exoplanet Atmospheres through a Homogeneous Transmission Survey of 70 Gaseous Planets</title>
-      <link>http://localhost:55609/publication/edwards2023_exploring/</link>
+      <link>http://localhost:56134/publication/edwards2023_exploring/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2023_exploring/</guid>
+      <guid>http://localhost:56134/publication/edwards2023_exploring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YunMa: Enabling Spectral Retrievals of Exoplanetary Clouds</title>
-      <link>http://localhost:55609/publication/ma2023_yunma/</link>
+      <link>http://localhost:56134/publication/ma2023_yunma/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ma2023_yunma/</guid>
+      <guid>http://localhost:56134/publication/ma2023_yunma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Alternative Approach to Sampling: Retrieving Exoplanetary Spectra with Variational Inference and Normalising Flow</title>
-      <link>http://localhost:55609/publication/yip2022_alternative/</link>
+      <link>http://localhost:56134/publication/yip2022_alternative/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2022_alternative/</guid>
+      <guid>http://localhost:56134/publication/yip2022_alternative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Comparison of Chemical Models of Exoplanet Atmospheres Enabled by TauREx 3.1</title>
-      <link>http://localhost:55609/publication/alrefaie2022_comparison/</link>
+      <link>http://localhost:56134/publication/alrefaie2022_comparison/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2022_comparison/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2022_comparison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESA-Ariel Data Challenge NeurIPS 2022: Inferring Physical Properties of Exoplanets From Next-Generation Telescopes</title>
-      <link>http://localhost:55609/publication/yip2022_esaariel/</link>
+      <link>http://localhost:56134/publication/yip2022_esaariel/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/yip2022_esaariel/</guid>
+      <guid>http://localhost:56134/publication/yip2022_esaariel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Five Key Exoplanet Questions Answered via the Analysis of 25 Hot-Jupiter Atmospheres in Eclipse</title>
-      <link>http://localhost:55609/publication/changeat2022_fivekeys/</link>
+      <link>http://localhost:56134/publication/changeat2022_fivekeys/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2022_fivekeys/</guid>
+      <guid>http://localhost:56134/publication/changeat2022_fivekeys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detectability of Rocky-Vapour atmospheres on super-Earths with Ariel</title>
-      <link>http://localhost:55609/publication/ito2022_detectability/</link>
+      <link>http://localhost:56134/publication/ito2022_detectability/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ito2022_detectability/</guid>
+      <guid>http://localhost:56134/publication/ito2022_detectability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling atmospheric compositions of K2-18 b with next generation facilities</title>
-      <link>http://localhost:55609/publication/changeat2022_k218/</link>
+      <link>http://localhost:56134/publication/changeat2022_k218/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2022_k218/</guid>
+      <guid>http://localhost:56134/publication/changeat2022_k218/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sections for heavy atmospheres: H2O continuum</title>
-      <link>http://localhost:55609/publication/anisman2022_crosssections2/</link>
+      <link>http://localhost:56134/publication/anisman2022_crosssections2/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/anisman2022_crosssections2/</guid>
+      <guid>http://localhost:56134/publication/anisman2022_crosssections2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfnoor: Assessing the Information Content of Ariel&#39;s Low-resolution Spectra with Planetary Population Studies</title>
-      <link>http://localhost:55609/publication/mugnai2021_alfnoor/</link>
+      <link>http://localhost:56134/publication/mugnai2021_alfnoor/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/mugnai2021_alfnoor/</guid>
+      <guid>http://localhost:56134/publication/mugnai2021_alfnoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TauREx 3: A Fast, Dynamic, and Extendable Framework for Retrievals</title>
-      <link>http://localhost:55609/publication/alrefaie2022_taurex/</link>
+      <link>http://localhost:56134/publication/alrefaie2022_taurex/</link>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2022_taurex/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2022_taurex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Exploration of Model Degeneracies with a Unified Phase Curve Retrieval Analysis: The Light and Dark Sides of WASP-43 b</title>
-      <link>http://localhost:55609/publication/changeat2021_wasp43/</link>
+      <link>http://localhost:56134/publication/changeat2021_wasp43/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2021_wasp43/</guid>
+      <guid>http://localhost:56134/publication/changeat2021_wasp43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KELT-11 b: Abundances of Water and Constraints on Carbon-bearing Molecules from the Hubble Transmission Spectrum</title>
-      <link>http://localhost:55609/publication/changeat2020_kelt11/</link>
+      <link>http://localhost:56134/publication/changeat2020_kelt11/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_kelt11/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_kelt11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WASP-117 b: An Eccentric Hot Saturn as a Future Complex Chemistry Laboratory</title>
-      <link>http://localhost:55609/publication/anisman2020_wasp117/</link>
+      <link>http://localhost:56134/publication/anisman2020_wasp117/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/anisman2020_wasp117/</guid>
+      <guid>http://localhost:56134/publication/anisman2020_wasp117/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfnoor: A Retrieval Simulation of the Ariel Target List</title>
-      <link>http://localhost:55609/publication/changeat2020_alfnoor/</link>
+      <link>http://localhost:56134/publication/changeat2020_alfnoor/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_alfnoor/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_alfnoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TauREx3 PhaseCurve: A 1.5D Model for Phase-curve Description</title>
-      <link>http://localhost:55609/publication/changeat2020_taurex3/</link>
+      <link>http://localhost:56134/publication/changeat2020_taurex3/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_taurex3/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_taurex3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES I: WASP-76 b, A Tale of Two HST Spectra</title>
-      <link>http://localhost:55609/publication/edwards2020_wasp76/</link>
+      <link>http://localhost:56134/publication/edwards2020_wasp76/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2020_wasp76/</guid>
+      <guid>http://localhost:56134/publication/edwards2020_wasp76/</guid>
       <description></description>
     </item>
     

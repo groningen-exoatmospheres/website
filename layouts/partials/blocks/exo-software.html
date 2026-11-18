@@ -1,0 +1,35 @@
+{{/* Block: exo-software — tools the group develops.
+     content.items: name, text, icon (fa name), url (code), docs, paper (site path)
+     design.style: compact (name + one line, whole tile links) | cards */}}
+{{ $b := .wcBlock }}{{ $c := $b.content }}
+<div class="exo-section">
+  {{ partial "exo/section-head.html" $c }}
+  {{ if eq ($b.design.style | default "cards") "compact" }}
+  <div class="exo-tools">
+    {{ range $c.items }}
+    {{ $href := .docs | default .url | default (.paper | relLangURL) }}
+    <a class="exo-tool" href="{{ $href }}" {{ if or .docs .url }}target="_blank" rel="noopener"{{ end }}>
+      <span class="exo-soft-icon"><i class="{{ .icon_pack | default "fas" }} fa-{{ .icon | default "code" }}" aria-hidden="true"></i></span>
+      <span><strong>{{ .name }}</strong><small>{{ .short | default .text }}</small></span>
+    </a>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="exo-grid">
+    {{ range $c.items }}
+    <div class="exo-card exo-soft">
+      <div class="exo-soft-head">
+        <span class="exo-soft-icon"><i class="{{ .icon_pack | default "fas" }} fa-{{ .icon | default "code" }}" aria-hidden="true"></i></span>
+        <h3>{{ .name }}</h3>
+      </div>
+      <p class="exo-card-text">{{ .text | markdownify }}</p>
+      <div class="exo-soft-links">
+        {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener"><i class="fab fa-github"></i> Code</a>{{ end }}
+        {{ with .docs }}<a href="{{ . }}" target="_blank" rel="noopener">Docs ↗</a>{{ end }}
+        {{ with .paper }}<a href="{{ . | relLangURL }}">Paper →</a>{{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>

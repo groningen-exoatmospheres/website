@@ -1,0 +1,53 @@
+{{/* Block: exo-team — team members from content/authors/<id>/.
+     content.groups: [{title, user_groups: [..], pin_first: <author id>, style: cards|compact}]
+     Within a group people are sorted by last_name; `pin_first` puts one person first.
+     A person appears only in the first group that matches. */}}
+{{ $c := .wcBlock.content }}
+{{ $people := slice }}
+{{ range where site.Pages "Kind" "term" }}{{ if and .File (eq .Data.Plural "authors") }}{{ $people = $people | append . }}{{ end }}{{ end }}
+{{ $people = sort $people "Params.last_name" }}
+{{ $used := slice }}
+{{ range $c.groups }}
+  {{ $g := . }}
+  {{ $wanted := $g.user_groups | default (slice $g.user_group) }}
+  {{ $members := slice }}{{ $pinned := slice }}
+  {{ range $people }}
+    {{ $p := . }}
+    {{ if and (intersect ($p.Params.user_groups | default slice) $wanted) (not (in $used $p.RelPermalink)) }}
+      {{ if eq (path.Base $p.File.Dir) $g.pin_first }}{{ $pinned = $pinned | append $p }}{{ else }}{{ $members = $members | append $p }}{{ end }}
+      {{ $used = $used | append $p.RelPermalink }}
+    {{ end }}
+  {{ end }}
+  {{ $members = $pinned | append $members }}
+  {{ if $members }}
+  <section class="exo-team-group">
+    {{ with $g.title }}<h2>{{ . }}</h2>{{ end }}
+    {{ if eq $g.style "compact" }}
+      <div class="exo-alumni">
+        {{ range $members }}
+        <a href="{{ .RelPermalink }}">
+          {{ with .Resources.GetMatch "avatar*" }}{{ $a := .Fill "96x96 Center webp" }}<img src="{{ $a.RelPermalink }}" alt="">{{ end }}
+          <span>{{ .Title }} {{ with .Params.role }}<small>· {{ . }}</small>{{ end }}</span>
+        </a>
+        {{ end }}
+      </div>
+    {{ else }}
+      <div class="exo-grid cols-4">
+        {{ range $members }}
+        <div class="exo-card exo-person">
+          <a class="stretched" href="{{ .RelPermalink }}" aria-label="{{ .Title }}"></a>
+          {{ with .Resources.GetMatch "avatar*" }}{{ $a := .Fill "300x300 Center webp" }}<img src="{{ $a.RelPermalink }}" alt="">{{ end }}
+          <h3>{{ .Title }}</h3>
+          <div class="role">{{ .Params.role }}</div>
+          {{ with index (.Params.organizations | default slice) 0 }}<div class="org">{{ .name }}</div>{{ end }}
+          {{ with .Params.bio }}<p class="bio">{{ . | plainify | truncate 120 }}</p>{{ end }}
+          <div class="social">
+            {{ range .Params.social }}<a href="{{ .link }}" {{ if not (hasPrefix .link "mailto") }}target="_blank" rel="noopener"{{ end }} aria-label="{{ .icon }}"><i class="{{ .icon_pack }} {{ if eq .icon_pack "ai" }}ai-{{ else }}fa-{{ end }}{{ .icon }}"></i></a>{{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    {{ end }}
+  </section>
+  {{ end }}
+{{ end }}

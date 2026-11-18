@@ -2,8 +2,8 @@
   "name": "ExoAIM Lab",
   "short_name": "ExoAIM Lab",
   "lang": "en-us",
-  "theme_color": "#bbdefb",
-  "background_color": "#bbdefb",
+  "theme_color": "#2f5fe0",
+  "background_color": "#2f5fe0",
   "icons": [{
     "src": "/media/icon_hu_1773ce057753c53b.png",
     "sizes": "192x192",

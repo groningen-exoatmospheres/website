@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jake Taylor | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/jake-taylor/</link>
-      <atom:link href="http://localhost:55609/author/jake-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/jake-taylor/</link>
+      <atom:link href="http://localhost:56134/author/jake-taylor/index.xml" rel="self" type="application/rss+xml" />
     <description>Jake Taylor</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Jake Taylor</title>
-      <link>http://localhost:55609/author/jake-taylor/</link>
+      <link>http://localhost:56134/author/jake-taylor/</link>
     </image>
     
     <item>
       <title>Original Research by Young Twinkle Students (ORBYTS): ephemeris refinement of transiting exoplanets</title>
-      <link>http://localhost:55609/publication/edwards2021_original/</link>
+      <link>http://localhost:56134/publication/edwards2021_original/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2021_original/</guid>
+      <guid>http://localhost:56134/publication/edwards2021_original/</guid>
       <description></description>
     </item>
     

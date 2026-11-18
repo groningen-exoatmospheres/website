@@ -1,0 +1,34 @@
+{{/* Block: exo-updates — two simple columns: latest news and selected papers.
+     content.news: {title, count, more}  content.papers: {title, count, more}
+     Papers: front matter `featured: true`, falling back to the most recent ones. */}}
+{{ $c := .wcBlock.content }}
+{{ $news := first ($c.news.count | default 3) (where site.RegularPages "Section" "post").ByDate.Reverse }}
+{{ $all := (where site.RegularPages "Section" "publication").ByDate.Reverse }}
+{{ $feat := where $all "Params.featured" true }}
+{{ $papers := first ($c.papers.count | default 4) (cond (gt (len $feat) 0) $feat $all) }}
+<div class="exo-section">
+  <div class="exo-updates">
+    <div>
+      <div class="exo-col-head"><h2>{{ $c.news.title | default "News" }}</h2>{{ with $c.news.more }}<a class="exo-link-more" href="{{ .url | relLangURL }}">{{ .label }}</a>{{ end }}</div>
+      <ul class="exo-list">
+        {{ range $news }}
+        <li><a href="{{ .RelPermalink }}">
+          {{ with partial "exo/img.html" (dict "page" . "size" "160x160") }}<img src="{{ .RelPermalink }}" alt="" loading="lazy">{{ end }}
+          <span><small>{{ .Date.Format "2 Jan 2006" }}</small><strong>{{ .Title }}</strong></span>
+        </a></li>
+        {{ end }}
+      </ul>
+    </div>
+    <div>
+      <div class="exo-col-head"><h2>{{ $c.papers.title | default "Selected papers" }}</h2>{{ with $c.papers.more }}<a class="exo-link-more" href="{{ .url | relLangURL }}">{{ .label }}</a>{{ end }}</div>
+      <ul class="exo-list">
+        {{ range $papers }}
+        <li><a href="{{ .RelPermalink }}">
+          {{ with partial "exo/img.html" (dict "page" . "size" "200x200" "mode" "fit") }}<img class="is-figure" src="{{ .RelPermalink }}" alt="" loading="lazy">{{ end }}
+          <span><small>{{ .Date.Format "2006" }}{{ with .Params.publication }} · {{ . | plainify | truncate 28 }}{{ end }}</small><strong>{{ .Title }}</strong></span>
+        </a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>

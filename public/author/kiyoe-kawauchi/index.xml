@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kiyoe Kawauchi | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/kiyoe-kawauchi/</link>
-      <atom:link href="http://localhost:55609/author/kiyoe-kawauchi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/kiyoe-kawauchi/</link>
+      <atom:link href="http://localhost:56134/author/kiyoe-kawauchi/index.xml" rel="self" type="application/rss+xml" />
     <description>Kiyoe Kawauchi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Kiyoe Kawauchi</title>
-      <link>http://localhost:55609/author/kiyoe-kawauchi/</link>
+      <link>http://localhost:56134/author/kiyoe-kawauchi/</link>
     </image>
     
     <item>
       <title>Low abundances of TiO and VO on the dayside of KELT-9 b: Insights from ground-based photometric observations</title>
-      <link>http://localhost:55609/publication/hayashi2024_kelt9/</link>
+      <link>http://localhost:56134/publication/hayashi2024_kelt9/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/hayashi2024_kelt9/</guid>
+      <guid>http://localhost:56134/publication/hayashi2024_kelt9/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Teachey | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/alex-teachey/</link>
-      <atom:link href="http://localhost:55609/author/alex-teachey/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/alex-teachey/</link>
+      <atom:link href="http://localhost:56134/author/alex-teachey/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Teachey</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Alex Teachey</title>
-      <link>http://localhost:55609/author/alex-teachey/</link>
+      <link>http://localhost:56134/author/alex-teachey/</link>
     </image>
     
     <item>
       <title>A JWST Transit of a Jupiter Analog. II. A Search for Exomoons</title>
-      <link>http://localhost:55609/publication/kipping2026_transit/</link>
+      <link>http://localhost:56134/publication/kipping2026_transit/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/kipping2026_transit/</guid>
+      <guid>http://localhost:56134/publication/kipping2026_transit/</guid>
       <description></description>
     </item>
     

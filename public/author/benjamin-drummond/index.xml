@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Drummond | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/benjamin-drummond/</link>
-      <atom:link href="http://localhost:55609/author/benjamin-drummond/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/benjamin-drummond/</link>
+      <atom:link href="http://localhost:56134/author/benjamin-drummond/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Drummond</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Benjamin Drummond</title>
-      <link>http://localhost:55609/author/benjamin-drummond/</link>
+      <link>http://localhost:56134/author/benjamin-drummond/</link>
     </image>
     
     <item>
       <title>Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model</title>
-      <link>http://localhost:55609/publication/drummond2020_implications/</link>
+      <link>http://localhost:56134/publication/drummond2020_implications/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/drummond2020_implications/</guid>
+      <guid>http://localhost:56134/publication/drummond2020_implications/</guid>
       <description></description>
     </item>
     

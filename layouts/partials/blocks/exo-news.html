@@ -1,0 +1,18 @@
+{{/* Block: exo-news — latest posts as cards. content.count (default 3). */}}
+{{ $c := .wcBlock.content }}
+{{ $items := first ($c.count | default 3) (where site.RegularPages "Section" "post").ByDate.Reverse }}
+<div class="exo-section">
+  {{ partial "exo/section-head.html" $c }}
+  <div class="exo-grid">
+    {{ range $items }}
+    <a class="exo-card" href="{{ .RelPermalink }}">
+      {{ with partial "exo/img.html" (dict "page" . "size" "720x405") }}<div class="exo-card-media"><img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" loading="lazy"></div>{{ end }}
+      <div class="exo-card-body">
+        <div class="exo-card-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></div>
+        <h3 class="exo-card-title">{{ .Title }}</h3>
+        <p class="exo-card-text">{{ .Summary | plainify | truncate 150 }}</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>

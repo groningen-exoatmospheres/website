@@ -1,0 +1,21 @@
+{{/* Block: exo-papers — highlighted publications (front matter `featured: true`),
+     falling back to the most recent ones. content.count (default 4). */}}
+{{ $c := .wcBlock.content }}
+{{ $all := (where site.RegularPages "Section" "publication").ByDate.Reverse }}
+{{ $feat := where $all "Params.featured" true }}
+{{ $items := first ($c.count | default 4) (cond (gt (len $feat) 0) $feat $all) }}
+<div class="exo-section">
+  {{ partial "exo/section-head.html" $c }}
+  <div class="exo-grid cols-4">
+    {{ range $items }}
+    <a class="exo-card" href="{{ .RelPermalink }}">
+      {{ with partial "exo/img.html" (dict "page" . "size" "720x480" "mode" "fit") }}<div class="exo-card-media is-figure"><img src="{{ .RelPermalink }}" alt="" loading="lazy"></div>{{ end }}
+      <div class="exo-card-body">
+        <div class="exo-card-meta"><span>{{ .Date.Format "2006" }}</span>{{ with .Params.publication }}<span>·</span><span>{{ . | plainify | truncate 30 }}</span>{{ end }}</div>
+        <h3 class="exo-card-title" style="font-size:1.02rem">{{ .Title }}</h3>
+        <div class="exo-card-foot">{{ range first 2 .Params.tags }}<span class="exo-chip">{{ . }}</span>{{ end }}</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</div>

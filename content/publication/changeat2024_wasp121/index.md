@@ -37,7 +37,7 @@ tags:
 - Phase-curve
 - Gaseous Planets
 - Atmospheric Retrievals
-featured: false
+featured: true
 
 # links:
 # - name: ""

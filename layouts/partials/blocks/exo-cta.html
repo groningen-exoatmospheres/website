@@ -1,0 +1,17 @@
+{{/* Block: exo-cta — slim call-to-action band, with an optional line of partners. */}}
+{{ $c := .wcBlock.content }}
+<div class="exo-section">
+  <div class="exo-cta">
+    <div>
+      <h2>{{ $c.title }}</h2>
+      {{ with $c.text }}<p>{{ . | markdownify }}</p>{{ end }}
+    </div>
+    <div class="exo-hero-actions">
+      {{ with $c.primary }}<a class="btn-exo" href="{{ .url | relLangURL }}">{{ .label }} <span aria-hidden="true">→</span></a>{{ end }}
+      {{ with $c.secondary }}<a class="btn-exo-ghost" href="{{ .url | relLangURL }}">{{ .label }}</a>{{ end }}
+    </div>
+  </div>
+  {{ with $c.partners }}
+  <p class="exo-partners-line"><span>Working with</span> {{ delimit . " · " }}</p>
+  {{ end }}
+</div>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefano Bellotti | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/stefano-bellotti/</link>
-      <atom:link href="http://localhost:55609/author/stefano-bellotti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/stefano-bellotti/</link>
+      <atom:link href="http://localhost:56134/author/stefano-bellotti/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefano Bellotti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Stefano Bellotti</title>
-      <link>http://localhost:55609/author/stefano-bellotti/</link>
+      <link>http://localhost:56134/author/stefano-bellotti/</link>
     </image>
     
     <item>
       <title>Probing exoplanetary chemistry with Ariel: scientific priorities and observational strategies</title>
-      <link>http://localhost:55609/publication/venot2026_probing/</link>
+      <link>http://localhost:56134/publication/venot2026_probing/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/venot2026_probing/</guid>
+      <guid>http://localhost:56134/publication/venot2026_probing/</guid>
       <description></description>
     </item>
     

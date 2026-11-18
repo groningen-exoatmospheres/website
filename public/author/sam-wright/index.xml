@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam Wright | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/sam-wright/</link>
-      <atom:link href="http://localhost:55609/author/sam-wright/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/sam-wright/</link>
+      <atom:link href="http://localhost:56134/author/sam-wright/index.xml" rel="self" type="application/rss+xml" />
     <description>Sam Wright</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Sam Wright</title>
-      <link>http://localhost:55609/author/sam-wright/</link>
+      <link>http://localhost:56134/author/sam-wright/</link>
     </image>
     
     <item>
       <title>Constraining the atmospheric elements in hot Jupiters with Ariel</title>
-      <link>http://localhost:55609/publication/wang2023_constraining/</link>
+      <link>http://localhost:56134/publication/wang2023_constraining/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/wang2023_constraining/</guid>
+      <guid>http://localhost:56134/publication/wang2023_constraining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARES IV: Probing the Atmospheres of the Two Warm Small Planets HD 106315c and HD 3167c with the HST/WFC3 Camera</title>
-      <link>http://localhost:55609/publication/guilluy2021_ares/</link>
+      <link>http://localhost:56134/publication/guilluy2021_ares/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/guilluy2021_ares/</guid>
+      <guid>http://localhost:56134/publication/guilluy2021_ares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Original Research by Young Twinkle Students (Orbyts): Ephemeris Refinement of Transiting Exoplanets II</title>
-      <link>http://localhost:55609/publication/edwards2020_original/</link>
+      <link>http://localhost:56134/publication/edwards2020_original/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/edwards2020_original/</guid>
+      <guid>http://localhost:56134/publication/edwards2020_original/</guid>
       <description></description>
     </item>
     

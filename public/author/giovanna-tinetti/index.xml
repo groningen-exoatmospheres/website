@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giovanna Tinetti | ExoAIM Lab</title>
-    <link>http://localhost:55609/author/giovanna-tinetti/</link>
-      <atom:link href="http://localhost:55609/author/giovanna-tinetti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56134/author/giovanna-tinetti/</link>
+      <atom:link href="http://localhost:56134/author/giovanna-tinetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Giovanna Tinetti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55609/media/icon_hu_43b18cf0c4b8f482.png</url>
+      <url>http://localhost:56134/media/icon_hu_43b18cf0c4b8f482.png</url>
       <title>Giovanna Tinetti</title>
-      <link>http://localhost:55609/author/giovanna-tinetti/</link>
+      <link>http://localhost:56134/author/giovanna-tinetti/</link>
     </image>
     
     <item>
       <title>Ariel Tier 3 Observations: An Opportunity to Explore both Stellar and Planetary Variability through Broad Wavelength Time-domain Spectroscopy</title>
-      <link>http://localhost:55609/publication/thompson2026_tier/</link>
+      <link>http://localhost:56134/publication/thompson2026_tier/</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/thompson2026_tier/</guid>
+      <guid>http://localhost:56134/publication/thompson2026_tier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the synergetic use of Ariel and JWST for exoplanet atmospheric science</title>
-      <link>http://localhost:55609/publication/changeat2026_synergywebb/</link>
+      <link>http://localhost:56134/publication/changeat2026_synergywebb/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2026_synergywebb/</guid>
+      <guid>http://localhost:56134/publication/changeat2026_synergywebb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YunMa: Enabling Spectral Retrievals of Exoplanetary Clouds</title>
-      <link>http://localhost:55609/publication/ma2023_yunma/</link>
+      <link>http://localhost:56134/publication/ma2023_yunma/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ma2023_yunma/</guid>
+      <guid>http://localhost:56134/publication/ma2023_yunma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting molecules in Ariel low resolution transmission spectra</title>
-      <link>http://localhost:55609/publication/bocchieri2023_detecting/</link>
+      <link>http://localhost:56134/publication/bocchieri2023_detecting/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/bocchieri2023_detecting/</guid>
+      <guid>http://localhost:56134/publication/bocchieri2023_detecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constraining the atmospheric elements in hot Jupiters with Ariel</title>
-      <link>http://localhost:55609/publication/wang2023_constraining/</link>
+      <link>http://localhost:56134/publication/wang2023_constraining/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/wang2023_constraining/</guid>
+      <guid>http://localhost:56134/publication/wang2023_constraining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ariel: Enabling planetary science across light-years</title>
-      <link>http://localhost:55609/publication/tinetti2022_enabling/</link>
+      <link>http://localhost:56134/publication/tinetti2022_enabling/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/tinetti2022_enabling/</guid>
+      <guid>http://localhost:56134/publication/tinetti2022_enabling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Comparison of Chemical Models of Exoplanet Atmospheres Enabled by TauREx 3.1</title>
-      <link>http://localhost:55609/publication/alrefaie2022_comparison/</link>
+      <link>http://localhost:56134/publication/alrefaie2022_comparison/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2022_comparison/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2022_comparison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detectability of Rocky-Vapour atmospheres on super-Earths with Ariel</title>
-      <link>http://localhost:55609/publication/ito2022_detectability/</link>
+      <link>http://localhost:56134/publication/ito2022_detectability/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/ito2022_detectability/</guid>
+      <guid>http://localhost:56134/publication/ito2022_detectability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling atmospheric compositions of K2-18 b with next generation facilities</title>
-      <link>http://localhost:55609/publication/changeat2022_k218/</link>
+      <link>http://localhost:56134/publication/changeat2022_k218/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2022_k218/</guid>
+      <guid>http://localhost:56134/publication/changeat2022_k218/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfnoor: Assessing the Information Content of Ariel&#39;s Low-resolution Spectra with Planetary Population Studies</title>
-      <link>http://localhost:55609/publication/mugnai2021_alfnoor/</link>
+      <link>http://localhost:56134/publication/mugnai2021_alfnoor/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/mugnai2021_alfnoor/</guid>
+      <guid>http://localhost:56134/publication/mugnai2021_alfnoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TauREx 3: A Fast, Dynamic, and Extendable Framework for Retrievals</title>
-      <link>http://localhost:55609/publication/alrefaie2022_taurex/</link>
+      <link>http://localhost:56134/publication/alrefaie2022_taurex/</link>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/alrefaie2022_taurex/</guid>
+      <guid>http://localhost:56134/publication/alrefaie2022_taurex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Exploration of Model Degeneracies with a Unified Phase Curve Retrieval Analysis: The Light and Dark Sides of WASP-43 b</title>
-      <link>http://localhost:55609/publication/changeat2021_wasp43/</link>
+      <link>http://localhost:56134/publication/changeat2021_wasp43/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2021_wasp43/</guid>
+      <guid>http://localhost:56134/publication/changeat2021_wasp43/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of Planetary Mass Uncertainties on Exoplanet Atmospheric Retrievals</title>
-      <link>http://localhost:55609/publication/changeat2020_impact/</link>
+      <link>http://localhost:56134/publication/changeat2020_impact/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2020_impact/</guid>
+      <guid>http://localhost:56134/publication/changeat2020_impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward a More Complex Description of Chemical Profiles in Exoplanet Retrievals: A Two-layer Parameterization</title>
-      <link>http://localhost:55609/publication/changeat2019_more/</link>
+      <link>http://localhost:56134/publication/changeat2019_more/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55609/publication/changeat2019_more/</guid>
+      <guid>http://localhost:56134/publication/changeat2019_more/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,8 @@
+{{/* exo/team-ids.html — dict of author-profile id -> display name (content/authors/<id>/). */}}
+{{- $ids := dict -}}
+{{- range where site.Pages "Kind" "term" -}}
+  {{- if and .File (eq .Data.Plural "authors") -}}
+    {{- $ids = merge $ids (dict (path.Base .File.Dir) .Title) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $ids -}}
